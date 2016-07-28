@@ -1,0 +1,8 @@
+<header>
+<h1><a href="/" title="Reg Tait web design Homepage">Reg Tait <span class="tagline">Hull Web Designer</span></a><span class="menu-toggle"><a href="#" title="Navigation menu" class="js-menu-toggle">[ + Menu]</a></span></h1>
+<nav id="full" class="js-hide">
+<ul id="nav-main" class="clearfix">
+{% for page in site.pages %}{% if page.title %}{% unless page.exclude_from_nav %}<li><a class="page-link {%if page.nav-class %}{{ page.nav-class }}{% endif %}" title="{{ page.title }}" href="{{ page.url | prepend: site.baseurl }}">{% if page.nav-title %}{{ page.nav-title }}{% else %}{{ page.title }}{% endif %}</a></li>{% endunless %}{% endif %}{% endfor %}
+</ul>
+</nav>
+</header>

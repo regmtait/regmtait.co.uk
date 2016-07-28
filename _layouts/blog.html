@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<section class="content maincontent blog">
+
+<h1>{{ page.title }}</h1>
+
+{{page.content}}
+
+<aside>
+<p>Occasional thoughts and ramblings about design and the web.</p>
+</aside>
+
+<div class="article-list">
+{% for post in site.posts %}
+<article>
+<div class="blog-intro">
+<span class="date"><time pubdate>{{ post.date | date: "%d.%m.%Y" }}</time></span>
+</div>
+<h1><a class="post-link" href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">{{ post.title }}</a></h1>
+<p>{% if post.excerpt %}{{ post.excerpt }}{% endif %} [<a class="post-link" href="{{ post.url | prepend: site.baseurl }}" title="Read more: {{ post.title }}">…</a>]</p>
+</article>
+{% endfor %}
+</div>
+
+</section>

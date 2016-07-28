@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body class="{% if page.url == "/" %}homepage{% else %}{% if page.nav-class %}{{ page.nav-class }}{% endif %}{% endif %}">
+
+<div class="wrap">
+{% include header.html %}
+</div>
+
+{{ content }}
+
+<div class="wrap">
+{% include footer.html %}
+</div>
+
+
+</body>
+</html>

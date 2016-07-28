@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<section class="content casestudy">
+
+<article>
+
+<h1>{{ page.title }}</h1>
+<p class="intro">{{ page.excerpt }}</p>
+    
+<ul class="bxslider">
+{% for projectimage in page.projectimages %}
+<li><img src="/images/projects/{{ projectimage.image-file }}" alt="{{ projectimage.image-alt }}"></li>
+{% endfor %}
+</ul>
+
+{{page.content}}
+
+</article>
+
+<aside>
+<h2>Project details</h2>
+<dl>
+{% if page.client %}
+<dt>Client</dt>
+<dd>{{ page.client }}</dd>
+{% endif %}
+
+<dt>Output</dt>
+{% for task in page.tasks %}
+<dd>{{ task }}</dd>{% endfor %}
+
+{% if page.website %}
+<dt>Website</dt>
+<dd><a href="{{ page.project-url }}" title="View the {{ page.title }} website">{{ page.website }}</a></dd>
+{% endif %}
+</dl>
+
+<p class="more"><a title="More projects" href="/projects/"><span class="glyph">&rarrhk;</span> More projects</a></p>
+
+</aside>
+
+</section>

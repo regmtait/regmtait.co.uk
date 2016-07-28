@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<section class="content blog">
+<article>
+<div class="blog-intro">
+<span class="date">{{ page.date | date: "%d.%m.%Y" }}</span>
+</div>
+<div class="blog-content">
+<h1>{{ page.title }}</h1>
+{% if page.excerpt %}<div id="intro"><p>{{ page.excerpt }}</p></div>{% endif %}
+<figure class="page_image">
+{% if page.image %}<img src="/images/blog/{{ page.image }}" alt="{{ page.imagecaption }}">{% endif %}
+{% if page.imagecaption %}<figcaption>{{ page.imagecaption }}</figcaption>{% endif %}
+</figure>
+{{page.content}}
+<p class="more"><a href="/blog/" title="More from the blog"><span class="glyph">&rarrhk;</span> More from the blog</a></p>
+</div> 
+</article>
+</section>

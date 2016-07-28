@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<section class="content">
+
+<h1>{{ page.title }}</h1>
+{{ content }}
+
+<div class="projects">
+{% assign items = site.projects | sort: 'date' %}
+{% for project in site.projects reversed %}
+
+<article>
+<a title="{{ project.title }} project details" href="{{ project.url }}">
+{% for projectimage in project.projectimages | limit:1 %}<img src="/images/projects/{{ projectimage.image-file }}" alt="{{ projectimage.image-alt }}">{% endfor %}
+<div class="description">
+<h2>{% if project.alttitle %}{{ project.alttitle }}{% else %}{{ project.title }}{% endif %}</h2>
+{% if project.excerpt %}<p>{{ project.excerpt }}</p>{% endif %}
+</div>
+</a>
+</article>
+{% endfor %}
+
+</div>
+
+</section>

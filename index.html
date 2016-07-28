@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+<section class="content home-content">
+
+<img src="/theme/still-life.png" class="homepage-image" alt="Fast, responsive web design and freelance illustration in Hull" title="Drawing stuff">
+
+<article class="home-maincontent">
+<h1><span class="welcome">Hello. </span>I’m a designer based in Hull and specialise in the web. I <s>like</s> love the web.</h1></h1>
+<p>{% include siteintro.html %}</p>
+</article>
+
+<!-- portfolio taster -->
+
+<div class="portfolio">
+<p><a href="/projects/" title="Latest web design and illustration projects">Selected projects&hellip;</a></p>
+<ul>
+{% assign items = site.projects | sort: 'date' %}{% for project in site.projects reversed | limit:100 %}{% if project.categories contains 'featured' %}
+<li><a title="{{ project.title }}" href="{{ project.url }}">
+<img src="/images/projects/{{ project.coverimage }}" alt="{{ project.excerpt }}"/>
+</a></li>{% endif %}{% endfor %}
+
+</ul>
+</div>
+
+</section>
+
+<!-- blog and twitter -->
+
+<section class="babble">
+
+<article class="blog">
+{% for post in site.posts limit:1 %}
+<div class="blog-intro">
+Blog entry <span class="date">{{ post.date | date: "%d.%m.%Y" }}</span>
+</div>
+<h1><a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">{{ post.title }}</a></h1>
+<p>{{post.excerpt | truncate: 500 }} [<a href="{{ post.url | prepend: site.baseurl }}" title="Read more: {{ post.title }}">…</a>]</p>
+{% endfor %}
+</article>
+
+<div class="twitter">
+<h2><a href="https://twitter.com/regmtait" title="Reg Tait, web designer and illustrator on Twitter">On Twitter&hellip;</a></h2>
+{% include twitter.html %}
+</div>
+
+</section>
