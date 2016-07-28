@@ -1,6 +1,6 @@
 # regmtait.co.uk
 
-My website. Served up at [regmtait.co.uk](http://regmtait.co.uk) and hosted on GitHub.
+My website, served up at [regmtait.co.uk](http://regmtait.co.uk)
 
 # Overview
 
