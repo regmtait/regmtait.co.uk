@@ -19,7 +19,6 @@ Feel free to give me a ring on 07873 108676, or fire an email to me (address bel
 
 You might find these <a href="#" class="extra">handy questions</a> useful, to get the ball rolling.
 
-
 <div id="extra" class="extratext">
 
 <p>Are we creating something brand new, or updating an existing piece of work?</p>
