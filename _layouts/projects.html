@@ -13,7 +13,7 @@ layout: default
 
 <article>
 <a title="{{ project.title }} project details" href="{{ project.url }}">
-{% for projectimage in project.projectimages | limit:1 %}<img src="/images/projects/{{ projectimage.image-file }}" alt="{{ projectimage.image-alt }}">{% endfor %}
+{% for projectimage in project.projectimages limit:1 %}<img src="/images/projects/{{ projectimage.image-file }}" alt="{{ projectimage.image-alt }}">{% endfor %}
 <div class="description">
 <h2>{% if project.alttitle %}{{ project.alttitle }}{% else %}{{ project.title }}{% endif %}</h2>
 {% if project.excerpt %}<p>{{ project.excerpt }}</p>{% endif %}
