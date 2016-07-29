@@ -4,7 +4,7 @@ title: Get in touch
 permalink: /contact/
 nav-title: Contact
 nav-class: contact
-description: Reg Tait is a freelance web designer in Hull with 10 years of experience with a leading marketing agency in East Yorkshire.
+description: Contact a freelance web designer in Hull with 10 years of experience with a leading marketing agency in East Yorkshire.
 meta-title: Find a freelance web designer in Hull
 keywords: freelance web designer, web developer, illustrator, marketing agency, Hull
 bannerpic: none.png

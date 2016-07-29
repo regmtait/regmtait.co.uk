@@ -4,7 +4,7 @@ title: Selected projects
 permalink: /projects/
 nav-title: Projects
 nav-class: projects
-description: Full bespoke web development and website design projects from Reg Tait, who offers services to companies, agencies and individuals.
+description: Web development and website design projects from Reg Tait, who offers services to companies, agencies and individuals.
 meta-title: Web and design projects
 keywords: web design, graphic design, web development
 bannerpic: 
