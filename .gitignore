@@ -3,3 +3,5 @@ _site
 .jekyll-metadata
 _glynn.yml
 _drafts
+.save*
+.save
