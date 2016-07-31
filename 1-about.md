@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hand crafted web design
+title: Hand crafted™ web design
 permalink: /about/
 nav-title: About
 nav-class: about
@@ -24,7 +24,7 @@ I aim to be flexible in my approach and strive to design and build according to 
 
 For the web, I’m keen to work closely with my clients at every stage of the design process, getting the concepts just right before fine-tuning the design. I like to move from ‘flat’ visuals to a working prototype as early as possible, to get a real feel of how users will interact with a design.
 
-I’ll help with setting up website hosting and domain registration, and all that geeky IT stuff.
+I can help with setting up website hosting and domain registration, and all that geeky IT stuff.
 
 ## Who I work with
 
