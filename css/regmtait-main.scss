@@ -12,6 +12,8 @@ $theme-pink: #df2854;
 $border-colour: #cacaca;
 $html-bg: #a7a7a7;
 $bg: #efefef;
+$pre-bg: #0c1e12;
+$code: #7dffa8;
 $text-colour: #000;
 $text-lighter: #9b9b9b;
 $link-body: #666;
@@ -67,13 +69,16 @@ section.content p a:hover {color: $theme1;}
 
 
 pre {
-	background: darken($bg, 5%);
+	background:  $pre-bg;
 	padding: 1em;
+	border-radius: 4px;
+	white-space: pre-wrap;
 }
 
 code {	
-	font-size: 80%;
+	font-size: 65%;
 	line-height: 1;
+	color: $code;
 }
 
 // ------------------- main wrappers -------------------
