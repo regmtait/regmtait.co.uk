@@ -62,7 +62,7 @@ For my homepage tweet, I used [Jason Mayes' Javascript only Twitter fetcher](htt
 
 I put my finished source files on [GitHub], and set up [Glynn] to FTP the build to my old host. The next morning though, I woke up to the news that [Netlify] are offering free web hosting—with SSH!—on their [Netlify Pages plan]. This directly competes with [GitHub Pages].
 
-So, in just a few clicks my site was running on Netify, via GitHub. I'll do anything for a green padlock, and I got one for free.
+So, in just a few clicks my site was running on Netify, via GitHub. I'll do anything for a green padlock, and got one for free.
 
 I think Netlify are doing a wonderful thing for the web community by removing the barrier to a safe, open and secure web, available for all.
 
