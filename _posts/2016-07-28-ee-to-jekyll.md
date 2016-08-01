@@ -17,11 +17,10 @@ excerpt: I've taken the time to move this site from an old ExpressionEngine (ee)
 
 Here's a checklist of stuff I wanted to keep from my CMS:
 
-* Custom metadata for SEO reasons, if that's still a thing
-* Homepage projects (selected by category)
 * All original markup
 * Nice permalinks
-* Latest twitter on the home page
+* Custom metadata for SEO reasons, if that's still a thing
+* Selected projects and my latest tweet on the home page
 
 ## Jekyll Collections
 
