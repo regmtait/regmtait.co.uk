@@ -9,11 +9,9 @@ description: Porting a site from ExpressionEngine to Jekyll.
 image:
 imagecaption:
 
-excerpt: I've taken the time to move this site from an old ExpressionEngine (ee) CMS install to Jekyll, my favourite static site generator.
+excerpt: I've taken the time to move this site from an old ExpressionEngine (ee) CMS install to Jekyll, my favourite static site generator. The challenge was to see if I could replicate my previous CMS site with Jekyll without too much fudging. It turns out that it's possible.
 
 ---
-
-The challenge was to see if I could replicate my previous CMS site with Jekyll without too much fudging. It turns out that it's possible.
 
 ## Checklist
 
