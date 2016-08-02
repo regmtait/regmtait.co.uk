@@ -6,8 +6,8 @@ nav-class: blog
 categories: cms jekyll
 keywords: "Jekyll, static"
 description: Porting a site from ExpressionEngine to Jekyll.
-image:
-imagecaption:
+image: how-ssl-works.png
+imagecaption: This is exactly how SSL works with a Jekyll site on Netlify
 
 excerpt: I've taken the time to move this site from an old ExpressionEngine (ee) CMS install to Jekyll, my favourite static site generator. The challenge was to see if I could replicate my previous CMS site with Jekyll without too much fudging. It turns out that it's possible.
 
