@@ -33,10 +33,10 @@ projectimages:
   image-alt: Responsive website for handheld, mobile and tablets
 
 website:
-- tega.co.uk
+- 
 
 project-url:
-- http://tega.co.uk
+- 
 
 ---
 
@@ -49,4 +49,3 @@ The next stage was the web layout. The challenge was to develop a tight yet flui
 At the backend, I built the site a custom CMS using [ExpressionEngine](https://ellislab.com/expressionengine). I strived to make it easy for Tega to log in and update every piece of content.
 
 Finally, I initiated some basic SEO keyword research, working it into the content and meta data to give our favourite search engine a helping hand.
-
