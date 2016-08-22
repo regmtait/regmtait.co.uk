@@ -5,7 +5,7 @@ email: regmtait@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Reg Tait is a freelance web designer and developer based in Hull, East Yorkshire, who provides bespoke websites with content management systems alongside illustration and other one-man design agency services. Hand-crafted quality. Pure class.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://regmtait.co.uk"
+url: "https://www.regmtait.co.uk"
 twitter_username: regmtait
 
 # Build settings
