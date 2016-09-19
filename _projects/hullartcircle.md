@@ -13,7 +13,7 @@ excerpt: Tiny, responsive website for long-running art group in Hull
 client: The Hull Art Circle
 coverimage: hull-art-circle-web-design.jpg
 website: www.hullartcircle.co.uk
-project-url: http://hullartcircle.co.uk
+project-url: https://www.hullartcircle.co.uk
 
 tasks:
 - Design
