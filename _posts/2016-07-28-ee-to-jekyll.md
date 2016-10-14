@@ -9,7 +9,7 @@ description: Porting a site from ExpressionEngine to Jekyll.
 image: how-ssl-works.png
 imagecaption: This is exactly how SSL works with a Jekyll site on Netlify
 
-excerpt: I've taken the time to move this site from an old ExpressionEngine (ee) CMS install to Jekyll, my favourite static site generator. The challenge was to see if I could replicate my previous CMS site with Jekyll without too much fudging. It turns out that it's possible.
+excerpt: I've taken the time to move this site from an old ExpressionEngine (ee) CMS install to Jekyll, my favourite static site generator. The challenge was to replicate my CMS site without too much fudging. It turned out to be really straightforward.
 
 ---
 
@@ -54,7 +54,7 @@ To compare, here's my old ExpressionEngine tags, handled through the Pixel & Ton
 </ul>
 ```
 
-It's a trivial example (and who loves carousels in 2016?), but shows that Jekyll can replace CMS custom fields, right out the box.
+So it's a trivial example (and who loves carousels in 2016?), but shows that Jekyll can replace CMS custom fields, right out the box.
 
 For my homepage tweet, I used [Jason Mayes' Javascript only Twitter fetcher](http://www.jasonmayes.com/projects/twitterApi/).
 
