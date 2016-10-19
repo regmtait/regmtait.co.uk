@@ -23,6 +23,8 @@ Just a list of some favourite things, people, and places on the web.
 * [Web Design is 95% Typography](https://ia.net/know-how/the-web-is-all-about-typography-period, 'ai.net')
 * [This is a web page](https://justinjackson.ca/words.html 'justinjackson.ca')
 * [Why I love user stories](http://www.usabilitycounts.com/2013/10/11/why-i-love-user-stories/)
+* [9 Reasons Your Site Should Be Static](https://www.netlify.com/blog/2016/05/18/9-reasons-your-site-should-be-static/)
+* [Multichannel Text Processing](https://ia.net/know-how/multichannel-text-processing)
 
 ## Publishers
 
@@ -44,6 +46,7 @@ Just a list of some favourite things, people, and places on the web.
 ## Font Foundries
 
 * [Colophon Foundry](http://www.colophon-foundry.org/)
+* [Lineto](https://lineto.com/)
 
 ## Artists and illustrators
 
@@ -69,7 +72,7 @@ Just a list of some favourite things, people, and places on the web.
 
 * [Two Times Elliot](http://2xelliott.co.uk/)
 * [Dan Eden](https://daneden.me/2016/08/04/the-weird-wide-web/)
-* Aaron Draplin()
+* [Aaron Draplin](http://ddcbook.com/)
 * [Chris Ferdinandi](https://gomakethings.com/consulting/)
 * [Dan Mall](http://danielmall.com/articles/the-post-psd-era/)
 * [Sam Mearns](http://sammearns.co.uk/)
@@ -85,4 +88,5 @@ Just a list of some favourite things, people, and places on the web.
 ## Fun
 
 [Swissted](http://www.swissted.com/)
+[Brogue online](http://brogue.roguelikelike.com/)
 
