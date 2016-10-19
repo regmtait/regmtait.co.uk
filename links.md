@@ -1,5 +1,5 @@
 ---
-layout: links
+layout: page
 title: Links
 permalink: /links.html
 nav-title: links
@@ -87,6 +87,6 @@ Just a list of some favourite things, people, and places on the web.
 
 ## Fun
 
-[Swissted](http://www.swissted.com/)
-[Brogue online](http://brogue.roguelikelike.com/)
+* [Swissted](http://www.swissted.com/)
+* [Brogue online](http://brogue.roguelikelike.com/)
 
