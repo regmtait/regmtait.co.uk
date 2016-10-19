@@ -6,7 +6,7 @@ nav-title: About
 nav-class: about
 description: Reg Tait is a freelance designer in Hull with 10 years of experience in web development.
 meta-title: Freelance web designer and web developer for responsive websites
-keywords: freelance web designer, web developer, illustrator, marketing agency, Hull
+keywords: freelance web designer, web developer, illustrator, marketing agency, Hull, agency, firm, shop, studio, practice
 image: 
 imagecaption:
 
