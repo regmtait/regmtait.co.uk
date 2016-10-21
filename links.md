@@ -26,6 +26,8 @@ Just a list of some favourite <a href="#writings">writings</a>, <a href="#publis
 * [9 Reasons Your Site Should Be Static](https://www.netlify.com/blog/2016/05/18/9-reasons-your-site-should-be-static/)
 * [Multichannel Text Processing](https://ia.net/know-how/multichannel-text-processing)
 * [Raiders of the Lost Web](http://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/ 'Adrienne LaFrance')
+* [UX is not UI](http://www.helloerik.com/ux-is-not-ui)
+* [New Trust Networks](http://rachelbotsman.com/work/#writing 'Rachel Botsman')
 
 ## Publishers
 
@@ -34,7 +36,9 @@ Just a list of some favourite <a href="#writings">writings</a>, <a href="#publis
 * [Laurence King Publishers](www.laurenceking.com)
 * [Tiny Pencil](http://shop.tinypencil.com/)
 * [Gestalten](http://shop.gestalten.com/)
-
+* [Draw Down books](draw-down.com)
+* [Risotto Studio](https://www.risottostudio.com/)
+* [Two Press](http://two-press.co.uk/)
 
 ## Design books
 
@@ -69,6 +73,7 @@ Just a list of some favourite <a href="#writings">writings</a>, <a href="#publis
 * [Wil Freeborn](http://www.wilfreeborn.co.uk/)
 * [Freekhand](https://www.flickr.com/photos/mherranz/)
 * [Nina Johansson](http://www.ninajohansson.se/)
+* [Bao Pham](https://www.instagram.com/baotpham/)
 
 ## Designers
 
@@ -86,10 +91,12 @@ Just a list of some favourite <a href="#writings">writings</a>, <a href="#publis
 * [Muir McNeil](http://www.muirmcneil.com/)
 * [SkullCat](http://mrmrs.io/writing/)
 * [Mark Bloom](http://www.mashcreative.co.uk/)
+* [Yesenia Perez-Cruz](http://www.yeseniaperezcruz.com/)
 
 ## Tools
 
 * [SVG optimisation](http://petercollingridge.appspot.com/ 'Peter Colleridge')
+* [HTML5 Accessibility](http://html5accessibility.com/)
 
 ## Fun
 
