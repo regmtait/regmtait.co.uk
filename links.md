@@ -5,7 +5,7 @@ permalink: /links.html
 nav-title: links
 nav-class: links
 description: A list of useful links
-meta-title: links
+meta-title: A list of handy links
 keywords: links
 exclude_from_nav: true
 
