@@ -95,6 +95,10 @@ code {
 	position: relative;
 }
 
+blockquote {
+	margin-left: 1em;
+}
+
 // ------------------- main wrappers -------------------
 
 html, button, select, textarea {
@@ -302,6 +306,17 @@ section.content h1 {
 
 img.content-image {
 	z-index: 5;
+}
+
+@media screen and (min-width: 480px) {
+	.two-col {
+	-webkit-column-count: 2;
+	-webkit-column-gap: 1.5rem;
+	 -moz-column-count: 2;
+    -moz-column-gap: 1.5rem;
+	column-count: 2;
+	column-gap: 1.5rem;
+	}
 }
 
 // ------------------- nav -------------------
@@ -763,6 +778,10 @@ section.general-content article, section.casestudy article, div.article-list {
 	float: left;
 	clear: none;
 }	
+
+section.links-content article {
+	width: 100%;
+}
 
 section.casestudy article p.intro:after {
 	content: ".";
