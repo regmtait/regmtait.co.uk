@@ -28,7 +28,6 @@ Just a list of some favourite <a href="#writings">writings</a>, <a href="#publis
 * [Raiders of the Lost Web](http://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/ 'Adrienne LaFrance')
 * [UX is not UI](http://www.helloerik.com/ux-is-not-ui)
 * [New Trust Networks](http://rachelbotsman.com/work/#writing 'Rachel Botsman')
-* [That’s not how the internet works](http://ben.balter.com/2013/11/21/thats-not-how-the-internet-works/ 'Ben Balter')
 
 ## Publishers
 
