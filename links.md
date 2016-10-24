@@ -30,6 +30,7 @@ Just a list of some favourite <a href="#writings">writings</a>, <a href="#publis
 * [New Trust Networks](http://rachelbotsman.com/work/#writing 'Rachel Botsman')
 * [That’s not how the internet works](http://ben.balter.com/2013/11/21/thats-not-how-the-internet-works/ 'Ben Balter')
 * [The boring front-end developer](http://adamsilver.io/articles/the-boring-front-end-developer/ 'Adam Silver')
+* [The Website Obesity Crisis](http://idlewords.com/talks/website_obesity.htm 'Maciej Cegłowski')
 
 ## Publishers
 
