@@ -50,7 +50,7 @@ Just a list of some favourite <a href="#writings">writings</a>, <a href="#publis
 * [The Elements of Typographic Style](https://www.amazon.co.uk/Elements-Typographic-Style-Version-Anniversary/dp/0881792128/ref=sr_1_1?s=books&ie=UTF8&qid=1476712250&sr=1-1), Robert Bringhurst
 * [Pretty Much Everything](http://ddcbook.com/), Aaron Draplin, DDC
 
-# Design blogs
+## Design blogs
 
 * [It's Nice That](http://www.itsnicethat.com/)
 * [Dezeen](http://www.dezeen.com/)
