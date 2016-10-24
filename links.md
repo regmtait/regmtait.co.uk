@@ -40,6 +40,7 @@ Just a list of some favourite <a href="#writings">writings</a>, <a href="#publis
 * [Draw Down books](draw-down.com)
 * [Risotto Studio](https://www.risottostudio.com/)
 * [Two Press](http://two-press.co.uk/)
+* [Gratuitous Type](http://gratuitoustype.com)
 
 ## Design books
 
@@ -48,6 +49,11 @@ Just a list of some favourite <a href="#writings">writings</a>, <a href="#publis
 * [White](https://www.amazon.co.uk/gp/product/3037781831/ref=pd_sbs_14_img_0?ie=UTF8&psc=1&refRID=WKEHM6P14MNRXAMKYQNH), Kenya Hara
 * [The Elements of Typographic Style](https://www.amazon.co.uk/Elements-Typographic-Style-Version-Anniversary/dp/0881792128/ref=sr_1_1?s=books&ie=UTF8&qid=1476712250&sr=1-1), Robert Bringhurst
 * [Pretty Much Everything](http://ddcbook.com/), Aaron Draplin, DDC
+
+# Design blogs
+
+* [It's Nice That](http://www.itsnicethat.com/)
+* [Dezeen](http://www.dezeen.com/)
 
 ## Fonts foundries & typography
 
