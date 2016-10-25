@@ -18,7 +18,6 @@ Just a list of some favourite <a href="#writings">writings</a>, <a href="#publis
 * [The Web's Grain](http://www.frankchimero.com/writing/the-webs-grain 'Frank Chimero')
 * [In defence of the deck](http://abovethecrowd.com/2015/07/07/in-defense-of-the-deck/)
 * [Forget Passion, follow Process](https://signalvnoise.com/posts/2904-forget-passion-focus-on-process '37 Signals')
-* [I’m Done Pretending SF Tech Is Visionary](https://medium.com/startup-grind/im-done-pretending-sf-tech-is-visionary-9d0e91bfacfb#.mgo5s7c8b)
 * [Why Caroursels destroy your conversion rate](http://torspark.com/why-carousels-destroy-your-conversion-rate/ 'Torspark.com')
 * [Web Design is 95% Typography](https://ia.net/know-how/the-web-is-all-about-typography-period 'ai.net')
 * [This is a web page](https://justinjackson.ca/words.html 'justinjackson.ca')
