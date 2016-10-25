@@ -72,6 +72,7 @@ exclude_from_nav: true
 
 * Let bank know I'm going
 * Check hotel bookings
+* Haircut
 * Gifts for hosts?
 * Prep phone — make room for photos
 * Test cash machine on arrival
