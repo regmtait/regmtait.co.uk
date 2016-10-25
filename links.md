@@ -62,6 +62,7 @@ Just a list of some favourite <a href="#writings">writings</a>, <a href="#publis
 * [Colophon Foundry](http://www.colophon-foundry.org/)
 * [Lineto](https://lineto.com/)
 * [Typewolf](https://www.typewolf.com)
+* [Grilli Type](https://www.grillitype.com/)
 
 ## Artists & illustrators
 
