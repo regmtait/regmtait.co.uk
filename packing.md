@@ -27,6 +27,8 @@ exclude_from_nav: true
 * Photocopy of passport
 * Take pic of passport on iPhone
 * Instant coffee ☕️
+* Container for loose change
+* Stuff to read
 
 ## Tourist stuff
 
@@ -47,6 +49,7 @@ exclude_from_nav: true
 ## Health care
 
 * Lemsip-style paracetamol
+* Tiny first aid kit
 * Toothbrush + charger
 * Toiletries
 * Sun block
@@ -58,6 +61,7 @@ exclude_from_nav: true
 * Smartish clothes for cities
 * Sunglasses
 * Swimming shorts
+* Woven supermarket bag (for laundry)
 
 ## For the flight
 
