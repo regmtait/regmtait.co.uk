@@ -42,6 +42,7 @@ Just a list of some favourite <a href="#writings">writings</a>, <a href="#publis
 * [Risotto Studio](https://www.risottostudio.com/)
 * [Two Press](http://two-press.co.uk/)
 * [Gratuitous Type](http://gratuitoustype.com)
+* [viction:ary](http://victionary.com/)
 
 ## Design books
 
