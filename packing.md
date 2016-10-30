@@ -28,6 +28,8 @@ exclude_from_nav: true
 * Take pic of passport on iPhone
 * Instant coffee ☕️
 * Container for loose change
+* Small torch
+* Swiss Army pocket knife
 * Stuff to read
 
 ## Tourist stuff
