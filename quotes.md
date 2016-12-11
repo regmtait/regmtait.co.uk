@@ -19,6 +19,9 @@ Just a list of quotes that I like.
 > What are Japan’s resources? I’m particularly thinking about traditional aesthetics. I’ve identified four keywords related to this: sensai (delicateness), chimitsu (meticulousness), teinei (thoroughness or attention to detail) and kanketsu (simplicity).
 <br><cite>—[Kenya Hara](http://www.japantimes.co.jp/life/2014/01/04/general/value-judgments/#.V7Dpi44lCxc 'Kenya Hara interview, Japan Times')</cite>
 
+> The future is not where everyone looks for it, “there,” right after the present. It’s not an integral number in a line: 9, 10, 11…It’s somewhere like 6.8 or 7.3. The new design scene nestled in ordinary life will be created by the intellect that perceives the unlimited numbers between two successive integers.
+> <br><cite>—Kenya Hara, Designing Design</cite>
+
 > Waste no more time arguing what a good man should be. Be one.
 <br><cite>—Marcus Aurelius</cite>
 
