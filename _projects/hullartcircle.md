@@ -38,7 +38,7 @@ The photography was done by [Trish Boulton from Facet Photography]. She did a wo
 
 ## Tech notes
 
-The site is build statically with [Jekyll]. Like others static site generators, Jekyll has many features associated with CMSs (layout templates, lists of entries, conditional…) but without the database, tedious editors, and long-winded set up. It’s a refreshing approach that allow to focus on the design and content, and to turn this around quickly.
+The site is build statically with [Jekyll]. Like others static site generators, Jekyll has many features associated with CMSs (layout templates, lists of entries, conditionals…) but without the database, tedious editors, and long-winded set up. It’s a refreshing approach that allow to focus on the design and content, and to turn this around quickly.
 
 The output is also [pretty speedy]. I challenged myself to optimise for super-fast performance. This involved rendering the compressed styles on the page, using the new [srcset] attribute for image sets, and loading a single font file. You can see the results on Google PageSpeed Insights. Could be even better though.
 
