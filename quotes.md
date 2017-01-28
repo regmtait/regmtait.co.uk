@@ -25,5 +25,8 @@ Just a list of quotes that I like.
 > Waste no more time arguing what a good man should be. Be one.
 <br><cite>—Marcus Aurelius</cite>
 
+> The successful warrior is the average man, with laser-like focus.
+<br><cite>—Bruce Lee</cite>
+
 > Your job as a creator is to engineer simplicity in an otherwise complex system, to leverage technology to reduce the cognitive burden of accomplishing whatever task your user is trying to accomplish… Software should be hard to build and easy to use, not the other way around.
 <br><cite>—[Ben Balter](http://ben.balter.com/2016/08/22/ten-ways-to-make-a-product-great/ 'Ten ways to make a product great, Ben Balter')</cite>
