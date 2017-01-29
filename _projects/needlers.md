@@ -37,7 +37,7 @@ projectimages:
 
 Needlers UK needed a set of illustrations for a brand new project, so the team got in touch. This was a fun opportunity to focus on illustration as part of a greater project.
 
-I worked with Needlers to determine a suitable illustration style - and one that could be render up efficiently for a relatively large number of illustrations.
+I worked with Needlers to determine a suitable illustration style—and one that could be rendered up efficiently for a relatively large number of illustrations.
 
 I sketched out each one in pencil for two reasons: to confirm them with the client, and to provide a solid foundation for tracing in vector graphics software.
 
