@@ -23,6 +23,16 @@ $theme1: $theme-pink;
 
 // ------------------- basic typography ------------------- 
 
+ @font-face {
+    font-family: Maison;
+    src: url(fonts/MaisonNeueWEB-Medium.woff);
+}
+
+ @font-face {
+    font-family: MaisonBold;
+    src: url(fonts/MaisonNeueWEB-Bold.woff);
+}
+
 a, a:visited {
 	color: $text-colour;
 	transition:color 0.2s;
@@ -37,6 +47,9 @@ h1 {
 	margin: 0 0 1.5rem 0; padding: 0;
 	font-size: 1rem;
 	font-weight: $font-bold;
+	s {
+		font-family: Maison;
+	}
 }
 
 h2 {
@@ -106,16 +119,6 @@ html, button, select, textarea {
 	font-size: 16px;
 	line-height: 1.5rem;
 	line-height: 1.4rem;
-}
-
- @font-face {
-    font-family: Maison;
-    src: url(fonts/MaisonNeueWEB-Medium.woff);
-}
-
- @font-face {
-    font-family: MaisonBold;
-    src: url(fonts/MaisonNeueWEB-Bold.woff);
 }
 
 html {
@@ -256,7 +259,6 @@ section.blog article h2, section.general-content article h2, section.casestudy a
 	margin-bottom: 2rem;
 	margin-top: 2.5rem;
 	margin-bottom: 1.5rem;
-	font-weight: bold;
 }
 
 section.content div.article-list article h1 {
@@ -639,7 +641,6 @@ h1 span.menu-toggle a:hover {color:$theme1;}
 	}
 	
 	header h1 {
-		font-weight: $font-bold;
 		font-size: 1.5rem;
 		line-height: 2rem;
 	}
