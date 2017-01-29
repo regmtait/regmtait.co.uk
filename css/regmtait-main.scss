@@ -108,10 +108,21 @@ html, button, select, textarea {
 	line-height: 1.4rem;
 }
 
+ @font-face {
+    font-family: Maison;
+    src: url(fonts/MaisonNeueWEB-Medium.woff);
+}
+
+ @font-face {
+    font-family: MaisonBold;
+    src: url(fonts/MaisonNeueWEB-Bold.woff);
+}
+
 html {
 	border: 1rem solid white;
 	background-color: $html-bg;
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	//font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	font-family: 'Maison', san-serif;
 }
 
 body {
@@ -119,6 +130,12 @@ body {
 	margin: 0;
 	padding: 2rem;
 	overflow-x: hidden;
+}
+
+h1, h2, h3, h4 {
+	//font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	font-weight: normal;
+	font-family: 'MaisonBold', san-serif;
 }
 
 section.content, section.babble, div.wrap {
