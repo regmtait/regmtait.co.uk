@@ -21,12 +21,14 @@ tasks:
 projectimages:
 - image-file: website-illustration-sketches-closeup.jpg
   image-alt: Illustration for fast optimised websites in Yorkshire
+- image-file: illos-live.png
+  image-alt: Vector illustrations on live website
+- image-file: website-vector-illustration.png
+  image-alt: Vector website illustration
 - image-file: vector-illustration-for-web.png
   image-alt: Vector drawings by Hull illustrator
 - image-file: illos-couple.png
   image-alt: Vector illustration of a couple around a laptop
-- image-file: website-vector-illustration.png
-  image-alt: Vector website illustration
 - image-file: professional-illustration-for-websites.jpg
   image-alt: Professional illustration for websites
 
