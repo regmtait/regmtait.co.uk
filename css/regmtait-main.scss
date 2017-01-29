@@ -7,7 +7,7 @@
 // /Users/Reg/Dropbox/WORK/Reg Tait/regmtait website/WEBDEV/css updates plus sass
 
 $font-stack-mono: Andale Mono,AndaleMono,monospace;
-$font-bold: 600;
+$font-bold: normal;
 $theme-pink: #df2854;
 $border-colour: #cacaca;
 $html-bg: #a7a7a7;
@@ -161,6 +161,7 @@ header h1 span {
 	color: $text-lighter;
 	padding-left: 1en;
 	font-weight: normal;
+	font-family: 'Maison';
 }
 
 header h1 span.tagline:before {
@@ -450,7 +451,7 @@ article div.blog-intro span.date:after {content: "]";}
 	div.projects div.description h2 {
 		margin-bottom: 0.5rem;
 		margin-top: 0.5rem;
-		font-weight: 600;
+		font-weight: $font-bold;
 	}
 	
 	div.projects div.description p {
