@@ -4,7 +4,7 @@ title: Needlers Workwear
 permalink: projects/needlers/
 date: 2015-02-25 00:00:00 +0000
 nav-class: projects
-categories: featured illustration
+categories: illustration
 description: Example of vector illustration work by Hull-based designer and illustrator, with hand drawn sketches.
 meta-title: Needlers vector illustration for website
 keywords: freelance web designer, web developer, illustrator, marketing agency, Hull
