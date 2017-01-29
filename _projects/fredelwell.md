@@ -7,7 +7,7 @@ date: 2014-10-02 00:00:00 +0000
 keywords: Book launch, product launch, Fred Elwell, book design, static site, SSG, static site generator
 description: Responsive modern static website for a book launch in Beverley by a Hull web developer.
 meta-title: Fred Elwell responsive static web design for book launch
-excerpt: Vector illustrations for Hull's leading workwear supplier
+excerpt: Responsive website for Fred Elwell book launch
 
 client:
 - Premiere Books
@@ -18,13 +18,13 @@ tasks:
 - SEO
 
 coverimage:
-- static-responsive-website.jpg
+- elwell-book-and-tablet.jpg
 
 projectimages:
-- image-file: static-responsive-website.jpg
-  image-alt: Static responsive website optimised for iPad from Hull based web designer
-- image-file: static-website-product-launch.jpg
+- image-file: elwell-book-and-tablet.jpg
   image-alt: Simple, static website for Fred Elwell book launch in Beverley, East Yorkshire
+- image-file: elwell-website.jpg
+  image-alt: Static responsive website optimised for iPad from Hull based web designer
 
 website:
 - fredelwell.org
