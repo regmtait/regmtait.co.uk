@@ -41,7 +41,7 @@ Cloud2 make award-winning <a href="#" class="extra">Digital Transformation</a> p
 
 ### User interface design 
 
-I helped improve the user interface of corporate intranets and business intelligence portals with crisp and modern design, making it simpler to use and easier to maintain. As a designer, I aimed to bring a user-centric perspective.
+I helped improve the user interface of intranets and <abbr title="Business Intelligence">BI</abbr> portals with crisp and modern design, making them simpler to use and easier to maintain. As a designer, I aimed to bring a user-centric perspective.
 
 As part of intranet 'branding' for individual customers, I created a simple SASS-based css framework to make re-styling fast, accurate and repeatable.
 
