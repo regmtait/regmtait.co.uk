@@ -49,7 +49,7 @@ Challenges along the way included working with legacy code and browsers, and fam
 
 ### Marketing ephemera
 
-I created promotional posters and pull-ups, web pages, and email marketing templates. I also helped modernize the brand assets, with a brighter palette and punchy illustrations that match the bold style with consistency.
+I created promotional posters and pull-ups, web pages, and email marketing templates. I also modernized the brand assets, with a brighter palette and punchy illustrations that match the bold style with consistency.
 
 <div id="extra" class="extratext">
 
