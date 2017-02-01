@@ -39,7 +39,7 @@ projectimages:
 
 Cloud2 make award-winning <a href="#" class="extra">Digital Transformation</a> products and services for enterprise and NHS customers. I've worked with the team on a wide range of tasks and projects.
 
-### User interface design 
+### User interface design
 
 I helped improve the user interface of intranets and <abbr title="Business Intelligence">BI</abbr> portals with crisp and modern design, making them simpler to use and easier to maintain. As a designer, I aimed to bring a user-centric perspective.
 
