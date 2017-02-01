@@ -124,8 +124,7 @@ html, button, select, textarea {
 html {
 	border: 1rem solid white;
 	background-color: $html-bg;
-	//font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-	font-family: 'Maison', san-serif;
+	font-family: 'Maison', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 body {
@@ -136,9 +135,8 @@ body {
 }
 
 h1, h2, h3, h4 {
-	//font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 	font-weight: normal;
-	font-family: 'MaisonBold', san-serif;
+	font-family: 'MaisonBold', sans-serif;
 }
 
 section.content, section.babble, div.wrap {
