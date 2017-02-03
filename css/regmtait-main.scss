@@ -748,8 +748,6 @@ h1 span.menu-toggle a:hover {color:$theme1;}
 // 'fullscreen' styled homepage
 
 @media only screen and (min-width: 780px) {
-
-section.babble {background-color: #efefef;}
 	
 section.babble:before, section.babble:after {content: " "; /* 1 */display: table; /* 2 */}
 section.babble:after {clear: both;}
