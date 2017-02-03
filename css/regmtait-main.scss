@@ -680,19 +680,11 @@ h1 span.menu-toggle a:hover {color:$theme1;}
 	
 	nav.js-hide {display: none;}
 	
-	section.home-content {
-	padding-bottom: 20rem;
-	}
-	
+
 	header h1 span {display: block;}
 	
 	img.homepage-image {
-	width: 200px !important;
-	right:20% !important;
-	position: absolute;
-	bottom: 20px;
-	bottom: 10px; /* mac*/
-	border: none;
+	display: none;
 	}
 	
 	div.projects div.description {
