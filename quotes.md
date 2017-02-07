@@ -22,7 +22,7 @@ Just a list of quotes that I like.
 > The future is not where everyone looks for it, “there,” right after the present. It’s not an integral number in a line: 9, 10, 11…It’s somewhere like 6.8 or 7.3. The new design scene nestled in ordinary life will be created by the intellect that perceives the unlimited numbers between two successive integers.
 > <br><cite>—Kenya Hara, Designing Design</cite>
 
-> …exploring infinite number of notes between C and C sharp…
+> …exploring the infinite number of notes between C and C sharp…
 <br><cite>—Aphex Twin</cite>
 
 > The successful warrior is the average man, with laser-like focus.
