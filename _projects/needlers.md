@@ -11,7 +11,7 @@ keywords: freelance web designer, web developer, illustrator, marketing agency, 
 excerpt: Vector illustrations for Hull's leading workwear supplier
 
 client: Needlers
-coverimage: website-illustration-sketches-closeup.jpg
+coverimage: illos-live.png
 website: workwear.needlers.co.uk
 project-url: http://workwear.needlers.co.uk/
 
@@ -19,10 +19,10 @@ tasks:
 - Illustration
 
 projectimages:
-- image-file: website-illustration-sketches-closeup.jpg
-  image-alt: Illustration for fast optimised websites in Yorkshire
 - image-file: illos-live.png
   image-alt: Vector illustrations on live website
+- image-file: website-illustration-sketches-closeup.jpg
+  image-alt: Illustration for fast optimised websites in Yorkshire
 - image-file: website-vector-illustration.png
   image-alt: Vector website illustration
 - image-file: vector-illustration-for-web.png
