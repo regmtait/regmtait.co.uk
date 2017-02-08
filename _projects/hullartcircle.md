@@ -30,23 +30,21 @@ projectimages:
 
 ---
 
-I've been doing some large scale contract work recently, so it was a pleasure to take time out and build a small website for [Hull Art Circle], which I'm proud to be a member of.
+I'm proud to be a member of [Hull Art Circle], so delighted to make a website for the club.
 
-The goal was to provide quick and simple overview of the club, with clear instructions for prospective members to get in touch. Secondary to that, there's a list of exhibitions and a programme that shows everything’s up to date.
+The site provides a description of the club with instructions that help new members get in touch. There's a list of exhibitions and a programme to show everything’s up to date.
 
-The photography was done by [Trish Boulton from Facet Photography]. She did a wonderful job of capturing the bright airy studio during the monthly life drawing session, taking advantage of the natural daylight.
+[Trish Boulton] did the photography. She captured the bright and airy studio during the monthly life drawing session, taking advantage of the natural daylight.
 
-## Tech notes
+The site is build statically with [Jekyll]. This approach allowed us to focus on the design and content, and to turn this around quickly.
 
-The site is build statically with [Jekyll]. Like others static site generators, Jekyll has many features associated with CMSs (layout templates, lists of entries, conditionals…) but without the database, tedious editors, and long-winded set up. It’s a refreshing approach that allow to focus on the design and content, and to turn this around quickly.
-
-The output is also [pretty speedy]. I challenged myself to optimise for super-fast performance. This involved rendering the compressed styles on the page, using the new [srcset] attribute for image sets, and loading a single font file. You can see the results on Google PageSpeed Insights. Could be even better though.
+I optimised the website for [speedy performance].  I used the new [srcset] attribute for image sets, and included a single font file.  Compressed styles are rendered the page.
 
 The whole website weights in at 995 KB. So it will fit on a floppy disk, with plenty of room to spare.
 
-[Trish Boulton from Facet Photography]: http://www.facetphotography.co.uk/
+[Trish Boulton]: http://www.facetphotography.co.uk/
 [Jekyll]:https://jekyllrb.com/
 [Hull Art Circle]: http://hullartcircle.co.uk
 [Hammer]: http://hammerformac.com/
-[pretty speedy]: https://developers.google.com/speed/pagespeed/insights/?url=hullartcircle.co.uk
+[speedy performance]: https://developers.google.com/speed/pagespeed/insights/?url=hullartcircle.co.uk
 [srcset]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#Example_3_Using_the_srcset_attribute
