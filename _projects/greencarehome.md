@@ -36,11 +36,11 @@ projectimages:
 
 ---
 
-The Green Care Home needed a new website that helps promote their progressive care home, so they got in touch.
+The Green Care Home needed a new website that helps promote their progressive care home, so I was happy to help.
 
-Their previous website had generic copy and vague stock images, so an early decision was to replace the existing stock photos with real photography. I took the time to [sketch out the shots (pdf, 2MB)] we needed. This helped to communicate with the client, and provided clear direction for the photographer, the excellent [Trish Boulton]. Tricia did an amazing job of capturing the light on a gloomy day in mid-January, and worked sensitively among the elderly residents of the care home.
+Their previous website had generic copy and stock images, so an early decision was to replace the existing stock photos with real photography. I took the time to [sketch out the shots (pdf, 2MB)] we needed. This helped to communicate with the client, and provided clear direction for the photographer, the excellent [Trish Boulton]. Tricia did an amazing job of capturing the light on a gloomy day in mid-January, and worked sensitively among the elderly residents of the care home.
 
-I then cleaned up the branding and developed a simple content strategy, helping to rewrite the provided copy before building the CMS, ExpressionEngine in this case. I worked with html prototypes early on to communicate how the site would work for real, and across different devices.
+I then cleaned up the branding and developed a simple content strategy. I helped rewrite the copy before building the CMS with ExpressionEngine. I created html prototypes early on to communicate how the site would work for real across different devices.
 
 [sketch out the shots (pdf, 2MB)]: /files/gch-shot-list.pdf 'Green Care Home shot list (pdf)'
 [Trish Boulton]: http://www.facetphotography.co.uk/

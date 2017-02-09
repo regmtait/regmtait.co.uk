@@ -30,7 +30,7 @@ projectimages:
 
 ---
 
-I'm proud to be a member of [Hull Art Circle], so delighted to make a website for the club. The site provides a description of the club with instructions that help new members get in touch. There's a list of exhibitions and a programme to show everything’s up to date.
+I'm proud to be a member of [Hull Art Circle], so delighted to make a website for the group. The site provides a description of the club with instructions that help new members get in touch. There's a list of exhibitions and a programme to show everything’s up to date.
 
 [Trish Boulton] did the photography. She captured the bright and airy studio during the monthly life drawing session, taking advantage of the natural daylight.
 
