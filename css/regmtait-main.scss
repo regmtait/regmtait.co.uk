@@ -12,8 +12,8 @@ $theme-pink: #df2854;
 $border-colour: #cacaca;
 $html-bg: #a7a7a7;
 $bg: #efefef;
-$pre-bg: #293735;
-$code: #1d92b4;
+$pre-bg: #dae8e8;
+$code: #000;
 $text-colour: #000;
 $text-lighter: #9b9b9b;
 $link-body: #666;
@@ -80,24 +80,12 @@ section.content p a:hover {color: $theme1;}
 
 pre {
 	background-color:  $pre-bg;
-	padding: 1em;
+	padding: 0.8em 1em;
 	border-radius: 4px;
 	white-space: pre-wrap;
 	z-index: 1;
 	overflow: hidden;
 	position: relative;
-}
-
-pre::before {
-    content: "";
-    width: 100%;
-    height: 100%;
-    transform: skew(-20deg);
-    position: absolute;
-    left: -80%;
-    top: 0;
-    z-index: 0;
-    background: rgba(0, 200, 255, 0.04);
 }
 
 code {	
