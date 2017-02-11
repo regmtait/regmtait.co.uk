@@ -12,8 +12,8 @@ $theme-pink: #df2854;
 $border-colour: #cacaca;
 $html-bg: #a7a7a7;
 $bg: #efefef;
-$pre-bg: #dae8e8;
-$code: #000;
+$pre-bg: #fff;
+$code: darken($theme-pink, 10%);
 $text-colour: #000;
 $text-lighter: #9b9b9b;
 $link-body: #666;
@@ -80,12 +80,14 @@ section.content p a:hover {color: $theme1;}
 
 pre {
 	background-color:  $pre-bg;
-	padding: 0.8em 1em;
+	padding: 0.5em 1em;
 	border-radius: 4px;
 	white-space: pre-wrap;
 	z-index: 1;
 	overflow: hidden;
 	position: relative;
+	border-left: 2px solid $theme1;
+	box-shadow: 2px 3px 3px rgba(0,0,0, 0.07);
 }
 
 code {	
