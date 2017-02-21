@@ -1,0 +1,4156 @@
+﻿@charset "UTF-8";
+/*----------------------------------------------------------------------*\
+    HADRON STYLES - START
+\*----------------------------------------------------------------------*/
+.shade1 {
+  background: linear-gradient(to bottom right, #8d8d8f, #5a5a5c); }
+
+.shade2 {
+  background: linear-gradient(to bottom right, #b5cf5e, #97bf0b); }
+ 
+.shade3 {
+  background: linear-gradient(to bottom right, #33b1e6, #007eb3); }
+  
+.shade4 {
+  background: linear-gradient(to bottom right, #eda33a, #f08d00); }
+
+.shade1-hover:hover {
+  background: #49494a;  }
+
+.shade2-hover:hover {
+  background: #6f8b0b; }
+
+.shade3-hover:hover {
+  background: #027baf; }
+  
+.shade4-hover:hover {
+  background: #ce7901; }
+    
+.shade1Gradient {
+  background:#0893C1 linear-gradient(rgba(255, 255, 255, 0.3), transparent) repeat scroll 0 0;
+}
+
+.shade1Gradient:hover {
+  background:#54b1cf linear-gradient(rgba(255, 255, 255, 0.3), transparent) repeat scroll 0 0;
+}
+
+.shade2Gradient {
+  background:linear-gradient(to right, #009ee0, #5eb35d);
+}
+
+/*.shade2Gradient:hover {
+  background:#438bb3 linear-gradient(rgba(255, 255, 255, 0.3), transparent) repeat scroll 0 0;
+}*/
+
+.shade3Gradient {
+  background:linear-gradient(to right, #006634,#98bf0c)/*#212936 mlinear-gradient(rgba(255, 255, 255, 0.3), transparent) repeat scroll 0 0*/;
+}
+
+.shade3Gradient:hover {
+  background:#3e4d65 linear-gradient(rgba(255, 255, 255, 0.3), transparent) repeat scroll 0 0;
+}
+
+/*------------------------------------*\
+    #TEMP styles for prototyping
+\*------------------------------------*/
+.tempwrapper {
+  background-color: #ecf0f1;
+  margin: 20px auto;
+  max-width: 1000px; }
+
+/*------------------------------------*\
+    #TYPE
+\*------------------------------------*/
+.ms-pivotControl-surfacedOpt:hover, .ms-pivotControl-overflowDot:hover, .ms-pivotControl-surfacedOpt-selected {
+  color: #0070AE; }
+
+.ms-rtestate-field h1, h1.ms-rteElement-H1, .ms-rtestate-field h2, h2.ms-rteElement-H2,
+h1.ms-rteElement-H1B, h2.ms-rteElement-H2B, h3.ms-rteElement-H3B, h4.ms-rteElement-H4B {
+  color: #0070AE; }
+
+.ms-accentText, .ms-accentText:visited {
+  color: #0070AE; }
+
+.ms-rteStyle-Emphasis, .ms-rteStyle-IntenseEmphasis, .ms-rteStyle-Accent1 {
+  color: #0893C1; }
+
+.ms-core-pageTitle, .ms-core-pageTitle {
+  font-size: 24px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  color: #212936; }
+
+.ms-core-pageTitle a, .ms-core-pageTitle a:visited, .ms-core-pageTitle a, .ms-core-pageTitle a:visited {
+  color: #212936; }
+
+/*------------------------------------*\
+    #LINKS
+\*------------------------------------*/
+a, a:visited {
+  color: #027baf; }
+
+a:hover {
+  color: #2aa8dd; }
+
+.ms-heroCommandLink:hover, .ms-heroCommandLink:active {
+  color: #0070AE; }
+
+.ms-heroCommandLink, .ms-heroCommandLink:visited {
+  color: #0072c6; }
+
+/*------------------------------------*\
+    #BX slider
+\*------------------------------------*/
+/** VARIABLES 
+===================================*/
+/** RESET AND LAYOUT
+===================================*/
+.bx-wrapper {
+  position: relative;
+  margin: 0 auto 60px;
+  padding: 0;
+  *zoom: 1;
+  -ms-touch-action: pan-y;
+  touch-action: pan-y; 
+  height:208px; }
+
+.bx-wrapper img {
+  max-width: 100%;
+  display: block; }
+
+.bxslider {
+  margin: 0;
+  padding: 0; }
+
+ul.bxslider {
+  list-style: none; }
+
+.bx-viewport {
+  /*fix other elements on the page moving (on Chrome)*/
+  -webkit-transform: translatez(0); 
+  height:208px; }
+
+/** THEME
+===================================*/
+.bx-wrapper .bx-pager,
+.bx-wrapper .bx-controls-auto {
+  position: absolute;
+  width: 100%; }
+
+/* LOADER */
+.bx-wrapper .bx-loading {
+  min-height: 50px;
+  background: url("bximages/bx_loader.gif") center center no-repeat #ffffff;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2000; }
+
+/* PAGER */
+.bx-wrapper .bx-pager {
+  text-align: center;
+  font-size: .85em;
+  font-family: Arial;
+  font-weight: bold;
+  color: #fff;
+  padding-top: 20px;
+  z-index: 1000; }
+
+.bx-wrapper .bx-pager.bx-default-pager a {
+  background: #0893C1;
+  text-indent: -9999px;
+  display: block;
+  width: 10px;
+  height: 10px;
+  margin: 0 5px;
+  outline: 0;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px; }
+
+.bx-wrapper .bx-pager-item,
+.bx-wrapper .bx-controls-auto .bx-controls-auto-item {
+  display: inline-block;
+  *zoom: 1;
+  *display: inline; }
+
+.bx-wrapper .bx-pager-item {
+  font-size: 0;
+  line-height: 0; }
+
+/* DIRECTION CONTROLS (NEXT / PREV) */
+.bx-wrapper .bx-prev {
+  left: 00px; }
+
+.bx-wrapper .bx-prev:hover,
+.bx-wrapper .bx-prev:focus {
+  background-position: 0 0; }
+
+.bx-wrapper .bx-next {
+  right: 0px; }
+
+.bx-wrapper .bx-next:hover,
+.bx-wrapper .bx-next:focus {
+  background-position: -43px 0; }
+
+.bx-wrapper .bx-controls-direction a {
+  position: absolute;
+  outline: 0;
+  width: 22px;
+  text-indent: -9999px;
+  z-index: 50;
+  margin-top: 0px;
+  border-radius: 0px;
+  background-color: rgba(255, 255, 255, 0.3);
+  top: 80px;
+  height: 36px; }
+
+.bx-wrapper .bx-controls-direction a.disabled {
+  display: none; }
+
+/* AUTO CONTROLS (START / STOP) */
+.bx-wrapper .bx-controls-auto {
+  text-align: center; }
+
+.bx-wrapper .bx-controls-auto .bx-start {
+  display: block;
+  text-indent: -9999px;
+  width: 10px;
+  height: 11px;
+  outline: 0;
+  margin: 0 3px; }
+
+.bx-wrapper .bx-controls-auto .bx-stop {
+  display: block;
+  text-indent: -9999px;
+  width: 9px;
+  height: 11px;
+  outline: 0;
+  margin: 0 3px; }
+
+.bx-wrapper .bx-controls-auto .bx-stop:hover,
+.bx-wrapper .bx-controls-auto .bx-stop.active,
+.bx-wrapper .bx-controls-auto .bx-stop:focus {
+  background-position: -86px -33px; }
+
+/* PAGER WITH AUTO-CONTROLS HYBRID LAYOUT */
+.bx-wrapper .bx-controls.bx-has-controls-auto.bx-has-pager .bx-pager {
+  text-align: left;
+  width: 80%; }
+
+.bx-wrapper .bx-controls.bx-has-controls-auto.bx-has-pager .bx-controls-auto {
+  right: 0;
+  width: 35px; }
+
+/* IMAGE CAPTIONS */
+.bx-wrapper .bx-caption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: #666;
+  background: rgba(80, 80, 80, 0.75);
+  width: 100%; }
+
+.bx-wrapper .bx-caption span {
+  color: #fff;
+  font-family: Arial;
+  display: block;
+  font-size: .85em;
+  padding: 10px; }
+
+.bx-wrapper .bx-next img {
+  margin-left: 7px; }
+
+.bx-wrapper .bx-prev img {
+  margin-left: 5px; }
+
+.bx-wrapper .bx-controls-direction a img {
+  margin-top: 10px;
+  opacity: 0.6; }
+
+.bx-wrapper .bx-controls-direction a:hover img {
+  opacity: 1; }
+
+.bx-wrapper .bx-pager.bx-default-pager a {
+  background-color: #ffffff;
+  opacity: 0.3;
+  border-radius: 0px; }
+
+a.active, .bx-wrapper .bx-pager.bx-default-pager a:focus {
+  background-color: #eff7ee !important;
+  opacity: 1 !important; }
+
+.slider-wrap .bx-wrapper .bx-controls-direction a {
+  opacity: 0.5; }
+
+/*------------------------------------*\
+    #BUTTONS
+\*------------------------------------*/
+/*
+.HadronButton button {
+  border-radius: 10px;
+  padding-left: 40px;
+  border: 1px solid #dde4e6;
+  background: #ecf0f1;
+  background: #ecf0f1 linear-gradient(rgba(255, 255, 255, 0.2) transparent); }
+*/
+.HadronButton button:hover {
+  background: #027baf;
+}
+
+.HadronButton button{
+  background: linear-gradient(to bottom, #0ea2e1, #0397d6);
+}
+
+.hadronButtons .slm-edit-ecb {
+  float:none;
+}
+/*------------------------------------*\
+    #LAYOUT
+\*------------------------------------*/
+/* new addition by sridhar - */
+#DeltaPlaceHolderMain div.welcome {
+  padding-top: 0px; }
+
+.ms-webpartzone-cell {
+  margin: auto; }
+
+#s4-bodyContainer {
+  min-height: 600px; }
+
+.ms-core-overlay {
+  background-color: #f8f8f8; }
+
+.ms-fullscreenmode .ms-core-overlay,
+iframe .ms-core-overlay {
+  background-image: none; }
+
+.tableCol-50 {
+  width: 49.9%;
+  vertical-align: top; }
+
+#contentBox {
+  max-width: 1010px; }
+
+#contentRow {
+  padding-top: 16px;
+  /* background-image: url("../images/hadron-roundels.png"); */
+  background-position: 105% -20px;
+  background-repeat: no-repeat;
+  background-color: transparent;
+  min-height: 200px; }
+
+.ms-tileview-tile-content {
+  background: #0893C1; }
+
+.welcome-content {
+  display: none; }
+
+/* ------ [ responsive bits ] ------ */
+.wrapper {
+  padding: 0px 1% 8px 0px; }
+
+.tableCol-50 .wrapper {
+  padding: 0px 2% 8px 0px; }
+
+.layout-col {
+  padding: 10px; }
+
+@media only screen and (min-device-width: 768px) {
+  .two-col .layout-col {
+    width: 50%; }
+
+  .two-col .col-1 {
+    float: left; }
+
+  .two-col .col-2 {
+    float: right; } }
+/*------------------------------------*\
+    #PAGE-HEAD
+\*------------------------------------*/
+#siteIcon {
+  min-width: 64px;
+  margin-right: 20px;
+  float: left;
+  margin-top: 17px; }
+
+#s4-titlerow {
+  padding-top: 0;  
+  height:50px;
+  background: linear-gradient(#6D6E71, #59595D);   
+  /*background: #212936 linear-gradient(rgba(255, 255, 255, 0.1), transparent); */
+  border-top: 8px;
+  border-top-style: solid;
+  border-color: #97bf0d;
+ }
+ 
+s4-titlerow {
+  color: #fff;
+  background: #58585A linear-gradient(hsla(0, 0%,100%,.2), transparent);
+  font-family: sans-serif;
+  margin-top: 8px;
+} 
+ 
+ s4-titlerow:before {
+  background-image: linear-gradient(-90deg, #009EE0 0%, #98BF0C 100%);
+  display: block;
+  content: '';
+  height: 8px;	
+}
+
+#suiteBarLeft {
+  background-color: #0893C1 !important;
+}
+
+#suiteBarLeft, #suiteBarRight {
+  display: table-cell;
+  line-height: 0px;
+  padding-top: 6px;
+  padding-bottom: 6px; }
+
+.o365spo.o365cst.o365cs-base .o365cs-navMenuButton {
+  background: #444444 !important; }
+
+.o365cs-topnavBGColor-2 {
+  background-color: #0893C1 !important; }
+
+.o365cs-topnavLinkBackground-2 {
+  background-color: #0893C1 !important; }
+
+.ms-bgc-tdr-h:hover {
+  background-color: #0893C1 !important; }
+
+.o365cst.o365cs-base .ms-bgc-tp, .o365cst.o365cs-base .ms-bgc-tp-h:hover, .ms-bgc-tp.o365cst.o365cs-base {
+  background-color: #0893C1 !important; }
+
+/*------------------------------------*\
+    #PAGE-FOOT
+\*------------------------------------*/
+#footer {
+  position: relative;
+  clear: both;
+  margin-top: 24px;
+  background: linear-gradient(to right, #009ee0, #5eb35d);
+  /* border-top: 4px;
+  border-top-style: solid;
+  border-top-color: #006634; */  }
+
+#footer ul {
+  height: 48px;
+  overflow: hidden;
+  margin: 0;
+  padding: 0; }
+
+#footer ul li {
+  list-style: none;
+  display: inline-block;
+  color: #fff;
+  position: relative; }
+
+#footer ul li a {
+  display: inline-block;
+  color: #fff; }
+
+#footer ul li.text a {
+  top: -17px;
+  left: -1px;
+  position: relative;
+  padding: 16px 0 16px 16px; }
+
+#footer ul li.footer-copyright a, #footer ul li.footer-faq a {
+  padding-right: 16px; }
+
+#footer ul li.linkedin {
+  border-left: 1px solid #fff; }
+
+#footer ul li.social {
+  text-display: none;
+  border-right: 1px solid #fff;
+  padding: 0;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 32px 32px; }
+
+#footer ul li.social span {
+  display: none; }
+
+#footer ul li.social a {
+  width: 48px;
+  height: 48px;
+  position: relative;
+  left: -1px;
+  top: 1px; }
+
+#footer ul li.facebook {
+  background-image: url("/Style Library/Hadron/v07/Master/images/footer-facebook.png"); }
+
+#footer ul li.google {
+  background-image: url("/Style Library/Hadron/v07/Master/images/footer-google.png"); }
+
+#footer ul li.linkedin {
+  background-image: url("/Style Library/Hadron/v07/Master/images/footer-linkedin.png"); }
+
+#footer ul li.instagram {
+  background-image: url("/Style Library/Hadron/v07/Master/images/footer-instagram.png"); }
+
+#footer ul li.twitter {
+  background-image: url("/Style Library/Hadron/v07/Master/images/footer-twitter.png"); }
+
+
+#footer ul li.feedback a {
+  padding-left: 48px;
+  background-repeat: no-repeat;
+  background-position: 8px center;
+  background-size: 32px 32px;
+  background-image: url("/Style Library/Hadron/v07/Master/images/footer-feedback.png"); }
+
+.footer-left
+{
+	float:left;
+}
+
+.footer-right
+{
+	float:right;
+}
+
+.footer-seperator
+{
+	height:20px;
+}
+
+/*------------------------------------*\
+    #SEARCH
+\*------------------------------------*/
+.ms-srch-sb {
+  position: relative; }
+
+.ms-srch-sb > .ms-srch-sb-searchLink {
+  height: 30px;
+  width: 30px;
+  background: url("/Style Library/Hadron/v07/Shared/Images/search-mag.png") center center no-repeat;
+  background: url("/Style Library/Hadron/v07/Shared/Images/search-mag.svg") center center no-repeat;
+  position: absolute;
+  top: 4px;
+  right: 4px; }
+
+#SearchBox {
+  margin-top: -5px; }
+
+.ms-mpSearchBox {
+  position: relative;
+  height: 37px;
+  padding-top: 22px;
+  right: -18px; }
+
+input.ms-helperText {
+  color: #212936; }
+
+.ms-srch-sb-border,
+.ms-srch-sb-borderFocused,
+.ms-core-header .ms-srch-sb-borderFocused,
+.ms-srch-sb-border:hover {
+  border: 0; }
+
+.ms-srch-sb > input,
+.ms-srch-sb > input:focus {
+  font-size: 1.2em;
+  width: 220px;
+  padding: 10px;
+  background: #fff;
+}
+
+.ms-srch-sbLarge {
+  border: 1px solid #e0e0e0 !important;
+  margin: 8px 0 5px 40px; }
+
+.ms-srch-sb-border, .ms-srch-sb-borderFocused, .ms-srch-sb-border:hover {
+  border: none; }
+
+.ms-srch-sb-searchImg {
+  display: none; }
+
+.ms-srch-sb-borderFocused {
+  border: none; }
+
+.ms-InlineSearch-Outline-Baseline {
+  background: #fff; }
+
+.Hadron-Item-Icons {
+    float: left;
+    list-style-type: none;
+    margin: 4px 0 -5px 0;
+    padding-left: 0px;
+}
+
+.Hadron-Item-Icons li {
+	float: left;
+}
+
+
+/*------------------------------------*\
+    #SEARCH drop down
+\*------------------------------------*/
+#searchInputBox {
+  float: left; }
+
+.adv-search-menu {
+  position: absolute;
+  top: 56px;
+  left: 5px;
+  border-top: none;
+  width: 239px;
+  background-color: #e5eaeb;
+  background-position: bottom right;
+  background-repeat: no-repeat;
+  z-index: 10000;
+  display: none; }
+
+.adv-search-menu ul {
+  margin: 0;
+  padding: 0; 
+  
+}
+
+.adv-search-menu li {
+  display: block;
+  border-left: 6px solid #D8D8D8;
+  border-top: 1px solid #d8d8d8; }
+
+
+.adv-search-menu li a {
+  display: block;
+  padding: 10px;
+  color: #000;
+  -webkit-transition: ease-in-out background-color .15s;
+  -moz-transition: ease-in-out background-color .15s;
+  transition: ease-in-out background-color .15s;
+  background-image: url("../../Search/images/adv-search-icons.png");
+  background-repeat: no-repeat;
+  padding-left: 35px;
+  background-position: 5px -312px; }
+
+.adv-search-menu li a:hover {
+  text-decoration: none;
+  background-color: #d7dee0;
+  color: #0893c1; }
+
+a.ms-srch-sb-navLink {
+  display: none; }
+
+.adv-search-menu li a.search-this-site {
+  background-position: 5px 8px; }
+
+.adv-search-menu li a.search-all-sites {
+  background-position: 5px -28px; }
+
+.adv-search-menu li a.search-people {
+  background-position: 5px -69px; }
+
+.adv-search-menu li a.search-documents {
+  background-position: 5px 5x; }
+
+.adv-search-menu li a.search-bing {
+  background-position: 5px -110px; }
+
+.adv-search-menu li a.search-nhs {
+  background-position: 5px -151px; }
+
+.adv-search-menu li a.search-doh {
+  background-position: 5px -190px; }
+
+.adv-search-menu li a.search-bnf {
+  background-position: 5px -233px; }
+
+.adv-search-menu li a.search-nmc {
+  background-position: 5px -273px; }
+
+/*------------------------------------*\
+    #NAVIGATION (top bar)
+\*------------------------------------*/
+.ms-core-listMenu-root .ms-core-listMenu-item,
+.ms-core-listMenu-root .ms-core-listMenu-item:link {
+  color: #fff; }
+
+.ms-core-listMenu-root .dynamic .ms-core-listMenu-item,
+.ms-core-listMenu-root .dynamic .ms-core-listMenu-item:link {
+  color: #565656; }
+
+.ms-core-listMenu-root .dynamic .ms-core-listMenu-item:hover {
+  color: #0070AE; }
+
+.ms-core-listMenu-root ul.dynamic {
+  background: #e6ebed;
+  border: 1px solid #d8d8d8; 
+  border-left: 6px solid #d8d8d8; 
+  padding:0px;
+  box-shadow:none;
+
+  }
+  
+  .ms-core-listMenu-root ul.dynamic li {
+	  border-bottom: 1px solid #d8d8d8; 
+	  padding-bottom:6px;
+  }
+  
+  .ms-core-listMenu-root ul.dynamic li:hover{
+		background-color:#d7dee0;
+	}
+
+
+.ms-core-listMenu-root .ms-core-listMenu-item:hover,
+.ms-core-listMenu-root .ms-core-listMenu-item:active,
+.ms-core-listMenu-horizontalBox .ms-core-listMenu-selected:link,
+.ms-core-listMenu-horizontalBox .ms-core-listMenu-selected:visited,
+.ms-core-listMenu-horizontalBox .ms-core-listMenu-selected,
+.ms-tv-selected:link {
+  color: #ffffff !important;
+  font-weight: 600; }
+
+#DeltaTopNavigation .ms-core-listMenu-horizontalBox li {
+  padding-top: 6px;
+  padding-left: 6px; }
+
+#DeltaTopNavigation .ms-core-listMenu-horizontalBox ul.root > li:first-child {
+  padding: 0;
+  padding-left: 6px; }
+
+.ms-core-listMenu-horizontalBox {
+  margin-top: 20px; }
+
+#DeltaTopNavigation .ms-core-listMenu-horizontalBox li.ms-listMenu-editLink {
+  background: transparent;
+  padding-top: 7px; }
+
+.ms-core-listMenu-horizontalBox .dynamic-children.additional-background {
+  padding-right: 14px; }
+
+.HadronBreadcrumb > li.breadcrumbRootNode {
+  padding-top: 14px;
+  background: url("../images/crumb-more.png") no-repeat;
+  max-height: 0px;
+  overflow: hidden;
+  -webkit-transition: ease-in-out .45s;
+  -moz-transition: ease-in-out .45s;
+  -ms-transition: ease-in-out .45s;
+  transition: ease-in-out .45s; }
+
+.HadronBreadcrumb > li {
+  padding: 0px 0; }
+
+.HadronBreadcrumb:hover > li.breadcrumbRootNode,
+.HadronBreadcrumb:active > li.breadcrumbRootNode,
+li.breadcrumbRootNode:hover,
+li.breadcrumbRootNode:active {
+  max-height: 200px; }
+
+.s4-breadcrumb-arrowcont img {
+  margin: 2px 2px 2px 8px; }
+
+.breadcrumbCurrentNode {
+  display: none; }
+
+/*------------------------------------*\
+    #NAVIGATION (left nav)
+\*------------------------------------*/
+#DeltaPlaceHolderLeftNavBar .ms-core-listMenu-item, #DeltaPlaceHolderLeftNavBar .ms-core-listMenu-item:link, #DeltaPlaceHolderLeftNavBar .ms-core-listMenu-item:visited, #DeltaPlaceHolderLeftNavBar .ms-tv-item:link, #DeltaPlaceHolderLeftNavBar .ms-tv-item:visited, #DeltaPlaceHolderLeftNavBar .ms-tv-header:link, #DeltaPlaceHolderLeftNavBar .ms-tv-header:visited {
+  color: #565656; }
+
+#sideNavBox {
+  overflow: hidden; }
+
+#sideNavBox .ms-core-listMenu-verticalBox > .ms-core-listMenu-item, #sideNavBox .ms-core-listMenu-verticalBox li > .ms-core-listMenu-item {
+  border-bottom: 1px solid #d8d8d8;
+  background-color: #fff; }
+
+#sideNavBox .ms-navedit-linkNode:hover,
+#sideNavBox li > .ms-core-listMenu-selected:hover,
+#sideNavBox li > .ms-core-listMenu-item:hover, #sideNavBox li > .ms-core-listMenu-item:active {
+  background-color: #d7dee0; }
+  
+  
+#sideNavBox .ms-core-listMenu-selected:link, #sideNavBox .ms-core-listMenu-selected:visited, #sideNavBox .ms-core-listMenu-selected {
+  background-color: #f3f6f6; }
+
+#sideNavBox .ms-core-listMenu-selected:link, #sideNavBox .ms-core-listMenu-selected:visited, #sideNavBox .ms-core-listMenu-selected {
+  background-color: #f3f6f6; }
+
+#sideNavBox .ms-core-listMenu-verticalBox > .ms-core-listMenu-item, #sideNavBox .ms-core-listMenu-verticalBox li.static > ul li .ms-core-listMenu-item {
+  /* left nav nested ul... */ }
+
+#sideNavBox .ms-core-listMenu-verticalBox > .ms-core-listMenu-item, #sideNavBox .ms-core-listMenu-verticalBox li > ul li .ms-core-listMenu-item:before {
+  color: #0893C1;
+  display:none;
+   }
+
+.ms-navresizer-vertical {
+  /* ? default element for left hand nav border */
+  border: none;
+  left: 219px !important;
+  border-right: 1px solid #CBCBD3; }
+
+.ms-listMenu-editLink {
+  background: none !important; }
+
+li.static.ms-verticalAlignTop.ms-listMenu-editLink.ms-navedit-editArea {
+  padding-top: 4px;
+  padding-bottom: 4px; }
+
+.ms-core-menu-separator {
+  display: none; }
+
+.HadronSiteTitle, .HadronSiteTitle:visited {
+  font-size: 16px;
+  font-weight: 600;
+  padding-bottom: 8px;
+  color: #212936;
+  display: block;
+  color: #212936; }
+
+.HadronBreadcrumb {
+  padding-bottom: 4px;
+  border-bottom: 1px solid #e6ebed; }
+  
+  
+.ms-blog-listMenu-root  
+{
+	margin-bottom:-1px;
+}
+
+.ms-blog-listMenu-root
+{
+	width:100%;
+}
+
+/*-----------------------------------------------------*\
+    #CUSTOM WEBPARTS
+\*-----------------------------------------------------*/
+/*------------------------------------*\
+    #WEBPART GENERAL STYLES
+\*------------------------------------*/
+.s4-wpcell > .ms-webpart-chrome, .s4-wpActive > .ms-webpart-chrome {
+  border-top: 1px solid #0893C1;
+  background-image:url("/Style Library/Hadron/v07/Master/images/WebPartTitleGraphic.png");
+  background-repeat:no-repeat;
+  background-position:left 0px top 1px;
+  }
+
+.ms-webpart-titleText.ms-webpart-titleText, .ms-webpart-titleText > a {
+  color:#000;
+}
+
+.ms-webpart-titleText > a {
+  color: #000; }
+
+.ms-webpart-titleText > a:hover {
+  color: #000;
+  font-weight:bold;
+  }
+
+/*
+
+.ms-webpart-chrome-title {
+    border-top: 1px solid $shade1;
+    padding: 12px 0 7px 0px;
+    background-repeat: no-repeat; 
+}
+
+.wp-wrap h3 {
+    font-weight: normal;
+}
+
+.wp-controls {
+   position: absolute;
+   top: 12px;
+    right: 15px;
+}
+
+*/
+/*------------------------------------*\
+    #CUSTOM SLIDERS
+\*------------------------------------*/
+.slider-wrap {
+  margin-bottom: 0;
+  position: relative;
+  background: #212936; }
+
+.bx-wrapper {
+  background: linear-gradient(to bottom right, #6A9E24, #3D832F); }
+
+.slider-title {
+  position: absolute;
+  top: 16px;
+  left: 31px;
+  color: #F0F0F0;
+  font-size: 18px;
+  font-weight:700;
+  z-index: 1000; }
+
+.bx-slide {
+  padding: 40px 32px 20px 32px;
+  background: linear-gradient(to right, #47b187, #73af19);
+  color: #fff;
+  clear: both;
+  height: 148px;
+  overflow: hidden; }
+
+.bx-slide h2 a:hover {
+  text-decoration: none; }
+
+.bx-wrapper .bx-pager {
+  bottom: 10px; }
+
+/*------------------------------------*\
+    #NEWS SLIDER
+\*------------------------------------*/
+.news-slide img {
+  width: 96px;
+  height: auto;
+  margin: 16px 8px 8px 0; }
+  
+.slider-title a, .slider-title a:hover
+{
+	color:#fff;
+}
+  
+.news-slide h2
+{
+	font-size:16px;
+	font-weight:400;
+	margin-left:-1px;
+}
+
+.news-slide .slide-date {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  color: #ccc; }
+  
+  .news-slide p
+  {
+	padding-top:1px;
+}
+  
+
+/*------------------------------------*\
+    #WEBPART EVENTS
+\*------------------------------------*/
+div.event-date {
+  letter-spacing: -.5px;
+  text-transform: uppercase;
+  text-align: center;
+  width: 96px;
+  color: #fff;
+  background-color: #0893C1;
+  font-weight: 700;
+  font-size: 17px;
+  float: left;
+  margin: 16px 8px 8px 0; }
+
+div.event-date span {
+  display: block;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  line-height: 1em; }
+
+span.date {
+  color: #fff;
+  display: block; }
+
+span.cal-day {
+  font-size: 31px;
+  background: rgba(255, 255, 255, 0.24);
+  padding-bottom: 6px;
+  color: #fff; }
+
+@media screen and (max-width: 480px) {
+  /* possible approach for narrower widths */
+  div.event-date {
+    width: 56px;
+    font-size: 14px; }
+
+  span {
+    padding-top: 2px;
+    padding-bottom: 2px; }
+
+  span.cal-day {
+    font-size: 22px;
+    margin-bottom: 0; }
+
+  span.date {
+    color: #fff; } }
+    
+    .events-slide h2
+    {
+		margin-left:-1px;
+	}
+	
+	.events-slide
+	{
+		margin-top:-2px;
+	}
+	    
+    
+/*------------------------------------*\
+    #TOUCH TILES
+\*------------------------------------*/
+
+
+
+
+/*------------------------------------*\
+    #TEAM DIRECTORY - Start
+\*------------------------------------*/
+
+.Department-Item
+{
+	display:none;
+	margin-bottom:0px;
+	padding-top:4px;
+	border-bottom:1px solid #cccccc;
+	padding-left:8px;
+} 
+
+.Department-Item a
+{
+	color:#565656;
+}
+
+.Department-Item a:hover
+{
+	color:#0893c1;
+	text-decoration:none;
+}
+
+
+
+
+.Department-Item:hover{
+	background-color:#d7dee0;
+}
+
+.DeptViewable	
+{
+	display:block;
+}
+
+#DepartmentDirectoryNav
+{
+	margin-bottom:8px;
+}
+
+#DepartmentDirectoryNav a
+{
+	display:inline-block;
+	width:40px;
+	height:40px;
+	line-height:40px;
+	border:1px solid #777777;
+	color:#777777;
+	text-align:center;
+	margin:5px;
+	background-color:#ffffff;
+}
+
+#DepartmentDirectoryNav a:hover
+{
+	background-color:#d7dee0;
+	border:1px solid #777777;
+	text-decoration:none;
+}
+
+#DepartmentDirectoryNav a.selected
+{
+	color:#ffffff;
+	border:1px solid #0893c1;
+	background-color:#0893c1;
+}
+
+#DeptDirectSearch
+{
+	border:1px #838486 solid;
+	padding:8px;
+	width:200px;
+	background-image:url("/Style Library/Hadron/v07/Shared/Images/search-mag.svg");
+	background-repeat:no-repeat;
+	background-position:right 6px top 6px;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+#Department-Header
+{
+	display:none;
+	padding-left:8px;
+}
+
+#Department-Header h3
+{
+	font-weight:bold;
+}
+
+
+.Department-Item-LeftTitle
+{
+	float:left;
+	width:23%;
+	margin-right:2%;
+}
+
+.Department-Item-LeftAlias
+{
+	float:left;
+	width:23%;
+	margin-right:2%;
+}
+
+
+.Department-Item-Mid
+{
+	float:left;
+	width:25%;	
+}
+
+.Department-Item-Right
+{
+	float:left;
+	width:23%;
+	margin-left:2%;	
+}
+
+.DeptTabsRow li
+{
+	display:inline
+}
+
+
+
+#SRI-showAll a
+{
+	color:#ffffff !important;
+	cursor:pointer;
+}
+
+
+
+#Tabs ul.DeptTabsRow{
+	text-align: left;
+	margin: 0.5em 0 0 0;
+	font: 14px arial;
+	list-style-type: none;
+	padding: 10px 4px 10px 8px;
+	color:#ffffff;
+}
+        
+#Tabs ul.DeptTabsRow a {
+	font-weight: bold;
+	color:#555;
+	cursor:default;
+}
+
+
+.azActive a
+{
+	cursor:pointer !important;
+	color:#ffffff !important;	
+}
+
+.azActive a:hover, #SRI-showAll a:hover{
+	color:#0072c6 !important;	
+}
+
+#Tabs ul.DeptTabsRow a:hover {
+	text-decoration:none;
+}
+
+#Tabs ul.DeptTabsRow a.selected{
+	color: #C0C0C0;
+}
+
+#Tabs ul.DeptTabsRow
+{
+	margin-bottom:8px;
+}
+
+/*------------------------------------*\
+    #TEAM DIRECTORY - End
+\*------------------------------------*/
+
+
+
+/*------------------------------------*\
+    #Pages AZ - Start
+\*------------------------------------*/
+
+.PagesAZ-Item
+{
+	display:none;
+	margin-bottom:0px;
+	padding-top:4px;
+	border-bottom:1px solid #cccccc;
+	padding-left:8px;
+} 
+
+.PagesAZ-Item a
+{
+	color:#565656;
+}
+
+.PagesAZ-Item a:hover
+{
+	color:#0893c1;
+	text-decoration:none;
+}
+
+
+
+
+.PagesAZ-Item:hover{
+	background-color:#d7dee0;
+}
+
+.PagesViewable	
+{
+	display:block;
+}
+
+#PagesAZNav 
+{
+	margin-bottom:8px;
+}
+
+
+#PagesAZNav a
+{
+	display:inline-block;
+	width:40px;
+	height:40px;
+	line-height:40px;
+	border:1px solid #777777;
+	color:#777777;
+	text-align:center;
+	margin:5px;
+	background-color:#ffffff;
+}
+
+#PagesAZNav a:hover
+{
+	background-color:#d7dee0;
+	border:1px solid #777777;
+	text-decoration:none;
+}
+
+#PagesAZNav a.selected
+{
+	color:#ffffff;
+	border:1px solid #0893c1;
+	background-color:#0893c1;
+}
+
+#PagesAZSearch
+{
+	border:1px #0893c1 solid;
+	padding:8px;
+	width:200px;
+	background-image:url("/Style Library/Hadron/v07/Shared/Images/search-mag.svg");
+	background-repeat:no-repeat;
+	background-position:right 6px top 6px;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+#PagesAZ-Header
+{
+	display:none;
+	padding-left:8px;
+}
+
+#PagesAZ-Header h3
+{
+	font-weight:bold;
+}
+
+
+.PagesAZ-Item-LeftTitle
+{
+	float:left;
+	width:23%;
+	margin-right:2%;
+}
+
+.PagesAZ-Item-LeftAlias
+{
+	float:left;
+	width:23%;
+	margin-right:2%;
+}
+
+
+.PagesAZ-Item-Mid
+{
+	float:left;
+	width:25%;	
+}
+
+.PagesAZ-Item-Right
+{
+	float:left;
+	width:23%;
+	margin-left:2%;	
+}
+
+.PagesAZTabsRow li
+{
+	display:inline
+}
+
+
+
+#SRI-showAll a
+{
+	color:#ffffff !important;
+	cursor:pointer;
+}
+
+
+
+#Tabs ul.PagesAZTabsRow{
+	text-align: left;
+	margin: 0.5em 0 0 0;
+	font: 14px arial;
+	list-style-type: none;
+	padding: 10px 4px 10px 8px;
+	color:#ffffff;
+}
+        
+#Tabs ul.PagesAZTabsRow a {
+	font-weight: bold;
+	color:#555;
+	cursor:default;
+}
+
+
+.azActive a
+{
+	cursor:pointer !important;
+	color:#ffffff !important;	
+}
+
+.azActive a:hover, #SRI-showAll a:hover{
+	color:#0072c6 !important;	
+}
+
+#Tabs ul.PagesAZTabsRow a:hover {
+	text-decoration:none;
+}
+
+#Tabs ul.PagesAZTabsRow a.selected{
+	color: #C0C0C0;
+}
+
+#Tabs ul.PagesAZTabsRow
+{
+	margin-bottom:8px;
+	width: 988px;
+}
+
+/*------------------------------------*\
+    #Pages AZ - End
+\*------------------------------------*/
+
+
+
+/*---------------------*\
+    Shared styles
+\*---------------------*/
+.sharedtile {
+  color: #fff;
+  width: 160px;
+  width: 100%;
+  height: 64px;
+  background-color: #212936;
+  transition: background 200ms ease;
+  overflow: hidden;
+  position: relative;
+  margin-bottom: 8px; }
+
+.sharedtile a {
+  display: block;
+  width: 100%;
+  height: 64px;
+  color: #fff; }
+
+.sharedtile a h3 {
+  color: #fff;
+  line-height: 1.2;
+  position: relative;
+  z-index: 20; }
+
+.sharedtile a p {
+  position: relative;
+  z-index: 20; }
+
+.sharedtile a:hover {
+  text-decoration: none; }
+
+.sharedtile img {
+  position: absolute;
+  z-index: 10; }
+
+.sharedtile:hover {
+  background-color: #3e4d65; }
+
+/* ----[ Nav tiles (sidebar) ]---- */
+.navtile {
+  max-width: 200px; }
+
+.navtile h3 {
+  margin-top: 8px;
+  margin-left: 10px;
+  line-height: 1em;
+  font-size: 12px;
+  padding-right: 50px; }
+
+.navtile img {
+  width: 60px;
+  height: auto;
+  top: 10px;
+  right: -10px; }
+
+/* ----[ Page tiles ]---- */
+.pagetile {
+  max-width: 350px;
+  width: 32%;
+  border-right: 0;
+  height: 96px;
+  float: left;
+  margin-right: 8px;
+  margin-bottom: 8px; }
+
+.pagetile h3 {
+  margin-top: 10px;
+  margin-left: 16px;
+  margin-bottom: 10px;
+  line-height: 1em;
+  font-size: 15px;
+  padding-right: 50px; }
+
+.pagetile p {
+  padding-right: 50px;
+  font-size: 12px;
+  line-height: 1.3;
+  margin-left: 16px;
+  margin-top: 8px; }
+
+.pagetile img {
+  width: 90px;
+  height: auto;
+  top: 16px;
+  right: -10px;
+  opacity: 0.8; }
+
+.pagetile:nth-child(3) {
+  margin-right: 0; }
+
+/*ImpactTiles Start*/
+.boxcaption {
+  float: left;
+  height: 300px;
+  opacity: .8;
+  filter: alpha(opacity=80);
+  position: absolute;
+  width: 100%;
+  padding: 10px; }
+
+.ITLarge {
+  background: none repeat scroll 0 0 #fff;
+  float: left;
+  height: 208px;
+  overflow: hidden;
+  position: relative;
+  width: 49%;
+  margin-right: 1%;
+  margin-bottom: 8px; }
+
+.tableCol-50 .ITLarge {
+  width: 98%;
+  margin-right: 2%; }
+
+.ITLarge img {
+  border: 0 none;
+  left: 0;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  margin-left: -256px; }
+
+.ITMedium {
+  background: none repeat scroll 0 0 #fff;
+  float: left;
+  height: 208px;
+  overflow: hidden;
+  position: relative;
+  width: 24%;
+  margin-right: 1%;
+  margin-bottom: 8px; }
+
+.tableCol-50 .ITMedium {
+  width: 48%;
+  margin-right: 2%; }
+
+.ITMedium img {
+  border: 0 none;
+  left: 0;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  margin-left: -124px; }
+
+.ITLarge h3, .ITMedium h3 {
+  color: #FFF;
+  padding: 0 10px;
+  margin-top: -5px;
+  font-size: 14px !important;
+  font-weight: 700 !important; }
+
+.ITLarge p, .ITMedium p {
+  color: #FFF;
+  padding: 0 10px; }
+
+.boxcaption {
+  padding: 0; }
+
+.boxcaptionInner {
+  padding: 10px; }
+
+.boxcaptionInner p {
+  word-wrap: break-word; }
+
+.ITLarge .boxcaption {
+  top: 178px; }
+
+.ITMedium .boxcaption {
+  top: 178px; }
+
+/*ImpactTiles End*/
+
+
+ /*------------------------------------------------
+	PEOPLE SEARCH WEBPART - START
+  -------------------------------------------------*/
+  
+    	.wp-wrap {
+    	color: #fff;
+    	font-family: sans-serif;
+    	position: relative;
+    	height: 64px;
+    	box-sizing: border-box;
+    	width:98%;  
+    	margin-bottom:8px;  	
+    }
+
+    .wp-wrap h3 {
+    	font-weight: normal;
+    	padding: 0 0 .2em;
+    	margin: 0;
+    	color: #fff;
+    	font-size: 1.4em
+    }
+
+    .wp-controls {
+    	position: absolute;
+    	top: 12px;
+    	right: 15px;
+    }
+
+    .wp-controls a {
+    	color: #fff;
+    	text-indent: -9999px;
+    	display: inline-block;
+    	background-image: url("/Style Library/Hadron/v07/Shared/images/icon-sprite.png");
+    	background-repeat: no-repeat;
+    	width: 20px;
+    	height: 12px;
+    	margin-left: 10px;
+    }
+
+    a.wp-more {
+    	background-position: -5px -95px
+    }
+
+    a.wp-edit {
+    	background-position: -8px -68px;
+    	height: 20px
+    }
+
+    .wp-pop {
+    	display: none;
+    	position: absolute;
+    	top: 35px;
+    	left:0 ;
+    	width: 100%;
+		z-index: 30;
+		color: #333;
+		font-size: .9em;
+    }
+    
+    .wp-pop input{
+    	background-color:rgba(255,255,255,1);
+    }
+    
+    .wp-pop-inner-wrapper
+    {
+    	border:1px solid #d8d8d8;
+    	background: #f8f8f8;
+	}
+	
+
+
+    .wp-pop-arrow {
+    	position: absolute;
+    	top: -10px;
+    	right: 10px;
+    	background: url("/Style Library/Hadron/v07/Master/images/drop-down-arrow.png") no-repeat;
+    	width: 25px;
+    	height: 10px
+    }
+    
+    .ms-WPBorder
+    {
+		border:0;
+	}
+
+  
+
+	.wp-people {
+    	padding: .5em;
+    }
+
+    .wp-people-head {
+    	margin-bottom: .75em;
+    	float:left;
+    }
+
+    .wp-people-head h3 span {
+    	float: left;
+    	width: 32px;
+    	height: 24px;
+    	background-image: url("/Style Library/Hadron/v07/Shared/images/icon-sprite.png");
+    	background-repeat: no-repeat;
+    	background-position: -4px -117px;
+    	margin-top:12px;
+    }
+
+    .wp-people-search input,
+    .wp-people-search input[type="search"] {
+    	border-radius: 0;
+    	padding: .7em .2em;
+    	float: left;
+    	font-style: italic;
+    	font-size: 1.2em;
+    	width: 75%;
+    	-webkit-appearance: none;
+		-webkit-border-radius: 0;
+		border: 0;
+		background: #fff;
+		color: #444;
+		margin-top:4px;
+    }
+    
+    @media screen and (max-width: 1150px) {
+	    .wp-people-search input, .wp-people-search input[type="search"]
+	    {
+			width:63%
+		}
+	}
+
+
+    .wp-search-icon {
+    	background-image: url("/Style Library/Hadron/v07/Shared/images/icon-sprite.png");
+    	background-repeat: no-repeat;
+    	background-position: -45px 0px;
+    	float: right;
+    	width: 38px;
+    	height: 40px;
+    	margin-right:30px;
+    }
+
+    .wp-advanced-search {
+    	border-bottom: 5px solid #f1f1f1;
+    }
+
+    .wp-advanced-search input {
+    	margin: 0;
+    	font-size: 1.2em;
+    	padding: 1em .8em;
+    	border: 0;
+    	border-top: 1px solid #d8d8d8;
+    	display: block;
+    	width: 100%;
+    	font-style: italic;
+    	-webkit-appearance: none;
+		-webkit-border-radius: 0;
+		box-sizing: border-box;
+		margin-top:-1px;
+    }
+    
+    .wp-advanced-search
+    {
+		border:1px solid #d8d8d8;
+	}
+
+    a.wp-advanced-search-btn {
+    	padding: 0 .5em;
+    	display: block;
+    	text-decoration: none;
+    	font-size: 1.3em;
+    	font-weight: bold;
+    	height: 46px;
+    	color: #898989;
+    	-webkit-transition: ease-in-out background-color .2s;
+    	-moz-transition: ease-in-out background-color .2s;
+    	transition: ease-in-out background-color .2s;
+    }
+    
+    .wp-advanced-search-btn-text {
+		float: left;
+		margin: 14px 0 0 8px;
+	}
+
+    a.wp-advanced-search-btn .wp-search-icon {
+    	background-position: -45px 0px;
+    }
+
+    a.wp-advanced-search-btn:hover .wp-search-icon {
+    	background-position: -45px 0px;
+    }
+
+    a.wp-advanced-search-btn:hover {
+    	background-color: #377a7d;
+    	color: #fff;
+    }
+    
+
+ /*------------------------------------------------
+	PEOPLE SEARCH WEBPART - END
+  -------------------------------------------------*/
+
+
+  /*------------------------------------------------
+	PROFILE WEBPART (MY DETAILS) - START
+  -------------------------------------------------*/
+
+    .wp-profile {
+    }
+
+    .wp-profile-img {
+    	width: 64px;
+    	height: 64px;
+    	background: #14434D;
+    	display: inline-block;
+    	vertical-align: top;
+    }
+
+    .wp-profile-content {
+    	display: inline-block;
+    	padding: .5em;
+
+    }
+	/* start of update to amend issue of job title overlapping in My Details webpart */
+	.wp-profile-info {
+		position: absolute;
+		left: 80px;
+		top: 2px; 
+		width:60%;
+		}
+
+	.wp-profile-content h3 {
+		line-height: 1.1 !important;
+		margin-bottom: 2px; }
+	/* End of update to amend issue of job title overlapping in My Details webpart */ 
+
+    .wp-profile-info ul {
+    	list-style-type: none;
+    	margin: 0;
+    	padding: 0;
+    	font-size: .9em
+    }
+
+    .wp-profile-info ul li {
+    	display: block;
+    	padding-bottom: 2px;
+    	float: left; 
+    	width: 100%
+    }
+    
+    
+   .wp-profile-info #profileemail, .wp-profile-info #profilephone
+   {
+		width:100%;
+   }
+
+    .wp-profile-info ul li span {
+    	float: left;
+    	width: 18px;
+    	height: 15px;
+    	background-repeat: no-repeat;
+    	margin-right: 8px
+    }
+
+    li.wp-profile-position span {
+    	background-position: -10px -6px;
+    	background-image: url("/Style Library/Hadron/v07/Shared/images/icon-sprite.png");    	
+    }
+
+    .profilephonespan {
+    	background-position: -10px -25px;
+    	background-image: url("/Style Library/Hadron/v07/Shared/images/icon-sprite.png");    	
+    }
+
+    li.wp-profile-email span {
+    	background-position: -10px -41px;
+    	background-image: url("/Style Library/Hadron/v07/Shared/images/icon-sprite.png");    	
+    }
+
+    .wp-profile-pop .wp-pop-inner {
+    	margin: 10px
+    }
+
+    .wp-profile-pop table td {
+    	padding: 1px 28px 1px 2px;
+    }
+
+
+	.wp-profile-icons {
+		position:absolute;
+		right: 0;
+		bottom: -5px;
+		list-style-type: none;
+		margin-right: 10px;
+	}
+	
+	.wp-profile-icons li {
+		display: inline;
+		padding-left: 7px;
+	}
+
+
+  /*------------------------------------------------
+	PROFILE WEBPART (MY DETAILS) - END
+  -------------------------------------------------*/
+
+
+
+
+/*------------------------------------------------
+	hadronPageTile Tiles - Start
+  -------------------------------------------------*/
+.PageTile-column {
+  margin-left: 0; }
+
+.PageTile-column > .groupmarker {
+  /*float: left;*/
+  width: 100%; }
+
+a.hadronPageTile-tile {
+  color: #fff;
+  text-decoration: none;
+  display: block;
+  height: 104px;
+  position: relative;
+  background-position: left top;
+  background-repeat: no-repeat; }
+
+.hadronTileBoxSize {
+  float: left;
+  width: 24%;
+  margin-right: 1%;
+  margin-bottom: 8px;
+  overflow: hidden; }
+
+.tableCol-50 .hadronTileBoxSize {
+  width: 49%; }
+
+a.hadronPageTile-tile:hover {
+  background-color: #C93243; }
+
+.hadronPageTile-tile-header {
+  width: 75%;
+  overflow: hidden;
+  word-break: break-all; }
+
+.hadronPageTile-tile h3 {
+  font-weight: 600;
+  line-height: 1em;
+  color: #fff;
+  font-size: 1.45em;
+  float: left;
+  padding-right: 44px;
+  margin-top: .15em;
+  margin-left: 4px !important; }
+
+.hadronPageTile-tile img {
+  position: absolute;
+  top: 0;
+  width: 25%;
+  height: 100%;
+  right: 0; }
+
+.hadronPageTile-tile-description {
+  display: inline-block;
+  padding: 4px 1% !important;
+  width: 73%;
+  word-break: break-all; }
+
+/*	
+.slm-edit-ecb + div > .hadronPageTile-tile {
+	margin-top: 30px
+}
+*/
+.ms-summaryLinksToolbar.hadronPageTileEditClass a[id*="AddSummaryLink_EditView"] {
+  visibility: hidden;
+  float: right; }
+
+/*------------------------------------------------
+	hadronPageTile Tiles - End
+  -------------------------------------------------*/
+/*ImpactSlider Start*/
+.slider-HeadFix {
+  width: 50%; }
+
+.slider-HeadFix .wrapper {
+  padding: 0 2% 8px 0; }
+
+.tableCol-50 .slider-HeadFix {
+  width: 100%; }
+
+.impactSliderHeight {
+  height: 208px; }
+
+.impactSlide {
+  height: 208px;
+  width: 99%; }
+
+.impactSlide img {
+  left: 50%;
+  margin-left: -256px;
+  position: absolute;
+  top: 0;
+  width: 511px;
+  max-width: none; }
+
+.impactSlide h3 {
+  color: #FFF;
+  padding: 0 10px;
+  margin-top: -5px;
+  font-size: 14px !important;
+  font-weight: 700 !important; }
+
+.impactSlide p {
+  color: #FFF;
+  padding: 0 10px; }
+
+.boxcaption {
+  padding: 0; }
+
+.boxcaptionInner {
+  padding: 10px; }
+
+.boxcaptionInner p {
+  word-wrap: break-word; }
+
+.impactSlide .boxcaption {
+  top: 178px; }
+
+/*ImpactSlider End*/
+/*Headline Events Start*/
+div.event-date {
+  margin: 19px 8px 0 0; }
+
+/*Headline Events End*/
+/*Headline News Start*/
+.newsEventsHeight {
+  height: 208px; }
+
+.news-slide img {
+  margin: 5px 8px 0 0
+  }
+
+/*Headline News End*/
+/*------------------------------------------------
+	hadronPageTile Tiles - Start
+ -------------------------------------------------*/
+.hadronPageTile-column {
+  margin-left: 0; }
+
+.hadronPageTile-column > .groupmarker {
+  /*float: left;*/
+  width: 100%; }
+
+.hadronPageTile {
+  display: block;
+  height: 100px;
+  position: relative;
+  margin-bottom: 8px;
+  overflow: hidden;
+  float: left;
+  width: 24%;
+  margin-bottom: 8px; }
+
+.hadronPageTile a:hover, .hadronTouchTile a:active {
+  text-decoration: none; }
+
+/* Header Zone - start */
+.smallPageTile {
+  width: 11.5%;
+  margin-right: 1%; }
+
+.largePageTile {
+  margin-right: 1%; }
+
+/* Header Zone - end */
+.tableCol-50 .smallPageTile {
+  width: 23%;
+  margin-right: 2%; }
+
+.tableCol-50 .largePageTile {
+  width: 48%;
+  margin-right: 2%; }
+
+.hadronPageTileContent {
+  position: relative;
+  z-index: 5;
+  width: 100%;
+  height: 100%; }
+
+.hadronPageTileContent .hTTDescription {
+  font-family: Segoe UI,Calibri,Verdana,Arial;
+  font-size: 12px;
+  line-height: 1.3;
+  margin-top: 8px;
+  margin-left: 8px;
+  border: 0;
+  color: #FFF;
+  background-color: transparent;
+  text-align: left;
+  text-overflow: ellipsis;
+  max-height: 3em;
+  /*overflow*/
+  /*white-space: nowrap;*/
+  padding-right: 15%;
+  text-overflow: ellipsis;
+  /*word-break: break-all;*?	/*border: 0px solid #000000;*/ }
+
+.hadronPageTileContent .hTTText {
+  font-weight: 500;
+  line-height: 1em;
+  color: #fff;
+  font-size: 15px;
+  margin-top: 6px;
+  margin-left: 8px !important; }
+
+.hadronPageTileContent .httBackgroundImg {
+  width: 30%;
+  position: absolute;
+  z-index: -1;
+  background-size: 100px 100px;
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  opacity: .4;
+  /*instead of using calc which is in css3.0*/
+  background-position: 100% 50%;
+  right: -25px;
+  top: 13px; }
+
+/*------------------------------------------------
+	hadronPageTile Tiles - End
+  -------------------------------------------------*/
+/*------------------------------------------------
+	hadronTouchTile Tiles - Start
+  -------------------------------------------------*/
+.hadronTouchTile-column {
+  margin-left: 0; }
+
+.hadronTouchTile-column > .groupmarker {
+  /*float: left;*/
+  width: 100%; }
+
+.hadronTouchTile {
+  display: block;
+  height: 64px;
+  position: relative;
+  margin-bottom: 8px;
+  overflow: hidden;
+  float: left;
+  width: 24%; }
+
+.hadronTouchTileEdit {
+  display: block;
+  height: 64px;
+  position: relative;
+  margin-bottom: 8px;
+  overflow: hidden;
+  float: left;
+  width: 24%; }
+
+.hadronTouchTile a:hover, .hadronTouchTile a:active {
+  text-decoration: none; }
+
+/* Header Zone - start */
+.smallTouchTile {
+  width: 11.5%;
+  margin-right: 1%; }
+
+.largeTouchTile {
+  margin-right: 1%; }
+
+/* Header Zone - end */
+.tableCol-50 .smallTouchTile {
+  width: 23%;
+  margin-right: 2%; }
+
+.tableCol-50 .largeTouchTile {
+  width: 48%;
+  margin-right: 2%; }
+
+.ms-core-navigation .smallTouchTile {
+  width: 48%;
+  margin-right: 2%; }
+
+.ms-core-navigation .largeTouchTile {
+  width: 99%;
+  margin-right: 1%; }
+
+.hadronTouchTileContent {
+  position: relative;
+  z-index: 5;
+  width: 100%;
+  height: 100%; }
+
+.hadronTouchTileContent .hTTText {
+  font-family: Segoe UI,Calibri,Verdana,Arial;
+  font-size: 14px;
+  border: 0;
+  color: #FFF;
+  background-color: transparent;
+  padding-left: 8px;
+  padding-top: 4px;
+  text-align: left;
+  /*overflow*/
+  /*white-space: nowrap;*/
+  width: 75%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  /*word-break: break-all;*?	/*border: 0px solid #000000;*/ }
+
+.hadronTouchTileContent .httBackgroundImg {
+  position: absolute;
+  z-index: -1;
+  background-size: 64px 64px;
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  opacity: .4;
+  /*instead of using calc which is in css3.0*/
+  background-position: 100% 50%;
+  right: -16px;
+  top: 16px; }
+  
+
+.hadronTouchTileContent .smallImageOnly {
+  background-position: 50% 50%;
+  right: 0;
+  top: 0;
+  background-size: 32px 32px; }
+
+.hadronTouchTileContent .largeImageOnly {
+  background-position: 50% 50%;
+  right: 0;
+  top: 0;
+  background-size: auto 100%; 
+  opacity:1;
+}
+
+/* move edit icon on the tile
+.hadronTouchTileLiItems .slm-edit-ecb {
+	position:absolute;z-index:9999;
+} */
+/*------------------------------------------------
+	hadronTouchTile Tiles - End
+  -------------------------------------------------*/
+/*------------------------------------------------
+Buttons - Start
+  -------------------------------------------------*/
+.HadronButton {
+  margin-bottom: 8px;
+  width: 98%;
+  margin-right: 2%;
+  height: 46px !important; }
+
+.HadronButton button {
+  /* Button 100% size with in the Div Tag applied with  HsdronButton class */
+  height: 100% !important;
+  width: 100% !important;
+  padding-right: 10%;
+  margin-left: 0;
+  font-family: "Segoe UI",Candara,"Bitstream Vera Sans","DejaVu Sans","Bitstream Vera Sans","Trebuchet MS",Verdana,"Verdana Ref",sans-serif;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  border-radius: 3px;
+  color: #fff;
+  text-align: left;
+  font-size: 15px;
+  line-height: 100%;
+  vertical-align: middle;
+  cursor: pointer;
+  font-weight: 400;
+  overflow: hidden;
+  position: relative;
+  padding-left: 14px;
+  padding-top: 0;
+  padding-bottom: 0; }
+
+.HadronButton button span {
+  position: relative;
+  left: 50px; }
+/*
+.HadronButton button,
+.HadronButton button .shade1,
+.HadronButton button .shade2,
+.HadronButton button .shade3 {
+  background: #d5dde0;
+  background: #d5dde0 linear-gradient(rgba(255, 255, 255, 0.3), transparent); }
+
+.HadronButton button:hover,
+.HadronButton button .shade1:hover,
+.HadronButton button .shade2:hover,
+.HadronButton button .shade3:hover {
+  background: #dde4e6;
+  background: #dde4e6 linear-gradient(rgba(255, 255, 255, 0.3), transparent); }
+*/
+.HadronButton button img {
+  position: absolute;
+  left: 14px;
+  top: 6px; 
+ width:32px; 
+ }
+
+/* RHS alignment */
+/* button {margin-left: 0; width: 425px !important;} - overrides system buttons */
+.kpi {
+  width: 332px !important; }
+
+.dfwp-column {
+  padding-left: 0 !important; }
+
+.announcement {
+  width: 334px !important; }
+
+/*------------------------------------------------
+Buttons - End
+  -------------------------------------------------*/
+/*-------------------------------------------------
+Quick Lauch Webpart zone Webparts trunctions due to Webpart title ---- start
+---------------------------------------------------*/
+.ms-core-navigation .ms-webpart-chrome-title .ms-webpart-titleText nobr {
+  white-space: normal; }
+
+/*-------------------------------------------------
+Quick Lauch Webpart zone Webparts trunctions due to Webpart title ---- End
+---------------------------------------------------*/
+/*------------------------------------*\
+    #MY LINKS
+\*------------------------------------*/
+.mylinks {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-size: 14px; }
+
+.mylinks li {
+  margin: 0;
+  padding: 0 0 0 24px;
+  border-bottom: 1px solid #f3f3f3;
+  background: url("/Style Library/Hadron/v07/Shared/Images/icons/link-icon.png") left center no-repeat;
+  background: url("/Style Library/Hadron/v07/Shared/Images/icons/link-icon.svg") left center no-repeat; }
+
+.mylinks li:last-child {
+  border-bottom: none; }
+
+/*------------------------------------*\
+    #FORMS
+\*------------------------------------*/
+/*------------------------------------*\
+    #HELPERS
+\*------------------------------------*/
+.cf:before, .cf:after {
+  content: " ";
+  /* 1 */
+  display: table;
+  /* 2 */ }
+
+.cf:after {
+  clear: both; }
+
+.cf {
+  *zoom: 1; }
+
+/* Corporate Messages CSWP - Start */
+.corp-box {
+  width: 99.95%;
+  margin-top: 0;
+  padding-top: 0; }
+
+.corp-message {
+  background-color: #fff;
+  overflow: hidden;
+  margin-bottom: 8px;
+  margin-right: 2%;
+  height: 64px;
+  position: relative; }
+
+.corp-message a {
+  text-decoration: none;
+}
+
+.corp-message a:link, .corp-message a:visited {
+  color: #000; }
+
+.corp-message a {
+  display: block;
+  height: 62px;
+  border: 0.05vw solid #cbcbd3; }
+
+.corp-message a:hover {
+  background-color: #efefef; }
+
+/*
+.corp-message a img {
+  border: none;
+  outline: none; }
+.corp-message img {
+  border: none;
+  outline: none;
+  position: absolute;
+  left: 26px;
+  top: 18px; }
+  */
+.corp-message p {
+  float: left;
+  padding-left: 64px;
+  margin-top: 0;
+  padding-top: 11px;
+  padding-right: 10px;
+  overflow: hidden;
+  height: 3em;
+  line-height: 1.4;
+  margin: 0; }
+
+.message-1 p {
+  color: #AB433F; }
+
+.message-1 a {
+  background: #ebcccc;
+  border-color: #EAA4AF;
+  background-image: url("/Style Library/Hadron/v07/CorporateMessages/Images/message-critical.svg");
+  background-repeat: no-repeat;
+  background-position: 4% 50%;}
+
+.message-1 a:hover {
+  background-color: #f2dede; }
+  
+
+.message-2 p {
+  color: #8B6E37; }
+
+.message-2 a {
+  background: #faf2cb;
+  border-color: #E4C786;
+  background-image: url("/Style Library/Hadron/v07/CorporateMessages/Images/message-warning.svg");
+  background-repeat: no-repeat;
+  background-position: 4% 50%; }
+
+.message-2 a:hover {
+  background-color: #fcf8e2; }
+  
+
+
+.message-3 p {
+  color: #2D6F90; }
+
+.message-3 a {
+  background: #c2e3f4;
+  border-color: #83D0E1;
+  background-image: url("/Style Library/Hadron/v07/CorporateMessages/Images/message-info.svg");
+  background-repeat: no-repeat;
+  background-position: 4% 50%; }
+  
+
+.message-3 a:hover {
+  background-color: #d8edf8; }
+
+/* Corporate Messages CSWP - End */
+/* PopularITems - Start */
+/* PopularITems - End */
+/* Recently Updated Documents - Start */
+/* Recently Updated Documents - End */
+
+
+.item-content img {
+  float: left;
+  margin-right: 8px;
+  margin-top:5px;
+ }
+
+.news-item {
+  clear: both;
+  float: left; 
+  padding-left:10px;
+  border-bottom:1px solid #d8d8d8;
+  padding-bottom:8px;
+ 
+ }
+  
+.news-item:hover{
+	background-color:#d7dee0;	
+} 
+
+.news-item .item-header a:hover{
+	text-decoration:none;
+}
+
+.news-item .item-header a:hover h2{
+	color:#0893c1;
+}
+
+h2.ms-webpart-titleText {
+  margin-bottom: 0.5em; 
+  margin-left:0px;
+}
+
+.article-header {
+  margin-top: 1em;
+  border-top: 1px solid #dde4e6;
+  border-bottom: 1px solid #dde4e6;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em; }
+
+.article-header span {
+  opacity: 0.8;
+  padding-left: 0.5en;
+  padding-right: 0.5en; }
+
+.article-header span:after {
+  content: " • ";
+  color: #b3b3b3; }
+
+.article-header span:first-child {
+  font-weight: 500;
+  padding-left: 0; }
+
+.article-header span:last-child {
+  padding-right: 0; }
+
+.article-header span:last-child:after {
+  content: none; }
+
+.article-header span:first-child:after {
+  font-weight: bold; }
+  
+/* Start of News Page enhancements */
+  
+.news-keywords {
+	clear:  both;
+	float: left; 
+	border-top: 1px solid #dde4e6;
+	padding-top: 0.5em;
+	margin-left: 0;
+	padding-left: 0;
+	list-style: none;
+	color: #888;
+	width: 100%;
+}
+.news-keyword:before {
+	font-weight: 600;
+}
+.keyword-enterprise:before {
+	content: "Keywords:";
+}
+.keyword-location:before {
+	content: "Location:";
+}
+.keyword-team:before {
+	content: "Team:";
+}
+  
+/* End of News Page enhancements */  
+   
+  
+.HadronBreadcrumb
+{
+	margin-top:0;
+	margin-bottom:0;
+}
+  
+ 
+.s4-breadcrumb-arrowcont img
+{
+	margin: 2px 2px 2px 0;
+}  
+  
+.Page-Tile-Layout  
+{
+	margin-bottom:0px !important;
+}
+  
+.corp-box  
+{
+	margin-bottom:0px;
+}
+
+.recentlyUpdatedDocs-box .ms-itmHoverEnabled:hover > *
+{	
+	border:inherit;
+}
+  
+.recentlyUpdatedDocs-box { 
+	border-collapse: collapse; 
+	width:98%;
+}
+
+.recentlyUpdatedDocs-box .ms-cellstyle, .recentlyUpdatedDocs-box .ms-cellStyleNonEditable, .recentlyUpdatedDocs-box .ms-cellStyleMenuHover, .recentlyUpdatedDocs-box .ms-MenuCellStyle-TdHover, .recentlyUpdatedDocs-box .ms-MenuCellStyle-MenuDivHover
+{
+	border:inherit;
+}
+
+  
+.recentlyUpdatedDocs-box  tr
+{
+	border-bottom: 1px solid #ccc;
+}
+
+
+
+
+.popular-box .ms-itmHoverEnabled:hover > *
+{	
+	border:inherit;
+}
+  
+.popular-box { 
+	border-collapse: collapse; 
+	width:98%;
+	margin-bottom:8px;
+}
+
+.popular-box .ms-cellstyle, .popular-box .ms-cellStyleNonEditable, .popular-box .ms-cellStyleMenuHover, .popular-box .ms-MenuCellStyle-TdHover, .popular-box .ms-MenuCellStyle-MenuDivHover
+{
+	border:inherit;
+}
+
+  
+.popular-box  tr
+{
+	border-bottom: 1px solid #ccc;
+}
+
+h2.ms-webpart-titleText
+{
+  border-top:1px solid #1fa8e3;
+  /* background-image:url("/Style Library/Hadron/v07/Master/images/WebPartTitleGraphic.png") ; */
+  background-repeat:no-repeat;
+  background-position:left 0px top 0px;
+	max-width:98%;
+}
+
+
+.adv-search-menu
+{	
+	top:55px;
+	border-right:1px solid #d8d8d8;
+	border-bottom:1px solid #d8d8d8;
+}
+
+
+
+/* My Links - Start */
+
+.MyLinksWrapper
+{
+	width:98%;
+	margin-right:2%;
+}
+
+
+.MyLinks
+{
+	background-color:#ffffff;
+	margin-bottom:8px;
+	border:1px solid #d8d8d8;
+}
+
+.MyLinks-title
+{
+	font-size:18px;
+	padding-left:10px;
+	padding-top:10px;
+	padding-bottom:10px;
+	color:#838486;
+	font-weight: 600;
+}
+
+.MyLinksList
+{
+	padding-left:10px !important;
+	padding-right:10px !important;
+	position:relative;
+	padding-bottom:8px !important;
+}
+
+.MyLinksList li
+{
+	border-bottom:1px solid #d8d8d8;
+}
+
+.MyLinksList li:hover
+{
+	background-color:#d7dee0;
+}
+
+.MyLinksList li:last-child
+{
+	border-bottom:0;
+}
+
+.MyLinksList li img
+{
+	width:14px;
+	margin-right:10px;
+	opacity:0.5;
+	vertical-align:sub;
+}
+
+.MyLinksList li a
+{
+	display:block;
+	color:#00aee7;
+
+}
+
+
+.MyLinksList li a:hover{
+	text-decoration:none;
+	color:#0893c1;
+}
+
+
+.MyLinksAddLink
+{
+	position:absolute;
+	right:0;
+	top:-29px;
+	font-size:13px;
+	margin-right:20px;
+}
+
+.MyLinksAddLink a
+{
+	color:#565656;
+}
+
+.MyLinksList img
+{
+	width:14px;
+	opacity:0.5;
+	vertical-align:sub;
+}
+
+
+/* My Links - End */
+
+
+/* TeamUpdates - Start */
+
+.HadronTUTitle
+{
+	padding-top:6px;
+}
+
+.HadronTUItem
+{
+	border-bottom:1px solid #d8d8d8;
+	width:98%;
+	margin-right:2%;
+	margin-top:-12px;
+}
+
+.HadronTUItem a
+{
+	color:#0893c1;
+}
+
+.HadronTUItem a:hover
+{
+	color:#0893c1;
+	text-decoration:none;
+}
+
+
+.HadronTUItem:hover{
+	background-color:#d7dee0;
+}
+
+.HadronTUDate
+{
+	font-size:11px;
+	font-weight:bold;
+	color:#0893c1;
+}
+
+.HadronTUBody
+{
+	padding-bottom:8px;
+}
+/* TeamUpdates - End*/
+
+
+/* Recently Updated Documents - Start */
+
+.recentlyUpdatedDocs-box, .popular-box
+{
+	margin-bottom:8px;
+}
+
+
+.recentlyUpdatedDocs-box tr, .popular-box tr
+{
+	height:28px;
+}
+
+/* Recently Updated Documents - End  */
+
+
+
+.ms-core-listMenu-verticalBox > .ms-core-listMenu-root > li > .ms-core-listMenu-item
+{
+	font-weight:bold;
+}
+
+/* Side Nav Box - Start */
+
+#sideNavBox .ms-core-listMenu-root
+{
+	background-color:#e5eaeb;
+	border-top:1px solid #d8d8d8;	
+	width:198px;
+}
+
+
+#sideNavBox .ms-core-listMenu-root li a
+{
+	border-left:6px solid #d8d8d8;
+	border-right:1px solid #d8d8d8;	
+	margin-left:20px;
+}
+
+#sideNavBox .ms-listMenu-editLink
+{
+	margin-left:0px;
+}
+
+#sideNavBox > .ms-core-listMenu-item, .ms-core-listMenu-verticalBox li > .ms-core-listMenu-item
+{
+	padding:5px !important;
+}
+
+#sideNavBox li > ul > li > .ms-core-listMenu-item
+{
+	padding-left:16px !important;
+}
+
+
+
+#sideNavBox .ms-listMenu-editLink
+{
+	display:none;
+}
+
+#sideNavBox .ms-core-listMenu-verticalBox li.static > span.ms-core-listMenu-item, #sideNavBox .ms-blog-listMenu-root li span.ms-core-listMenu-item
+ 
+{
+    border-left: 6px solid #d8d8d8;
+    border-right: 1px solid #d8d8d8;
+    margin-left: 20px;
+}
+
+.ms-core-sideNavBox-removeLeftMargin
+{
+	margin-bottom:8px;
+}
+
+/* Side Nav Box - End */
+
+
+.ms-vl-sectionHeader {
+	display:inline;
+}
+
+
+/* Global hover styles - Start */
+
+.o365cs-contextMenuItemHover {
+	background: #e5eaeb !important; /* Sets the colour of the SuiteBar menu hover */
+}
+
+.ms-vh:hover, .ms-vh2:hover, .ms-vh-icon:hover {
+	background-color: #e5eaeb /* Sets the hover colour of list/library headings */
+}
+	
+.ms-itmHoverEnabled:hover > * {
+	background-color: #e5eaeb /* Sets the hover colour of the list/library row item */
+}
+
+.s4-itm-selected > *, .s4-itm-selected:hover > * {
+	background-color: #d7dee0 /* Sets the colour of the selected list/library row item */
+}
+ 
+.ms-itmHoverEnabled:hover .ms-list-itemLink-td {	
+	background-color: #dddddd; /* Sets the hover colour of the ellipsis of list/library row item */
+}
+ 	
+.s4-itm-selected .ms-list-itemLink-td, .s4-itm-selected:hover .ms-list-itemLink-td {	
+	background-color: #d8d8d8 /* Sets the colour of the selected ellipsis of the list/library row item */
+}
+
+.s4-itm-selected > .ms-vb-imgFirstCell.ms-vb-imgFirstCell {
+	background-color: #4d4d4d; /* Sets the colour of the row selector */
+	border-right-color: #d7dee0 /* Sets the colour of the row selector right border */
+}
+
+.ms-core-menu-link:hover {
+	background-color: #e5eaeb /* Sets the hover colour of the edit item menu */
+}
+
+.ms-acal-vitem, td.ms-acal-vitem {
+	background-color: #e5eaeb /* Sets the colour of a selected calendar cell */
+}
+
+input[type=button]:hover, input[type=reset]:hover, input[type=submit]:hover, button:hover {
+	background-color: #e5eaeb ; /* Sets the hover colour of the OK/Cancel buttons */
+	border-color: #C3C3C3 /* Sets the hover border colour of the OK/Cancel buttons */
+}
+
+.ms-srch-item:hover, .ms-srch-resultHover:hover, .edisc-SearchResultItemContainer:hover {
+	background-color: #e5eaeb /* Sets the hover colour of the search results items */
+}
+
+.ms-vl-apptile:hover
+{
+	background-color: #d7dee0;
+}
+
+.s4-itm-selected > .ms-list-itemLink-td
+{
+	background-color: #cccccc;
+}
+
+/* Global hover styles - End */
+
+
+
+
+
+
+
+
+
+
+/* Events Selector - Start */
+
+		
+		.events-list-wrap
+{
+	margin-bottom:8px;
+	width:98%;
+	margin-right:2%;
+}
+
+		
+		.events-list-wrap h2 {
+			color: #14434D;
+			margin-bottom: 10px;
+		}
+		
+		.events-list {
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+			border:1px solid #d8d8d8;
+			border-left:6px solid #d8d8d8;
+		}
+		
+		
+		
+		.events-list li {
+			display: block;
+			background-color:#ffffff;
+			border-bottom:1px solid #d8d8d8;
+		}
+		
+		.events-list li:last-child
+		{
+			border-bottom:0;
+		}
+
+
+		
+		.events-list li a {
+			display: block;
+			padding: 8px 8px 8px 20px;
+			margin-bottom: 0px;
+			color: #14434D
+		}
+		
+		.events-list li a span {
+			display: table-cell;
+			width: 70%;
+			padding: 0 8px 0 0;
+			color: #14434D
+		}
+		
+		
+		
+		.events-list li a span + span {
+			opacity: .4;
+			filter: alpha(opacity=40);
+		}
+		
+		.events-list li a:hover {
+			text-decoration: none;
+			background: #e5eaeb;
+			color:#0893c1 !important;
+		}
+		.events-list li a:hover span{
+			color:#0893c1 !important;
+		}
+
+				
+		.events-list li a.event-selected {
+			position: relative;
+			background-color:#d7dee0;
+		}
+		
+		.events-list li a.event-selected:before {
+			left: -0px;
+			top: -1px;
+			position: absolute;
+			width: 0px;
+			height: 0px;
+			border-style: solid;
+			border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0)   rgba(0, 0, 0, 0) #FFF;
+		}
+		
+		
+		.events-date {
+		white-space:nowrap;
+		}
+		
+	
+/* Events Selector - End */
+
+
+
+.s4-wpcell > .ms-webpart-chrome, .s4-wpActive > .ms-webpart-chrome h2.ms-webpart-titleText
+{
+	background:none;
+}
+
+
+.ms-blog-quickLinksEntry, .ms-blog-quickLinksTitle
+{
+	margin-left:0 !important;
+}
+
+
+ /*------------------------------------------------
+	RSS
+  -------------------------------------------------*/
+
+a.rss-item {
+	position: relative;
+	color: #444;
+	padding: 4px;
+	/*-webkit-transition: ease-in-out .25s;
+	-moz-transition: ease-in-out .25s;
+	transition: ease-in-out .25s; */
+}
+
+a.rss-item h3 {
+	color: #14b4e8;
+	margin-bottom: 0;
+	line-height: 1em;
+}
+
+.hadron-rss-grid
+{
+	margin-bottom:8px;
+	width:98%;
+	margin-right:2%;
+}
+
+
+
+.hadron-rss-grid .rss-item {
+	width: 45%;
+	display: inline-block;
+	margin-right: 1%;
+	padding-top: 10px;
+	vertical-align: top;
+	border-bottom:1px solid #d8d8d8;
+}
+
+.hadron-rss-vertical
+{
+	margin-bottom:8px;
+	width:98%;
+	margin-right:2%;
+	margin-top: 8px;
+}
+
+.hadron-rss-vertical .rss-item {
+	display: block;
+	padding-top: 4px;
+	border-bottom: 1px dotted #c0c0c0;
+}
+
+.rss-item-img {
+	float: left;
+	margin: 0 8px 8px 0;
+	<!-- position: absolute;   Effects the image rendering on the right in FF and IE8 -->
+	border:0;
+}
+
+.rss-item .rss-item-info {
+	<!-- padding-left: 43px;   Effects the image rendering on the right in FF and IE8 -->
+}
+
+a.rss-item:hover {
+	background: #d7dee0;
+	text-decoration:none;
+}
+
+a.rss-item:hover h3 {
+	color: #98bf0c;
+}
+
+.groupheader {
+  font-size: 13pt;
+  font-weight: lighter;
+  color: #838486;
+}
+
+.groupheader {
+  font-size: 13pt;
+  font-weight: lighter;
+  color: #838486;
+}
+
+
+
+ /*------------------------------------------------
+	RSS
+  -------------------------------------------------*/
+  
+  
+  /* Risk Rollup - Start  */
+  
+  	   .risk-rollup-main
+  	   {	
+			margin-bottom:8px !important;
+			width:98% !important;
+			margin-right:2% !important;
+		} 
+		
+		.risk-rollup-main .groupheader
+		{
+			margin-bottom:0;
+		}
+  
+  		.HeaderWrapper {
+          width:98%;
+          margin-right:2%;
+          font-size: 0.85em;
+          color: #777;     
+          line-height:28px;  
+                 
+        }
+                
+        .RiskWrapper {
+          width:100%;
+          color: #6d6f72;
+          vertical-align: top;
+          line-height: 20px;
+          font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif;
+          border-bottom:1px solid #d8d8d8;
+        }
+        
+        .RiskWrapper:hover {
+          width:100%;
+          background-color:#d7dee0;
+        }
+                
+        .HeaderTitle {
+          display:inline-block;
+          width:40%;  
+          vertical-align:middle;
+          padding-left:2%;
+          padding-right:8%
+        }
+         
+        .RiskTitle {
+          display:inline-block;
+          width:40%;
+          padding-left:2%;
+          padding-right:8%
+        }
+        
+        .RiskTitle a:link, .RiskTitle a:visited {
+          color: #565656;
+        }
+         
+        .RiskTitle a:hover {
+          color: #0893c1;
+          text-decoration:none;
+        }
+        
+        .HeaderCost {
+          display:inline-block;
+          width:25%;
+          vertical-align:middle;
+        }
+      
+        .RiskCost {
+          display:inline-block;
+          width:25%;
+          vertical-align:top;
+	}
+      
+        .HeaderScore {
+          display:inline-block;
+          width:13%;
+          vertical-align:middle
+        }
+      
+        .RiskScore {
+          display:inline-block;
+          width:13%;
+          vertical-align:top
+        }
+      
+        .HeaderKPI {
+          display:inline-block;
+          width:10%;
+          vertical-align:middle;
+          text-align:right;
+          padding-right:2%
+        }  
+        
+        .RiskKPI {
+          display:inline-block;
+          vertical-align:top;
+          width:10%;   
+          text-align:right;
+          padding-right:2%
+        } 
+       
+       
+  
+  /* Risk Rollup - End */
+  
+  
+  
+  .ms-vb a:hover, .ms-vb2 a:hover
+  {
+	color:#2aa8dd !important;
+	text-decoration:none !important;
+  }
+
+
+.recentlyUpdatedDocs-box .ms-itmHoverEnabled:hover > *, .popular-box .ms-itmHoverEnabled:hover > * {
+	background-color:#d7dee0 !important;
+}
+
+.ms-vb-icon
+{
+	padding:5px 8px 0 4px;
+}
+
+
+table.ms-acal-month
+{
+	background-color:#ffffff;
+}
+
+#AsynchronousViewDefault_CalendarView
+{
+	width:98%;
+	margin-right:2%;
+	margin-bottom:8px;
+}
+
+.wp-pop-inner a.wp-advanced-search-btn
+{
+	background-color:#e5eaeb;
+}
+
+.wp-pop-inner  a.wp-advanced-search-btn:hover
+{
+	background-color:#d8d8d8;
+	color:#0893c1;
+}
+
+
+/*.ms-vb2
+{
+	padding-top:8px;
+	padding-bottom:8px;
+}
+*/
+
+table.ms-listviewtable
+{
+	
+	margin-bottom:8px;
+}
+
+
+/* KPIs */
+
+	.kpi-tile {
+			background-color:#fff;
+			overflow:hidden;
+			margin-bottom:8px;
+			margin-right:8px;
+			height:64px;
+			position:relative;
+		}
+		
+		.kpi-tile a {
+			text-decoration:none;
+			-webkit-transition:all 400ms ease;
+			-moz-transition:all 400ms ease;
+			-o-transition:all 400ms ease;
+			transition:all 400ms ease;
+		}
+		
+		.kpi-tile a:link,.kpi a:visited {
+			color:#000;
+		}
+		
+		.kpi-tile a {
+			display:block;
+			height:62px;
+			border:1px solid #cbcbd3;
+		}
+		
+		.kpi-tile a:hover {
+			background-color:#efefef;
+		}
+		
+		.kpi-tile .kpi-value {
+      font-size: 36px;
+      float: left;
+      display: block;
+      min-width: 66px;
+      margin-left: 10px;
+      margin-top: 5px;
+      padding-right: 14px; 
+		}
+		
+		.kpi-tile a img {
+			border:none;
+			outline:none;
+		}
+		
+		.kpi-tile img {
+			border:none;
+			outline:none;
+			position:absolute;
+			right:14px;
+			top:17px;
+		}
+		
+		.kpi-tile p {
+      display: block;
+			padding-top: 0;
+      padding-right: 50px;
+      height: 2.8em;
+      overflow: hidden;
+		}
+		
+		.kpi-positive p {
+			color:#142600;
+		}
+		
+		.kpi-positive a:hover {
+			background-color:#EEFAE2;
+			border-color:#c5e2a4;
+		}
+		
+		.kpi-positive .kpi-value {
+			color:#62a514;
+		}
+		
+		.kpi-neutral p {
+			color:#262500;
+		}
+		
+		.kpi-neutral a:hover {
+			background-color:#FCF8E2;
+			border-color:#f0df94;
+		}
+		
+		.kpi-neutral .kpi-value {
+			color:#e3be1e;
+		}
+		
+		.kpi-negative p {
+			color:#250000;
+		}
+		
+		.kpi-negative a:hover {
+			background-color:#FFF2E9;
+			border-color:#f2c5c3;
+		}
+		
+		.kpi-negative .kpi-value {
+			color:#ef3932;
+		}
+
+		/* sridhar - 16/09/2015 - to add color to group titles */
+		.KPIGroupHeading{
+			color:#055F92;
+			padding-bottom:8px;
+
+			
+		}
+
+/*----------------------------------------------------------------------*\
+    HADRON STYLES - END
+\*----------------------------------------------------------------------*/
+
+/*----------------------------------------------------------------------*\
+    NO MASTER PAGE - START
+\*----------------------------------------------------------------------*/
+
+#titleAreaBox #pageTitle
+{		
+	margin-top:22px;
+	margin-left:50px;
+}
+	   
+#contentRow
+{
+	padding-top:50px;
+}
+	
+
+#siteIcon
+{
+	margin-top:8px;
+}
+
+.ms-mpSearchBox
+{
+	padding-top:16px;
+}
+
+.ms-core-listMenu-horizontalBox
+{
+	margin-top:14px;	
+}
+
+.ms-mpSearchBox
+{
+	right:-15px;
+}
+
+.HadronBreadcrumb
+{
+	border-bottom:0;
+}
+
+.adv-search-menu
+{
+	top:49px;
+}
+
+#ms-pageDescription
+{
+	display:none !important;
+}
+
+#footerBars
+{
+	display:none;
+}
+
+/*----------------------------------------------------------------------*\
+    NO MASTER PAGE - END
+\*----------------------------------------------------------------------*/
+
+
+
+/*----------------------------------------------------------------------*\
+    RESPONSIVE - START
+\*----------------------------------------------------------------------*/
+
+.MobileMenu
+{
+	display:none;
+	z-index:9999;
+}
+
+.news-slide h2 a
+{
+	text-overflow:ellipsis;
+	overflow:hidden;
+	white-space:nowrap;
+	display:block;
+	color: white;
+}
+
+
+.news-slide p
+{
+	height:100px;
+	overflow:hidden;
+	text-overflow:ellipsis;
+}
+
+.hadronPageTileContent .hTTDescription
+{
+	max-height:62px;
+	overflow:hidden;
+}
+
+.MHide
+{
+	display:block;
+}
+
+.MShow
+{
+	display:none;
+}
+
+
+
+
+
+@media screen and (max-width: 1005px) {
+
+	#contentBox
+	{
+		min-width:0px;
+	}
+	
+	#titleAreaRow
+	{
+		display:block;
+	}
+	
+	#s4-titlerow
+	{
+		height:auto;
+		padding-bottom:0;
+	}
+	
+	#siteIcon
+	{
+		float:none;
+		display:block;
+		height:auto;
+		line-height:normal;
+		text-align:left;
+	}
+	
+	#DeltaSiteLogo
+	{
+		display:inline-block;
+		margin:auto;
+	}
+	
+		
+	.ms-mpSearchBox
+	{
+		position:absolute;
+		right:20px;
+	}
+
+
+}
+
+    
+
+
+
+@media screen and (max-width: 830px) {
+
+
+	.ms-mpSearchBox
+	{
+		position:relative;
+		right:-18px;
+	}
+
+
+	#suiteBar, #s4-ribbonrow
+	{
+		display:none;
+	}
+
+
+.MHide
+{
+	display:none;
+}
+
+.MShow
+{
+	display:block;
+}
+
+
+.ms-core-listMenu-horizontalBox ul, .ms-core-listMenu-horizontalBox li, .ms-core-listMenu-horizontalBox .ms-core-listMenu-item, .ms-core-listMenu-horizontalBox > ul > li > tablem, .welcome .ms-webpart-chrome
+{
+	display:block;
+}
+
+ul.dynamic
+{
+	background-color: transparent !important;
+    border: none !important;;
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0)  !important;
+    left: 0px !important;
+    padding: 10px;
+    position: static !important;
+    top: 0px !important;
+    white-space: normal;
+    word-wrap: break-word;
+    z-index: 50;
+}
+
+#SearchBox
+{
+	margin-left:8px;
+}
+
+#siteIcon
+{
+	margin-top:8px;	
+}
+
+#DeltaSiteLogo
+{
+	margin-left:9px;
+}
+
+#titleAreaBox
+{
+	width:100%;
+	margin:0;
+}
+
+
+#DeltaTopNavigation > div > ul
+{
+	height:auto !important;
+	width:auto;
+	position:absolute;
+	right:2%;
+	z-index:99999;
+	background-color: #e5eaeb;
+    border-bottom: 1px solid #d8d8d8;	
+    border-left: 8px solid #d8d8d8;	
+    top:42px;
+}
+
+
+.HadronBreadcrumb
+{
+	display:none;
+}
+
+#DeltaTopNavigation > div > ul
+{
+	display:none;
+}
+
+.adv-search-menu
+{
+	margin-left:3px;
+	margin-top:1px;
+}
+
+#DeltaPlaceHolderLeftNavBar
+{
+	display:none;
+    background-color: #e5eaeb;
+    border: 1px solid #d8d8d8;
+    display: none;
+    left: 0;
+    margin-top: 0;
+    position: fixed;
+    z-index: 9999;
+   height: calc(100% - 130px);
+    overflow:scroll;
+    top:107px;
+    width:180px;
+ }
+
+ #suiteBarDelta
+ {
+	 display:none;
+ }
+
+#sideNavBox
+{
+	margin-top:8px;
+	float:none;
+}
+
+
+.MobileMenu
+{
+	display:block;
+	cursor:pointer;	
+}
+
+#MobileMainMenu
+{	
+	background-image:url('/Style Library/Hadron/v07/Master/images/GlobalMenuIcon.png');
+	background-size:100%;
+	width:24px;
+	height:24px;
+	position:absolute;
+	right:2%;	
+	margin-top:-29px;
+}
+
+#MobileSideMenu
+{	
+	background-image:url('/Style Library/Hadron/v07/Master/images/GlobalMenuIcon.png');
+	width:32px;
+	height:32px;
+	margin-bottom:8px;
+	left:0;
+	position:fixed;
+	top:106px;
+	background-color:#0893c1;
+	opacity:0.5;
+	background-size:60% 60%;
+	background-position:center center;
+	background-repeat:no-repeat;
+}
+
+
+.ms-core-pageTitle, .ms-core-pageTitle
+{
+	padding-top:0px;
+}
+
+#DeltaTopNavigation .ms-core-listMenu-horizontalBox ul.root > li:first-child
+{
+	padding:0;
+}
+
+.ms-core-listMenu-horizontalBox
+{
+	margin-top:0;
+}
+
+#DeltaTopNavigation > div > ul ul ul 
+{
+	display:none;
+}
+
+#DeltaTopNavigation .ms-core-listMenu-horizontalBox li
+{
+	padding-left:0px;
+}
+
+#DeltaTopNavigation .ms-core-listMenu-horizontalBox li
+{
+	padding:0;
+}
+
+.ms-core-listMenu-horizontalBox li.static > .ms-core-listMenu-item
+{
+	margin:0;
+	color:#565656;
+	border-bottom:1px solid #d8d8d8;
+	padding:5px 10px 5px 12px;
+
+}
+
+.ms-breadcrumb-box
+{
+	margin:auto;
+	width:auto;
+}
+
+.ms-core-listMenu-horizontalBox .dynamic-children.additional-background
+{
+	background:none;
+}
+
+#contentBox
+{
+	margin-left:2%;
+	margin-right:0;
+}
+
+.ms-mpSearchBox
+{
+	right:4px;
+	padding-top:16px;
+}
+
+.s4-wpcell > .ms-webpart-chrome, .s4-wpActive > .ms-webpart-chrome
+{
+	border:0;
+}
+
+.largeTouchTile 
+{
+	width:98% !important;
+}
+
+.smallTouchTile 
+{
+	width:48% !important;
+}
+
+#footer ul
+{
+	height:auto;
+}
+
+
+
+/**** Small Calendar ***/ 
+.ms-acal-item{height: 10px !important;} 
+.ms-acal-sdiv, 
+.ms-acal-mdiv, 
+.ms-acal-ctrlitem, 
+.ms-acal-month-weeksel, 
+.ms-acal-title, 
+.ms-acal-month-top span{display: none;} 
+.ms-acal-summary-itemrow TD DIV{height: 15px !important;} 
+
+
+
+/* Search Box width */
+
+.ms-srch-sb > input, .ms-srch-sb > input:focus
+{
+	width:100%;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+	padding:20px;
+	margin:0;
+}
+
+#titleAreaRow .ms-tableCell
+{
+	display:block;
+}
+
+#titleAreaRow .ms-mpSearchBox
+{
+	right:auto;
+	width:100%;
+}
+
+
+#titleAreaRow .ms-floatRight
+{
+	float:none;
+}
+
+#SearchBox
+{
+	margin-left:8px;
+	margin-right:2%;
+}
+
+#searchInputBox
+{
+	width:100%;
+}
+
+
+.ms-breadcrumb-box
+{
+	height:0;
+}
+
+#titleAreaRow .ms-srch-sb-border, .ms-srch-sb-borderFocused, .ms-srch-sb-border:hover
+{
+	width:100%;
+}
+
+.adv-search-menu
+{
+	top:50px;
+}
+
+/* Search Box width */
+
+
+#Tabs, #HadronDepartmentDirectory
+{
+	margin-right:2%;
+}
+
+#footer ul li.social
+{
+	border:0;
+}
+
+#footer ul li.social a
+{
+	width:28px;
+}
+
+#footer ul li.feedback a
+{
+  background-position: 56px 10px;
+  padding-left:0;
+  padding-right:8px;
+  margin-top:-12px;
+}
+
+.footer-inner
+{
+	padding-top:0px;
+}
+
+.footer-inner .linkedin
+{
+	margin-left:12px;
+}
+
+.footer-inner .facebook
+{
+	top:-1px;
+}
+
+
+.footer-inner .twitter
+{
+	margin-left:10px;
+}
+
+.footer-inner .footer-copyright
+{
+	margin-top:6px;
+}
+
+
+#footer ul li.text a
+{
+	padding-bottom:0;
+	top:0;
+}
+
+.news-slide img
+{
+	width:54px;
+	margin-top:4px;
+}
+
+div.event-date
+{
+	margin-top:19px;
+}
+
+
+.events-slide p
+{
+	margin-top:16px;
+}
+
+.news-slide p
+{
+	margin-top:15px;
+}
+
+
+#footer ul li.feedback a
+{
+	background-image:none;
+}
+
+
+div.event-date span
+{
+	font-size:12px;
+	padding-top:3px;
+	padding-bottom:3px;	
+}
+
+.feedback img
+{
+	width:32px;
+	height:22px;
+	margin-top:4px;
+	vertical-align:baseline;
+}
+
+  div.event-date {
+    width: 56px;
+    font-size: 14px; }
+
+  span {
+    padding-top: 2px;
+    padding-bottom: 2px; }
+
+  span.cal-day {
+    font-size: 22px;
+    margin-bottom: 0; }
+
+  span.date {
+    color: #fff; } 
+
+	#navresizerVerticalBar
+	{
+		display:none;
+	}
+
+}
+
+@media screen and (max-width: 600px) {
+
+	.welcome .ms-table, .welcome .ms-webpart-zone, .welcome .ms-webpart-cell-vertical 
+	{
+		display:block !important;
+	}
+
+	.tableCol-50
+	{
+		display:block;
+		width:100%;
+	}
+	
+	#pageTitle
+	{		
+		margin-top:62px !important;
+		margin-left:8px !important;
+	}
+	   
+
+	
+}
+
+
+
+@media screen and (max-width: 580px) {
+	#HadronDepartmentDirectory
+	{
+		font-size:12px;
+	}
+}
+
+
+
+
+
+
+
+@media (max-width: 1240px) {
+
+.tableCol-50 .ms-wpContentDivSpace .ms-listviewtable th:nth-child(8), .tableCol-50 .ms-wpContentDivSpace .ms-listviewtable th:nth-child(9), .tableCol-50 .ms-wpContentDivSpace .ms-listviewtable th:nth-child(10), .tableCol-50 .ms-wpContentDivSpace .ms-listviewtable th:nth-child(11), .tableCol-50 .ms-wpContentDivSpace .ms-listviewtable th:nth-child(12), .tableCol-50 .ms-wpContentDivSpace .ms-listviewtable th:nth-child(13), .tableCol-50 .ms-wpContentDivSpace .ms-listviewtable th:nth-child(14), .tableCol-50 .ms-wpContentDivSpace .ms-listviewtable th:nth-child(15)
+{ 
+	display:none;
+} 
+
+ .tableCol-50 .ms-wpContentDivSpace .ms-listviewtable td:nth-child(8), .tableCol-50 .ms-wpContentDivSpace .ms-listviewtable td:nth-child(9), .tableCol-50 .ms-wpContentDivSpace .ms-listviewtable td:nth-child(10), .tableCol-50 .ms-wpContentDivSpace .ms-listviewtable td:nth-child(11), .tableCol-50 .ms-wpContentDivSpace .ms-listviewtable td:nth-child(12), .tableCol-50 .ms-wpContentDivSpace .ms-listviewtable td:nth-child(13), .tableCol-50 .ms-wpContentDivSpace .ms-listviewtable td:nth-child(14), .tableCol-50 .ms-wpContentDivSpace .ms-listviewtable td:nth-child(15)
+{ 
+	display:none;
+} 
+
+}
+
+@media (max-width: 1190px) {
+	.tableCol-50 .ms-wpContentDivSpace .ms-listviewtable th:nth-child(7),  .tableCol-50 .ms-wpContentDivSpace .ms-listviewtable td:nth-child(7)
+	{
+		display:none;
+	}
+}
+
+@media (max-width: 1112px) {
+	.tableCol-50 .ms-wpContentDivSpace .ms-listviewtable th:nth-child(6),  .tableCol-50 .ms-wpContentDivSpace .ms-listviewtable td:nth-child(6)
+	{
+		display:none;
+	}
+	
+.ms-wpContentDivSpace .ms-listviewtable th:nth-child(8), .ms-wpContentDivSpace .ms-listviewtable th:nth-child(9), .ms-wpContentDivSpace .ms-listviewtable th:nth-child(10), .ms-wpContentDivSpace .ms-listviewtable th:nth-child(11), .ms-wpContentDivSpace .ms-listviewtable th:nth-child(12), .ms-wpContentDivSpace .ms-listviewtable th:nth-child(13), .ms-wpContentDivSpace .ms-listviewtable th:nth-child(14), .ms-wpContentDivSpace .ms-listviewtable th:nth-child(15)
+{ 
+	display:none;
+} 
+
+ .ms-wpContentDivSpace .ms-listviewtable td:nth-child(8), .ms-wpContentDivSpace .ms-listviewtable td:nth-child(9), .ms-wpContentDivSpace .ms-listviewtable td:nth-child(10), .ms-wpContentDivSpace .ms-listviewtable td:nth-child(11), .ms-wpContentDivSpace .ms-listviewtable td:nth-child(12), .ms-wpContentDivSpace .ms-listviewtable td:nth-child(13), .ms-wpContentDivSpace .ms-listviewtable td:nth-child(14), .ms-wpContentDivSpace .ms-listviewtable td:nth-child(15)
+{ 
+	display:none;
+} 
+
+
+	
+}
+
+@media (max-width: 1030px) {
+	.tableCol-50 .ms-wpContentDivSpace .ms-listviewtable th:nth-child(5),  .tableCol-50 .ms-wpContentDivSpace .ms-listviewtable td:nth-child(5)
+	{
+		display:none;
+	}
+}
+
+@media (max-width: 900px) {
+	.tableCol-50 .ms-wpContentDivSpace .ms-listviewtable th:nth-child(4),  .tableCol-50 .ms-wpContentDivSpace .ms-listviewtable td:nth-child(4)
+	{
+		display:none;
+	}
+
+	.ms-wpContentDivSpace .ms-listviewtable th:nth-child(7),  .ms-wpContentDivSpace .ms-listviewtable td:nth-child(7)
+	{
+		display:none;
+	}
+
+	
+	
+}
+
+
+
+}
+
+@media (max-width: 600px) {
+
+	.ms-wpContentDivSpace .ms-listviewtable th:nth-child(6),  .ms-wpContentDivSpace .ms-listviewtable td:nth-child(6)
+	{
+		display:none;
+	}	
+	
+}
+
+@media (max-width: 460px) {
+
+		.ms-wpContentDivSpace .ms-listviewtable th:nth-child(4),  .ms-wpContentDivSpace .ms-listviewtable td:nth-child(4), .ms-wpContentDivSpace .ms-listviewtable th:nth-child(5),  .ms-wpContentDivSpace .ms-listviewtable td:nth-child(5)
+	{
+		display:none;
+	}	
+	
+}
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 1240px) {
+
+.tableCol-50 .ms-wpContentDivSpace .ms-emptyView th:nth-child(8), .tableCol-50 .ms-wpContentDivSpace .ms-emptyView th:nth-child(9), .tableCol-50 .ms-wpContentDivSpace .ms-emptyView th:nth-child(10), .tableCol-50 .ms-wpContentDivSpace .ms-emptyView th:nth-child(11), .tableCol-50 .ms-wpContentDivSpace .ms-emptyView th:nth-child(12), .tableCol-50 .ms-wpContentDivSpace .ms-emptyView th:nth-child(13), .tableCol-50 .ms-wpContentDivSpace .ms-emptyView th:nth-child(14), .tableCol-50 .ms-wpContentDivSpace .ms-emptyView th:nth-child(15)
+{ 
+	display:none;
+} 
+
+ .tableCol-50 .ms-wpContentDivSpace .ms-emptyView td:nth-child(8), .tableCol-50 .ms-wpContentDivSpace .ms-emptyView td:nth-child(9), .tableCol-50 .ms-wpContentDivSpace .ms-emptyView td:nth-child(10), .tableCol-50 .ms-wpContentDivSpace .ms-emptyView td:nth-child(11), .tableCol-50 .ms-wpContentDivSpace .ms-emptyView td:nth-child(12), .tableCol-50 .ms-wpContentDivSpace .ms-emptyView td:nth-child(13), .tableCol-50 .ms-wpContentDivSpace .ms-emptyView td:nth-child(14), .tableCol-50 .ms-wpContentDivSpace .ms-emptyView td:nth-child(15)
+{ 
+	display:none;
+} 
+
+}
+
+@media (max-width: 1190px) {
+	.tableCol-50 .ms-wpContentDivSpace .ms-emptyView th:nth-child(7),  .tableCol-50 .ms-wpContentDivSpace .ms-emptyView td:nth-child(7)
+	{
+		display:none;
+	}
+}
+
+@media (max-width: 1112px) {
+	.tableCol-50 .ms-wpContentDivSpace .ms-emptyView th:nth-child(6),  .tableCol-50 .ms-wpContentDivSpace .ms-emptyView td:nth-child(6)
+	{
+		display:none;
+	}
+	
+.ms-wpContentDivSpace .ms-emptyView th:nth-child(8), .ms-wpContentDivSpace .ms-emptyView th:nth-child(9), .ms-wpContentDivSpace .ms-emptyView th:nth-child(10), .ms-wpContentDivSpace .ms-emptyView th:nth-child(11), .ms-wpContentDivSpace .ms-emptyView th:nth-child(12), .ms-wpContentDivSpace .ms-emptyView th:nth-child(13), .ms-wpContentDivSpace .ms-emptyView th:nth-child(14), .ms-wpContentDivSpace .ms-emptyView th:nth-child(15)
+{ 
+	display:none;
+} 
+
+ .ms-wpContentDivSpace .ms-emptyView td:nth-child(8), .ms-wpContentDivSpace .ms-emptyView td:nth-child(9), .ms-wpContentDivSpace .ms-emptyView td:nth-child(10), .ms-wpContentDivSpace .ms-emptyView td:nth-child(11), .ms-wpContentDivSpace .ms-emptyView td:nth-child(12), .ms-wpContentDivSpace .ms-emptyView td:nth-child(13), .ms-wpContentDivSpace .ms-emptyView td:nth-child(14), .ms-wpContentDivSpace .ms-emptyView td:nth-child(15)
+{ 
+	display:none;
+} 
+
+
+	
+}
+
+@media (max-width: 1030px) {
+	.tableCol-50 .ms-wpContentDivSpace .ms-emptyView th:nth-child(5),  .tableCol-50 .ms-wpContentDivSpace .ms-emptyView td:nth-child(5)
+	{
+		display:none;
+	}
+}
+
+@media (max-width: 900px) {
+	.tableCol-50 .ms-wpContentDivSpace .ms-emptyView th:nth-child(4),  .tableCol-50 .ms-wpContentDivSpace .ms-emptyView td:nth-child(4)
+	{
+		display:none;
+	}
+
+	.ms-wpContentDivSpace .ms-emptyView th:nth-child(7),  .ms-wpContentDivSpace .ms-emptyView td:nth-child(7)
+	{
+		display:none;
+	}
+
+	
+	
+}
+
+
+@media (max-width: 600px) {
+
+	.ms-wpContentDivSpace .ms-emptyView th:nth-child(6),  .ms-wpContentDivSpace .ms-emptyView td:nth-child(6)
+	{
+		display:none;
+	}	
+	
+}
+
+@media (max-width: 460px) {
+
+		.ms-wpContentDivSpace .ms-emptyView th:nth-child(6),  .ms-wpContentDivSpace .ms-emptyView td:nth-child(6), .ms-wpContentDivSpace .ms-emptyView th:nth-child(4),  .ms-wpContentDivSpace .ms-emptyView td:nth-child(4), .ms-wpContentDivSpace .ms-emptyView th:nth-child(5),  .ms-wpContentDivSpace .ms-emptyView td:nth-child(5)
+	{
+		display:none;
+	}	
+	
+}
+
+/*----------------------------------------------------------------------*\
+    RESPONSIVE - END
+\*----------------------------------------------------------------------*/
+
