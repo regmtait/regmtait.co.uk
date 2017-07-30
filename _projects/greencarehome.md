@@ -4,7 +4,7 @@ title: Green Care Home
 permalink: projects/green-care-home/
 nav-class: projects
 date: 2015-05-17 00:00:00 +0000
-categories: featured website
+categories: website
 description: Web design and development for a care home near Hull, including photography and full CMS.
 keywords: CMS, expression engine, art direction, photography, web design, web development
 meta-title: Web design and development for a Care Home

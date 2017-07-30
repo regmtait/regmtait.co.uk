@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Cloud2
+title: Design for Digital Transformation
 permalink: projects/cloud2/
 nav-class: projects
 date: 2017-01-28 00:00:00 +0000
@@ -8,7 +8,7 @@ keywords: intranets, branding, design, UI, UX
 categories: featured website
 description: Design and front end development for Digital Transformation
 meta-title: Design, branding and web development for Digital Transformation and Intranets
-excerpt: Design for Digital Transformation—enterprise intranets and business intelligence
+excerpt: Enterprise intranets and business intelligence for Cloud2
 
 client:
 - Cloud2
