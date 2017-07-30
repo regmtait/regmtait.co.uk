@@ -32,11 +32,6 @@ projectimages:
 - image-file: tega-iphone.jpg
   image-alt: Responsive website for handheld, mobile and tablets
 
-website:
-- 
-
-project-url:
-- 
 
 ---
 
