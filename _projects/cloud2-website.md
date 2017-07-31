@@ -23,8 +23,6 @@ coverimage:
 projectimages:
 - image-file:   c2web-homepage.jpg
   image-alt:    Cloud2 website homepage
-- image-file:   c2web-devices.jpg
-  image-alt:    Cloud2 website on Apple devices
 - image-file:   c2web-event.jpg
   image-alt:    Events from Cloud2
 - image-file:   c2web-share.jpg
