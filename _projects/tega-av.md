@@ -8,8 +8,6 @@ keywords: responsive, web design, web development, expressionengine, hull
 description: Responsive web design and development for leading Hull Audio Visual company.
 excerpt: Responsive website for a leading Hull audio visual company
 
-client:
-- Premiere Books
 
 tasks:
 - Branding
@@ -29,9 +27,6 @@ projectimages:
   image-alt: Product and services listing page
 - image-file: tega-map.gif
   image-alt: Responsive Google map for Tega AV
-- image-file: tega-iphone.jpg
-  image-alt: Responsive website for handheld, mobile and tablets
-
 
 ---
 
