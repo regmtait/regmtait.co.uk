@@ -30,9 +30,9 @@ projectimages:
 
 ---
 
-Cloud2 make award-winning products and services for enterprise and NHS customers. I helped bring their web presence up to date with a visually engaging design and custom content management (CMS) system.
+Cloud2 make award-winning products and services for enterprise and NHS customers. I helped bring their web presence up to date with a visually engaging design and custom content management system.
 
-The goal of the website was to convey the essence of Cloud2's commitment to helping their customers with '[Digital Transformation](https://cloud2.co.uk/page/digital-transformation 'What's 'Digital Transformation?')' without getting too technical. 
+The goal of the website was to convey Cloud2's commitment to helping their customers with '[Digital Transformation](https://cloud2.co.uk/page/digital-transformation 'What's 'Digital Transformation?')' without getting too technical. 
 
 As well as this Cloud2 needed an [Events](https://cloud2.co.uk/events 'Events at Cloud2') section to promote their popular seminars, and a [Case Studies](https://cloud2.co.uk/stories 'Case Study stories from Cloud2') area.
 
@@ -44,6 +44,6 @@ Initial visuals were mocked up with [Sketch](https://www.sketchapp.com/ 'Sketch 
 
 With the design complete—and much of the copy ready—we switched to the <abbr title="content management system">CMS</abbr>. I suggested [ExpressionEngine](https://expressionengine.com/ 'ExpressionEngine CMS') due to its flexibility and security—the best in it's class.
 
-Jekyll uses the [Liquid templating language](https://shopify.github.io/liquid/ 'Liquid templating language from Shopify'), which is similar to ExpressionEngine's templating system, so it was simple to jump to <abbr title="ExpressionEngine">EE</abbr> at a relatively late stage in the project. I kept the build lightweight with minimal reliance on plug-ins.
+Jekyll uses the [Liquid templating language](https://shopify.github.io/liquid/ 'Liquid templating language from Shopify'), which is similar to ExpressionEngine's templating system, so it was simple to jump to <abbr title="ExpressionEngine">EE</abbr> at a relatively late stage in the project.
 
 This was my first build with the new ExpressionEngine 3. I'm more of a <a href="https://jamstack.org/" title="What's the JAMStack?">JAMStack</a> fan these days but enjoyed working with ExpressionEngine after some time away.
