@@ -4,7 +4,7 @@ title: Hull Art Circle
 permalink: projects/hullartcircle/
 nav-class: projects
 date: 2016-02-16 00:00:00 +0000
-categories: featured website
+categories: website
 description: Reg Tait is a freelance web designer in Hull with 10 years of experience with a marketing agency in East Yorkshire.
 meta-title: Web design for Hull2017 for Hull Art Circle
 keywords: freelance web designer, web developer, illustrator, marketing agency, Hull
