@@ -13,7 +13,7 @@ excerpt: Website that helps young disabled people find employment
 client: Humber Learning Consortium
 coverimage: ta-group.jpg
 website: this-ability.org.uk
-project-url: https://this-ability.netlify.com
+project-url: http://this-ability.org.uk/
 
 tasks:
 - Design
