@@ -35,4 +35,4 @@ This Ability is a steering group from Talent Match Humber that helps young peopl
 
 This project came in two parts. The first was a very tight deadline to get the ready for launch. Phase two was a more considered design, with some great photography.
 
-It was a pleasure working with such nice clients, and for such a great cause.
+It was a pleasure working with such lovely clients, and for such a great organisation.
