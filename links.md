@@ -32,10 +32,11 @@ Just a list of some favourite <a href="#writings">writings</a>, <a href="#publis
 * [The Website Obesity Crisis](http://idlewords.com/talks/website_obesity.htm 'Maciej Cegłowski')
 * [Scalable CSS](http://mrmrs.io/writing/2016/03/24/scalable-css/ 'Adam Morse (mrmrs)')
 * [Design Principles](https://principles.adactio.com/ 'Collected by Jeremy Keith')
+* [The Joel Test — 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
 
 ## Publishers
 
-* [Counter-Print Books](www.counter-print.co.uk)
+* [Counter-Print Books](http://www.counter-print.co.uk)
 * [Lars Müller Publishers](https://www.lars-mueller-publishers.com)
 * [Laurence King Publishers](www.laurenceking.com)
 * [Tiny Pencil](http://shop.tinypencil.com/)
