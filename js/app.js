@@ -13,7 +13,17 @@
 	}
 }());
 $(document).ready(function() {
-	//=========== [ bs slider ]
+
+		//=========== [ Lazy loading ]
+	$(function() {
+		$(".lazy").lazyload({
+			effect: "fadeIn",
+			effectspeed: 600,
+			failure_limit: 10
+		});
+	});
+
+	//=========== [ bx slider ]
 	$('.bxslider').bxSlider({
 		auto: false,
 		mode: 'fade'
