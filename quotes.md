@@ -30,3 +30,13 @@ Just a list of quotes that I like.
 
 > Your job as a creator is to engineer simplicity in an otherwise complex system, to leverage technology to reduce the cognitive burden of accomplishing whatever task your user is trying to accomplish… Software should be hard to build and easy to use, not the other way around.
 <br><cite>—[Ben Balter](http://ben.balter.com/2016/08/22/ten-ways-to-make-a-product-great/ 'Ten ways to make a product great, Ben Balter')</cite>
+
+> That love of personal autonomy can shortchange a sense of collective responsibility. That skepticism about institutions can yield a “disruption” where imperfect systems are replaced by no system at all, or one where only those making the tech benefit.
+<br><cite>—[Anil Dash](https://medium.com/make-better-software/software-matters-in-the-world-f24d25b255d7)</cite>
+
+> All vices are at odds with nature, all abandon the proper order of things.<br>—Seneca
+
+> Overload, clutter and confusion are not attributes of information, they are failures of our design.<br>—Edward Tufte
+
+> This will do.<br>—Kenya Hara
+
