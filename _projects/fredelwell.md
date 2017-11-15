@@ -27,10 +27,10 @@ projectimages:
   image-alt: Static responsive website optimised for iPad from Hull based web designer
 
 website:
-- fredelwell.org
+- www.fredelwell.org
 
 project-url:
-- http://fredelwell.org
+- https://www.fredelwell.org
 
 ---
 
