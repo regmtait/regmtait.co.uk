@@ -14,12 +14,13 @@ layout: default
 {% if page.image %}<img src="/images/blog/{{ page.image }}" alt="{{ page.imagecaption }}">{% endif %}
 {% if page.imagecaption %}<figcaption>{{ page.imagecaption }}</figcaption>{% endif %}
 </figure>
-{{page.content}}
-</div>
-</article>
 
 <p data-height="700" data-theme-id="0" data-slug-hash="{{ page.codepen-slug }}" data-default-tab="html,result" data-user="regmtait" data-embed-version="2" data-pen-title="{{ page.codepen-title }}" class="codepen">See the Pen <a href="http://codepen.io/regmtait/pen/{{ page.codepen-slug }}/">{{ page.codepen-title }}</a> by Reg (<a href="http://codepen.io/regmtait">@regmtait</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+
+{{page.content}}
+</div>
+</article>
 
 <p class="more"><a href="/blog/" title="More from the blog"><span class="glyph">&rarrhk;</span> More from the blog</a></p>
 
