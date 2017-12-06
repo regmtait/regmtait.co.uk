@@ -46,6 +46,7 @@ Final check in all browsers...
 
 * Windows and macOS: Safari, Chrome, Firefox, IE, Edge
 * Handheld: iOS, Android
+* Test all external and embedded scripts and functions
 
 ## CMS
 
