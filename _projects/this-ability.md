@@ -11,7 +11,7 @@ keywords: reponsive design, web developer, illustrator, marketing agency, Hull
 excerpt: Website that helps young disabled people find employment
 
 client: Humber Learning Consortium
-coverimage: ta-group.jpg
+coverimage: ta-home-banner.jpg
 website: this-ability.org.uk
 project-url: http://this-ability.org.uk/
 
@@ -20,7 +20,7 @@ tasks:
 - Development
 
 projectimages:
-- image-file: ta-group.jpg
+- image-file: ta-home-banner.jpg
   image-alt: Super-fast responsive web design in Hull
 - image-file: ta-success.jpg
   image-alt: This Abiity website
