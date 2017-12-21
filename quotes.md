@@ -34,6 +34,18 @@ Just a list of quotes that I like.
 > That love of personal autonomy can shortchange a sense of collective responsibility. That skepticism about institutions can yield a “disruption” where imperfect systems are replaced by no system at all, or one where only those making the tech benefit.
 <br><cite>—[Anil Dash](https://medium.com/make-better-software/software-matters-in-the-world-f24d25b255d7)</cite>
 
+> The craft of designing interfaces is a unique skill. It requires an individual to have at least four personal attributes: compassion for other people, abstract problem solving skills, the ability to communicate or detail web/software design ideas, and experience crafting designs and watching people use them.
+<br><cite>—[Scott Berkun](http://scottberkun.com/essays/22-the-list-of-reasons-ease-of-use-doesnt-happen-on-engineering-projects/)</cite>
+
+> The web, as it appears at any one moment, is a phantasmagoria. It’s not a place in any reliable sense of the word. It is not a repository. It is not a library. It is a constantly changing patchwork of perpetual nowness.
+<br><cite>—[Adrienne LaFrance](https://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/)</cite>
+
+> Design first, program second.
+<br><cite>—[UX Booth editorial team](http://www.uxbooth.com/articles/complete-beginners-guide-to-interaction-design/)</cite>
+
+> This is how it goes. We put a load of shit into a single web page. This makes the page slow. Slow to load, slow to render. Slow.
+<br><cite>—[Adam Silver](https://adamsilver.io/articles/designing-for-performance/)</cite>
+
 > All vices are at odds with nature, all abandon the proper order of things.<br>—Seneca
 
 > Overload, clutter and confusion are not attributes of information, they are failures of our design.<br>—Edward Tufte
