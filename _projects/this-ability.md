@@ -18,6 +18,7 @@ project-url: http://this-ability.org.uk/
 tasks:
 - Design
 - Development
+- CMS
 
 projectimages:
 - image-file: ta-home-banner.jpg
@@ -33,6 +34,6 @@ projectimages:
 
 This Ability is a steering group from Talent Match Humber that helps young people into employment in the Humber area. I designed and built this website to help provide employers with the support and information they need.
 
-This project came in two parts. The first was a very tight deadline to get the ready for launch. Phase two was a more considered design, with some great photography.
+This project came in two parts. The first was a very tight deadline to get the ready for launch. Phase two was a more considered design, with some great photography, and a CMS built with ExpressionEngine.
 
 It was a pleasure working with such lovely clients, and for such a great organisation.
