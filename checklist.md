@@ -50,6 +50,11 @@ Final check in all browsers...
 
 ## CMS
 
+### Tidy and optimise
+
+* Turn on caching everywhere
+* Remove unused templates, channel and fields, plug-ins
+
 ### User accounts
 
 * Ensure users can create and modify content within all sections
