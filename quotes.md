@@ -52,3 +52,4 @@ Just a list of quotes that I like.
 
 > This will do.<br>—Kenya Hara
 
+> In place of virtue we have seen an expansion of regulation. This cannot be enough. The virtues are not about what one is allowed to do, but what one is formed to be. They strengthen us to become moral agents, the source of our actions.<br>—Cardinal Vincent Nichols
