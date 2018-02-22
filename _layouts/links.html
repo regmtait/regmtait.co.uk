@@ -2,9 +2,8 @@
 layout: default
 ---
 <section class="content general-content">
-    
-<article  class="">
-
+   
+<article>
 <h1>{{ page.title }}</h1>
 {% if page.image %}
 <figure class="page_image">
@@ -12,12 +11,7 @@ layout: default
 {% if page.imagecaption %}<figcaption>{{ page.imagecaption }}</figcaption>
 </figure>
 {% endif %}
-
-
-
 {{ content }}
-
-
 </article>
 
 {% if page.aside %}
