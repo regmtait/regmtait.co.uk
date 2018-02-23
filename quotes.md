@@ -38,7 +38,7 @@ Just a list of quotes that I like.
 <br><cite>—[Scott Berkun](http://scottberkun.com/essays/22-the-list-of-reasons-ease-of-use-doesnt-happen-on-engineering-projects/)</cite>
 
 > The web, as it appears at any one moment, is a phantasmagoria. It’s not a place in any reliable sense of the word. It is not a repository. It is not a library. It is a constantly changing patchwork of perpetual nowness.
-<br><cite>—[Adrienne LaFrance](https://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/)</cite>
+<br>—<cite>[Adrienne LaFrance](https://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/)</cite>
 
 > Design first, program second.
 <br><cite>—[UX Booth editorial team](http://www.uxbooth.com/articles/complete-beginners-guide-to-interaction-design/)</cite>
@@ -46,12 +46,14 @@ Just a list of quotes that I like.
 > This is how it goes. We put a load of shit into a single web page. This makes the page slow. Slow to load, slow to render. Slow.
 <br><cite>—[Adam Silver](https://adamsilver.io/articles/designing-for-performance/)</cite>
 
-> All vices are at odds with nature, all abandon the proper order of things.<br>—Seneca
+> All vices are at odds with nature, all abandon the proper order of things.<br>—<cite>Seneca</cite>
 
-> Overload, clutter and confusion are not attributes of information, they are failures of our design.<br>—Edward Tufte
+> Overload, clutter and confusion are not attributes of information, they are failures of our design.<br>—<cite>Edward Tufte</cite>
 
-> This will do.<br>—Kenya Hara
+> This will do.<br>—<cite>Kenya Hara</cite>
 
-> In place of virtue we have seen an expansion of regulation. This cannot be enough. The virtues are not about what one is allowed to do, but what one is formed to be. They strengthen us to become moral agents, the source of our actions.<br>—Cardinal Vincent Nichols
+> In place of virtue we have seen an expansion of regulation. This cannot be enough. The virtues are not about what one is allowed to do, but what one is formed to be. They strengthen us to become moral agents, the source of our actions.<br>—<cite>Cardinal Vincent Nichols</cite>
 
-> Don’t write just for other people. Write because you want to understand.<br>—Sacha Chua
+> Don’t write just for other people. Write because you want to understand.<br>—<cite>Sacha Chua</cite>
+
+> Writing to get read makes you careful, responsible, and considerate. It forces you to think as simply, clearly and understandably as possible.<br>—<cite>[iA.net](https://ia.net/topics/take-the-power-back/)</cite>
