@@ -12,7 +12,7 @@ imagecaption:
 
 ---
 
-Hi there. I’m a freelance web designer based in Hull. I’m firstly a web designer, and also offer branding work and illustration.
+Hello there. I’m a freelance web designer based in Hull. I’m firstly a web designer, and also offer branding work and illustration.
 
 It’s a complicated world. I favour simple design and lean development that focuses on communicating messages clearly and intelligently. I specialise in taking the time to craft exactly what my clients and their customers need—with no unnecessary bloat.
 
