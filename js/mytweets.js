@@ -64,13 +64,14 @@ if(showImages){arrayTweets.push(op);}else if(!showImages&&tweets[n].textContent.
 n++;}}
 handleTweets(arrayTweets);inProgress=false;if(queue.length>0){twitterFetcher.fetch(queue[0]);queue.splice(0,1);}}};window.__twttrf=twitterFetcher;window.twitterFetcher=twitterFetcher;return twitterFetcher;}));
 
-var config1 = {
-   "profile": {"screenName": 'regmtait'},
+var configProfile = {
+  "profile": {"screenName": 'regmtait'},
   "domId": 'tweetWrap',
   "maxTweets": 1,
-   "showUser": false,
+  "enableLinks": true, 
+  "showUser": false,
   "showTime": true,
   "showImages": false,
-  "enableLinks": true
+  "lang": 'en'
 };
-twitterFetcher.fetch(config1);
+twitterFetcher.fetch(configProfile);
