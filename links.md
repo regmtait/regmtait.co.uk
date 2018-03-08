@@ -35,6 +35,7 @@ Just a list of some favourite <a href="#writings">writings</a>, <a href="#publis
 * [The Joel Test — 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
 * [Joshua Porter's Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/)
 * [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
+* [The Facilitator’s Handbook: 24 Design Sprint Tips](https://sprintstories.com/23-facilitation-tips-for-design-sprints-34d876aa5317)
 
 ## Publishers
 
