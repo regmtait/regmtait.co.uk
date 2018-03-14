@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Packing list
-permalink: /packing.html
+permalink: /packing/
 nav-title: packing
 nav-class: packing
 description: A list of stuff to take on my travels

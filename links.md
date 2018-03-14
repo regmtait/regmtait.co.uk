@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Links
-permalink: /links.html
+permalink: /links/
 nav-title: links
 nav-class: links
 description: A list of useful links

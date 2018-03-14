@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quotes
-permalink: /quotes.html
+permalink: /quotes/
 nav-title: quotes
 nav-class: quotes
 description: A list of quotes
