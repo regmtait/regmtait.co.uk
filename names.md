@@ -1,0 +1,32 @@
+# Handy list of ambiguous names
+
+Jaya Imani
+Aoi Da
+Ismat Wayan
+Kendall Jae
+Jess Bailey
+Manaia Olufu
+Sung Yan
+Madhu Nilam
+Sunan Payton
+Brett Mickey
+Chin Yuuki
+Lou Ricki
+Ariel Michi
+Narcisse Ratna
+Amardeep Sung
+Kasey Ping
+Keshet Yannic
+Evelyn Stone
+Bernie Tracey
+Chibuike Lee
+Jae Chikondi
+Dar Shikoba
+Blythe Borna
+Vijaya Padma
+Sam Makana
+Mickey Chun
+Opeyemi Yin
+Jackie Andile
+Joyce Sibona
+Narcisse Ratna
