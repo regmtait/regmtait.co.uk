@@ -57,3 +57,5 @@ Just a list of quotes that I like.
 > Don’t write just for other people. Write because you want to understand.<br>—<cite>Sacha Chua</cite>
 
 > Writing to get read makes you careful, responsible, and considerate. It forces you to think as simply, clearly and understandably as possible.<br>—<cite>[iA.net](https://ia.net/topics/take-the-power-back/)</cite>
+
+> The digital world abstracts. One could argue most problems contemporary society faces are problems of over-abstraction.<br>—<cite>[Craig Mod](https://craigmod.com/essays/offscreen_interview/)</cite>
