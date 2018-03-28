@@ -3,7 +3,7 @@ layout: default
 ---
 
 <section class="content blog">
-<article>
+<article class="c-article">
 <div class="blog-intro">
 <span class="date">{{ page.date | date: "%d.%m.%Y" }}</span>
 </div>
@@ -14,8 +14,8 @@ layout: default
 {% if page.image %}<img src="/images/blog/{{ page.image }}" alt="{{ page.imagecaption }}">{% endif %}
 {% if page.imagecaption %}<figcaption>{{ page.imagecaption }}</figcaption>{% endif %}
 </figure>
-{{page.content}}
+{{ page.content }}
+</div>
 <p class="more"><a href="/blog/" title="More from the blog"><span class="glyph">&rarrhk;</span> More from the blog</a></p>
-</div> 
 </article>
 </section>
