@@ -771,10 +771,14 @@ img.homepage-image {
 	border-top: none;
 	border-bottom: none;
 }
-	
-// two cols	
 
-section.general-content article, section.casestudy article, div.article-list {
+
+.c-article {
+	width: 75%;
+	margin: 0 auto;
+}
+
+section.casestudy article, div.article-list {
 	width: 70%;
 	float: left;
 	clear: none;
