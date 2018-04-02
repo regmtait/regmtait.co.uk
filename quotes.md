@@ -54,6 +54,8 @@ Just a list of quotes that I like.
 
 > In place of virtue we have seen an expansion of regulation. This cannot be enough. The virtues are not about what one is allowed to do, but what one is formed to be. They strengthen us to become moral agents, the source of our actions.<br>—<cite>Cardinal Vincent Nichols</cite>
 
+> You cannot measure it time it does not take, as my old boss used to say.<br>—<cite>[Ole Thorstensen](https://www.amazon.co.uk/gp/product/0857056689)</cite> (on estimating)
+
 > Don’t write just for other people. Write because you want to understand.<br>—<cite>Sacha Chua</cite>
 
 > Writing to get read makes you careful, responsible, and considerate. It forces you to think as simply, clearly and understandably as possible.<br>—<cite>[iA.net](https://ia.net/topics/take-the-power-back/)</cite>
