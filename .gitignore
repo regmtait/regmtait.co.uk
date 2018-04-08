@@ -3,6 +3,7 @@ _site
 .jekyll-metadata
 _glynn.yml
 _drafts
+private-assets
 *.save*
 *.save
 *.css.map
