@@ -3,7 +3,7 @@ layout: project
 title: Design for Digital Transformation
 permalink: projects/cloud2/
 nav-class: projects
-date: 2018-10-28 00:00:00 +0000
+date: 2018-02-28 00:00:00 +0000
 keywords: intranets, branding, design, UI, UX
 categories: featured website
 description: Design and front end development for Digital Transformation
