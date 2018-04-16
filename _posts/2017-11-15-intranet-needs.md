@@ -2,7 +2,7 @@
 
 layout: post
 title:  "Your intranet sucks. I can help."
-date:   2018-04-10 00:00:00 +0000
+date:  2017-11-15 00:00:00 +0000
 nav-class: blog
 categories: intranets
 keywords: intranets
