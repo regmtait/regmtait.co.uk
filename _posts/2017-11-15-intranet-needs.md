@@ -41,4 +41,4 @@ Customers need to find information, files and people quickly and easily. Conside
 
 ### Everything, everywhere
 
-It should go without saying that content should be available across a range of devices, from phones, tablets, desktops and everything between (and beyond). Make the application run as fast as possible by removing unnecessary bloat. Features don't need to be technically complex to be valuable to users.
+It should go without saying that content should be available across a range of devices, from phones, tablets, desktops and everything between (and beyond). Make the application run as fast as possible by removing bloat. Features don't need to be technically complex to be valuable to users.
