@@ -13,7 +13,7 @@ excerpt: Intranets are no longer a place for static information. They exist to h
 
 ---
 
-Most business users now use Office 365. Microsoft are good at providing tools but there's a lot of confusing overlap. For example, [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software) overlaps with Skype and other Microsoft products, yet seems to stand alone. Don't get me started about the the old legacy products of Word, PowerPoint and Excel which come from a pre-intranet age.
+Most business users now use Office 365. Microsoft are good at providing tools but there's a lot of confusing overlap. For example, [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software) overlaps with Skype and other Microsoft products, yet seems to stand alone. Don't get me started about the the legacy products of Word, PowerPoint and Excel which come from a pre-intranet age.
 
 The job of the intranet designer is to absorb this complexity by creating a unified user experience. We need to focus on the user's task rather than their tools. By understanding their behaviour, we can create work flows that provide a seamless experience.
 
