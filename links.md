@@ -71,6 +71,10 @@ Just a list of some favourite <a href="#writings">writings</a>, <a href="#publis
 * [Typewolf](https://www.typewolf.com)
 * [Grilli Type](https://www.grillitype.com/)
 
+## Conferences
+
+* [All Day Hey](https://leedsinternationalfestival.com/event/all-day-hey/)
+
 ## Artists & illustrators
 
 * [Planet Henderson](http://www.planethenderson.com/storyboards/#/spiderman4/)
@@ -92,6 +96,10 @@ Just a list of some favourite <a href="#writings">writings</a>, <a href="#publis
 * [Nina Johansson](http://www.ninajohansson.se/)
 * [Bao Pham](https://www.instagram.com/baotpham/)
 
+## Design
+
+* [Braun design](http://www.dasprogramm.co.uk/shop/braun)
+
 ## Designers
 
 * [Two Times Elliot](http://2xelliott.co.uk/)
@@ -100,7 +108,6 @@ Just a list of some favourite <a href="#writings">writings</a>, <a href="#publis
 * [Chris Ferdinandi](https://gomakethings.com/consulting/)
 * [Dan Mall](http://danielmall.com/articles/the-post-psd-era/)
 * [Sam Mearns](http://sammearns.co.uk/)
-* [Mike Monteiro](http://muledesign.com/)
 * [Dan Rhatigan (Ultrasparky)](http://ultrasparky.org/)
 * [Andrew Clarke](https://stuffandnonsense.co.uk/)
 * [Una Kravets](https://github.com/una)
@@ -109,6 +116,7 @@ Just a list of some favourite <a href="#writings">writings</a>, <a href="#publis
 * [SkullCat](http://mrmrs.io/writing/)
 * [Mark Bloom](http://www.mashcreative.co.uk/)
 * [Yesenia Perez-Cruz](http://www.yeseniaperezcruz.com/)
+* [Rikako Nagashima](http://rikako-nagashima.com/)
 
 ## Tools
 
