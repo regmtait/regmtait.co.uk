@@ -74,6 +74,7 @@ Just a list of some favourite <a href="#writings">writings</a>, <a href="#publis
 ## Conferences
 
 * [All Day Hey](https://leedsinternationalfestival.com/event/all-day-hey/)
+* [DotYork](https://dotyork.com/)
 
 ## Artists & illustrators
 
