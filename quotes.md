@@ -62,4 +62,6 @@ Just a list of quotes that I like.
 
 > The digital world abstracts. One could argue most problems contemporary society faces are problems of over-abstraction.<br>—<cite>[Craig Mod](https://craigmod.com/essays/offscreen_interview/)</cite>
 
+> Freedom from ornament is a sign of spiritual strength.<br>—<cite>Adolf Loos</cite>
+
 > It is easy to think that beauty resides in the realm of creativity. Yet beauty hardly "appears" from nowhere. Recently, I have come to believe that we "discover" it through the cleaning and polishing we do to preserve things as they are. [...] The beauty of a temple garden rests not in the splendid features that were created by a talented designer; rather, its beauty is uncovered through the continual process of cleaning.<br>—<cite>Kenya Hara, <i>White</i></cite>
