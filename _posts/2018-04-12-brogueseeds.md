@@ -23,7 +23,6 @@ I had a  play with some gratuitous CSS effects too. There's no Javascript anywhe
 
 [Brogue]: https://sites.google.com/site/broguegame/
 [CSS Grid]: https://cssgrid.io/
-[Brogue]: https://cssgrid.io/
 [Wes Bos]: https://wesbos.com/
 [dungeon seeds here]: https://brogueseeds.netlify.com/
 
