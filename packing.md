@@ -28,7 +28,7 @@ exclude_from_nav: true
 * Plug convertor
 * Instant coffee ☕️
 * Small torch
-* <strike>Swiss Army pocket knife</strike> (No good for hand luggage)
+* <strike>Swiss Army pocket knife</strike>
 * Stuff to read
 
 ## Tourist stuff
