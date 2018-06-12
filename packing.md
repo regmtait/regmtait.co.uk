@@ -15,21 +15,20 @@ exclude_from_nav: true
 
 * **Passport! Wallet!**
 
-* Cash
-* Watch
-* Extra bank cards
-* USB extra-power battery
-* Wee laptop + charger
-* Tiny mouse 🐭
-* Phone + spare charger cable
-* Plug convertor
+* Cash (remember any cash from previous trips)
+* Phone + charger cable
 * Hard copy of travel details
 * Photocopy of passport
-* Take pic of passport on iPhone
+* Take pic of passport on phone
+* Watch
+* Extra bank card
+* Laptop + charger
+* Mouse 🐭
+* Airpods
+* Plug convertor
 * Instant coffee ☕️
-* Container for loose change
 * Small torch
-* Swiss Army pocket knife
+* <strike>Swiss Army pocket knife</strike> (No good for hand luggage)
 * Stuff to read
 
 ## Tourist stuff
@@ -41,10 +40,10 @@ exclude_from_nav: true
 
 * Pencil case
 * Watercolour set — refresh colours
-* Everyday sketchbook
 * Working brush pen
 * Life drawing materials (soft pencils?)
 * Spare carbon ink cartridge
+* Everyday sketchbook
 * Soft A4 sketchbook
 * Clips
 
@@ -58,12 +57,12 @@ exclude_from_nav: true
 
 ## Clothes
 
+* Smartish clothes for cities
 * Sun hat
 * Sandals
-* Smartish clothes for cities
 * Sunglasses
 * Swimming shorts
-* Woven supermarket bag (for laundry)
+* Laundry bag
 
 ## For the flight
 
@@ -72,9 +71,8 @@ exclude_from_nav: true
 
 ## Travel prep
 
-* Let bank know I'm going
 * Check hotel bookings
 * Haircut
 * Gifts for hosts?
-* Prep phone — make room for photos
+* Prep phone — room for photos, podcasts
 * Test cash machine on arrival
