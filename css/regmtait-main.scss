@@ -374,7 +374,6 @@ div.portfolio ul {
 
 div.portfolio ul li {
 	display: inline;
-	margin-bottom: 1rem;
 	margin-right: 1rem;
 }
 div.portfolio ul li img {
@@ -702,8 +701,6 @@ h1 span.menu-toggle a:hover {color:$theme1;}
 // intermediate homepage
 
 @media only screen and (min-width: 480px) and (max-width: 779.9px) {
-	body.homepage {
-	}
 
  	div.portfolio ul li {
 	display: block;
