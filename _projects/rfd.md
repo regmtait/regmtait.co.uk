@@ -19,7 +19,7 @@ tasks:
 - Stationary
 
 coverimage:
-- rfd-home.jpg
+- rfd2-home.png
 
 projectimages:
 - image-file: rfd2-home.png
