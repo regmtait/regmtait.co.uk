@@ -45,7 +45,7 @@ Pack in a zipped sleeve:
 
 Contained in a mint tin, wrapped in rubber bands. Nicked the idea from [Brendan Dawes](https://www.instagram.com/p/Bm0gUJijFDy/ "Brendan Dawes battered Altoids tin on Instagram").
 
-* Paper of passport
+* Paper copy of passport
 * Phone numbers, on paper
 * Extra bank card
 * Some cash
