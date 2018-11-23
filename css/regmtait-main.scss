@@ -15,7 +15,7 @@ $bg: #efefef;
 $pre-bg: #fff;
 $code: darken($theme-pink, 10%);
 $text-colour: #000;
-$text-lighter: #9b9b9b;
+$text-lighter: #888;
 $link-body: #666;
 $highlight: #eceda9;
 $selection: #eceda9;
@@ -200,7 +200,7 @@ div.twitter ul {
 
  
 section aside, section div.extratext {
-	font-size: 75%; color: $text-lighter;
+	font-size: 80%; color: $text-lighter;
 	}
 
 div.extratext {
