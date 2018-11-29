@@ -32,8 +32,8 @@ I carry an American Tourister Huemix 10" shoulder bag. Really good, but would re
 * Phone + charger cable + local power adapter
 * Watch
 * Luggage lock. More of a deterrent. I like the [straight barrelled ones](https://www.amazon.co.uk/gp/product/B01N3CYKN7/ "Luggage lock on Amazon").
-* Travel clothes line
 * Sunglasses, in a case with spare sleeve
+* Compass. Great for cities and always reliable.
 
 Pack in a zipped sleeve:
 
@@ -116,6 +116,7 @@ I'll be travelling in the warmest clothes I'll need. Thai trains and buses can b
 ## Optional
 
 * Dedicated camera + charger, spare battery…
+* Travel clothes line <sup>[<a href="#6">6</a>]</sup>
 * Instant coffee (though you can buy this anywhere) ☕️
 
 ## Travel prep
@@ -134,8 +135,9 @@ I'll be travelling in the warmest clothes I'll need. Thai trains and buses can b
 
 <p>[<span id="1">1</span>] Thailand is still cash-based, especially for smaller purchases.</p>
 <p>[<span id="2">2</span>] No problems at security so far, even when I had my pencil case checked out. Such a useful thing.</p>
-<p>[<span id="5">3</span>] Currently using snazzy Crocs with a fabric upper.</p>
+<p>[<span id="3">3</span>] Currently using snazzy Crocs with a fabric upper.</p>
 <p>[<span id="4">4</span>] Thailand sleeper trains are really bright, especially on the top bunk.</p>
-<p>[<span id="6">5</span>] Books are heavy. Take one book maximum and use Kindle app for anything else.</p>
+<p>[<span id="5">5</span>] Books are heavy. Take one book maximum and use Kindle app for anything else.</p>
+<p>[<span id="6">6</span>] I had a <a href="http://flexo-line.com" title="Flexo-line website">good Flexo-line one</a>, but I lost it.</p>
 
 </div>
