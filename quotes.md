@@ -65,3 +65,5 @@ Just a list of quotes that I like.
 > Freedom from ornament is a sign of spiritual strength.<br>—<cite>Adolf Loos</cite>
 
 > It is easy to think that beauty resides in the realm of creativity. Yet beauty hardly "appears" from nowhere. Recently, I have come to believe that we "discover" it through the cleaning and polishing we do to preserve things as they are. [...] The beauty of a temple garden rests not in the splendid features that were created by a talented designer; rather, its beauty is uncovered through the continual process of cleaning.<br>—<cite>Kenya Hara, <i>White</i></cite>
+
+> You’re no longer designing to extend engagement or keep customers in the app. Rather, you’re helping people get in and out and done.<br>—<cite>[Ed Chao, Design at Dropbox](https://medium.com/dropbox-design/fostering-focus-for-small-screens-34a9f338668c)</cite>
