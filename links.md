@@ -11,7 +11,7 @@ exclude_from_nav: true
 
 ---
 
-Just a list of some favourite <a href="#writings">writings</a>, <a href="#publishers">publishers</a>, <a href="#design-books">design books</a>, <a href="#design-books">blogs</a>, <a href="#fonts-foundries--typography">fonts foundries & typography</a>, <a href="#artists--illustrators">artists & illustrators</a>, <a href="#designers">designers</a>, <a href="#tools">tools</a>, and <a href="#fun">fun places</a> on the web.
+Just a list of some favourite [writings](#writings), [publishers](#publishers), [design-books](#design books), [blogs](#blogs), [fonts foundries & typography](#fonts-foundries--typography), [artists & illustrators](#artists--illustrators), [designers](#designers), [tools](#tools), and [fun places](#fun) on the web.
 
 ## Writings
 
