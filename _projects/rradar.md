@@ -45,6 +45,6 @@ RRADAR are an award-winning and tech harnessing law firm founded by visionary la
 
 RFD Interiors provided a full office fit out that met their creative vision and ambition growth. I worked with RFD on the interior artwork. The creative direction included edgy and inspirational art combined with quotes from leading figures from history. This included interior spray art, glass manifestation design and typesetting the quotes.
 
-I prepped the spray artwork digitally in Illustrator. Aerosol artists Spray Creative executed the spray art on the walls. The challenge was a creating artwork with just enough detail to let the spray can specialist do their best.
+I prepped the spray artwork digitally in Illustrator. Aerosol artists Spray Creative executed the spray art on the walls. The challenge was a creating artwork with just enough detail to help the spray can specialists do their best.
 
 It was a pleasure to work with RFD Interiors and the creative teams for such a dynamic and forward looking organisation.
