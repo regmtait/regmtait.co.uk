@@ -2,7 +2,7 @@
 
 layout: post
 title:  "What do designers really want from collaboration software?"
-date:   2019-01-30 00:00:00 +0000
+date:   2019-01-01 00:00:00 +0000
 nav-class: blog
 categories: teams Microsoft collaboration
 keywords: "Teams, Microsoft, designer, specs"
