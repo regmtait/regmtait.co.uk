@@ -1,4 +1,5 @@
 ---
+
 layout: post
 title:  "What do designers really want from collaboration software?"
 date:   2019-01-30 00:00:00 +0000
@@ -8,8 +9,7 @@ keywords: "Teams, Microsoft, designer, specs"
 description: A discussion about using Teams for collaboration, from a designer's perspective.
 image:
 imagecaption: 
-
-excerpt: (Answer: The same stuff designers always need) 
+excerpt: Answer--The same stuff designers always need
 
 ---
 
