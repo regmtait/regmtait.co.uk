@@ -22,7 +22,7 @@ Is it useful? Well, as a designer, here’s what I need and want.
 
 * **Design brief** — What problem are we solving? Constraints, timelines, scope and deliverables
 * **Background info** — reports and other reference materials
-* **Assets** — Everything else. For example, branding assets, style guides, website copy and images. What’s missing and what needs to be generated?
+* **Assets** — Everything else. For example, branding assets, style guides, website copy and images. What’s missing and what needs to be produced?
 
 From effective collaboration, I need all that stored in a convenient and secure location. All version controlled. In an environment that encourages discussion. Teams can do that.
 
