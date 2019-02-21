@@ -145,6 +145,7 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [Itch Design](https://itchdesign.no)
 * [Chris Thomas](https://www.thomaschris.co.uk/)
 * [Mash](https://www.mash.marketing/)
+* [Tim Mein Architects](http://terminalplanning.aero/)
 
 
 ## Resources
