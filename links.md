@@ -109,7 +109,7 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [Paul Hill](https://www.behance.net/gallery/1653062/2008-10-001)
 * [Art Space Tokyo (Nobumasa Takahashi)](https://read.artspacetokyo.com/)
 * [Jordy van den Nieuwendijk](http://jordy.studio/portfolio/)
-* [https://equfund.com/ (Stuff & Nonsense)](https://equfund.com/)
+* [Equfund (Stuff & Nonsense)](https://equfund.com/)
 
 ## Design
 
@@ -158,7 +158,7 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [Landing pages: Land Book](https://land-book.com/)
 * [Jekyll Themes](https://jekyllthemes.io/)
 * [Forty Jekyll theme](https://andrewbanchich.gitlab.io/forty-jekyll-theme/)
-* [Content inventory (Portent)] (https://www.portent.com/data/content-inventory/)
+* [Content inventory (Portent)](https://www.portent.com/data/content-inventory/)
 * [UI8](https://ui8.net)
 * [DesignCode](https://designcode.io)
 * [UX Designer Salaries](https://uxdesignersalaries.com/)
