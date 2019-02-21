@@ -11,7 +11,7 @@ exclude_from_nav: true
 
 ---
 
-Just a list of some favourite [writings](#writings), [publishers](#publishers), [design-books](#design books), [blogs](#blogs), [fonts foundries & typography](#fonts-foundries--typography), [artists & illustrators](#artists--illustrators), [designers](#designers), [tools](#tools), and [fun places](#fun) on the web.
+Just a list of some favourite [writings](#writings), [publishers](#publishers), [design-books](#design books), [blogs](#blogs), [fonts foundries & typography](#fonts-foundries--typography), [artists & illustrators](#artists--illustrators), [designers](#designers), [resources](#resources), and [fun places](#fun) on the web.
 
 ## Writings
 
@@ -37,6 +37,13 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 * [The Facilitator’s Handbook: 24 Design Sprint Tips](https://sprintstories.com/23-facilitation-tips-for-design-sprints-34d876aa5317)
 * [Design Decisions are Business Decisions](https://studiofellow.com/articles/design-decisions-business-decisions)
+* [Human Interest (Trent Walton)](https://trentwalton.com/2013/08/12/human-interest/)
+* [Proper UI Strategy (accssible)](https://accssible.com/2019/02/05/proper-ui-hierarchy/)
+* [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
+* [Let's Talk About Margins (Craig Mod)](https://craigmod.com/essays/lets_talk_about_margins/)
+* [BaseCamp handbook](https://github.com/basecamp/handbook)
+* [The Elements of UI Engineering](https://overreacted.io/the-elements-of-ui-engineering/)
+* [Kenya Hara: Thinking](https://www.ndc.co.jp/hara/en/thinking/prospects/)
 
 ## Publishers
 
@@ -58,6 +65,9 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [White](https://www.amazon.co.uk/gp/product/3037781831/ref=pd_sbs_14_img_0?ie=UTF8&psc=1&refRID=WKEHM6P14MNRXAMKYQNH), Kenya Hara
 * [The Elements of Typographic Style](https://www.amazon.co.uk/Elements-Typographic-Style-Version-Anniversary/dp/0881792128/ref=sr_1_1?s=books&ie=UTF8&qid=1476712250&sr=1-1), Robert Bringhurst
 * [Pretty Much Everything](http://ddcbook.com/), Aaron Draplin, DDC
+* [Eloquent Javascript](https://eloquentjavascript.net/)
+* [Mastering Web Dev](https://masteringwebdev.com/)
+* [lang Zullen we Lezen](https://www.langzullenwelezen.be/)
 
 ## Design blogs
 
@@ -96,17 +106,23 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [Freekhand](https://www.flickr.com/photos/mherranz/)
 * [Nina Johansson](http://www.ninajohansson.se/)
 * [Bao Pham](https://www.instagram.com/baotpham/)
+* [Paul Hill](https://www.behance.net/gallery/1653062/2008-10-001)
+* [Art Space Tokyo (Nobumasa Takahashi)](https://read.artspacetokyo.com/)
+* [Jordy van den Nieuwendijk](http://jordy.studio/portfolio/)
+* [https://equfund.com/ (Stuff & Nonsense)](https://equfund.com/)
 
 ## Design
 
-* [Braun design](http://www.dasprogramm.co.uk/shop/braun)
+* [Braun design](http://www.dasprogramm.co.uk/shop/braun
+* [Ian Miller](http://www.ian-miller.org/)
 
-## Designers
+## Designers (and devs)
 
 * [Two Times Elliot](http://2xelliott.co.uk/)
 * [Dan Eden](https://daneden.me/2016/08/04/the-weird-wide-web/)
 * [Aaron Draplin](http://ddcbook.com/)
 * [Chris Ferdinandi](https://gomakethings.com/consulting/)
+* [Khoi Vinh](https://www.subtraction.com/)
 * [Dan Mall](http://danielmall.com/articles/the-post-psd-era/)
 * [Sam Mearns](http://sammearns.co.uk/)
 * [Dan Rhatigan (Ultrasparky)](http://ultrasparky.org/)
@@ -116,14 +132,39 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [Muir McNeil](http://www.muirmcneil.com/)
 * [SkullCat](http://mrmrs.io/writing/)
 * [Mark Bloom](http://www.mashcreative.co.uk/)
-* [Yesenia Perez-Cruz](http://www.yeseniaperezcruz.com/)
 * [Rikako Nagashima](http://rikako-nagashima.com/)
+* [Joe Leadbeater](https://joelead.com/)
+* [Socio Design](http://sociodesign.co.uk/)
+* [Quim Marin](http://quimmarinstudio.tumblr.com/)
+* [Two of Us](http://www.twoofus.co/#who)
+* [Storm Creative](https://www.stormcreative.co.uk/)
+* [Adam Morse](http://mrmrs.cc/)
+* [James Bennett](https://james-bennett.com/)
+* [Sara Soueidan](https://www.sarasoueidan.com/)
+* [NiftyPals](https://timepal-app.com/niftypals/)
+* [Itch Design](https://itchdesign.no)
+* [Chris Thomas](https://www.thomaschris.co.uk/)
+* [Mash](https://www.mash.marketing/)
 
-## Tools
+
+## Resources
 
 * [SVG optimisation](http://petercollingridge.appspot.com/ 'Peter Colleridge')
 * [HTML5 Accessibility](http://html5accessibility.com/)
 * [The Web, Worldwide](https://www.webworldwide.io)
+* [Static website services](https://github.com/agarrharr/awesome-static-website-services)
+* [JAMstack WTF](https://jamstack.wtf/)
+* [Landing pages: MailChimp](https://mailchimp.com/features/landing-pages/)
+* [Landing pages: Land Book](https://land-book.com/)
+* [Jekyll Themes](https://jekyllthemes.io/)
+* [Forty Jekyll theme](https://andrewbanchich.gitlab.io/forty-jekyll-theme/)
+* [Content inventory (Portent)] (https://www.portent.com/data/content-inventory/)
+* [UI8](https://ui8.net)
+* [DesignCode](https://designcode.io)
+* [UX Designer Salaries](https://uxdesignersalaries.com/)
+* [Branding Design Sprints](https://francisalturas.gitbooks.io/branding-design-sprints/)
+* [Norn.co](https://norn.co)
+* [Artists bios](https://www.artsy.net/article/elena-soboleva-what-we-learned-from-writing-7-000-artist-bios)
 
 ## Fun
 
