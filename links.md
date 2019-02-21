@@ -113,7 +113,7 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 
 ## Design
 
-* [Braun design](http://www.dasprogramm.co.uk/shop/braun
+* [Braun design](http://www.dasprogramm.co.uk/shop/braun)
 * [Ian Miller](http://www.ian-miller.org/)
 
 ## Designers (and devs)
