@@ -44,6 +44,7 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [BaseCamp handbook](https://github.com/basecamp/handbook)
 * [The Elements of UI Engineering](https://overreacted.io/the-elements-of-ui-engineering/)
 * [Kenya Hara: Thinking](https://www.ndc.co.jp/hara/en/thinking/prospects/)
+* [See No Evil: Hidden Content and Accessibility](https://cloudfour.com/thinks/see-no-evil-hidden-content-and-accessibility/)
 
 ## Publishers
 
@@ -80,11 +81,17 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [Lineto](https://lineto.com/)
 * [Typewolf](https://www.typewolf.com)
 * [Grilli Type](https://www.grillitype.com/)
+* [Luzi Type](/luzi-type.ch)
+* [Fonts in Use](https://fontsinuse.com/)
 
 ## Conferences
 
 * [All Day Hey](https://leedsinternationalfestival.com/event/all-day-hey/)
 * [DotYork](https://dotyork.com/)
+
+## Design Systems
+
+[Hudl](https://uniform.hudl.com/)
 
 ## Artists & illustrators
 
@@ -110,6 +117,10 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [Art Space Tokyo (Nobumasa Takahashi)](https://read.artspacetokyo.com/)
 * [Jordy van den Nieuwendijk](http://jordy.studio/portfolio/)
 * [Equfund (Stuff & Nonsense)](https://equfund.com/)
+
+## Logos
+
+[The Logo Smith](https://imjustcreative.com/monomarks)
 
 ## Design
 
@@ -146,7 +157,9 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [Chris Thomas](https://www.thomaschris.co.uk/)
 * [Mash](https://www.mash.marketing/)
 * [Tim Mein Architects](http://terminalplanning.aero/)
-
+* [John Henry Muller](https://johnhenrymuller.com)
+* [Lee Harding](https://leeharding.co.uk/)
+* [Studio Helm](https://leeharding.co.uk/)
 
 ## Resources
 
@@ -171,4 +184,5 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 
 * [Swissted](http://www.swissted.com/)
 * [Brogue online](http://brogue.roguelikelike.com/)
+* [The Colours of the Web](http://paulhebertdesigns.com/web_colors/)
 
