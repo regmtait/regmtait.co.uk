@@ -45,6 +45,7 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [The Elements of UI Engineering](https://overreacted.io/the-elements-of-ui-engineering/)
 * [Kenya Hara: Thinking](https://www.ndc.co.jp/hara/en/thinking/prospects/)
 * [See No Evil: Hidden Content and Accessibility](https://cloudfour.com/thinks/see-no-evil-hidden-content-and-accessibility/)
+* [How to Think like a Content Designer](https://blog.prototypr.io/how-to-think-like-a-content-designer-532b5c0c2ed1)
 
 ## Publishers
 
