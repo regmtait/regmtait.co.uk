@@ -46,6 +46,7 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [Kenya Hara: Thinking](https://www.ndc.co.jp/hara/en/thinking/prospects/)
 * [See No Evil: Hidden Content and Accessibility](https://cloudfour.com/thinks/see-no-evil-hidden-content-and-accessibility/)
 * [How to Think like a Content Designer](https://blog.prototypr.io/how-to-think-like-a-content-designer-532b5c0c2ed1)
+* [7 Principles for Effective Content Design](https://blog.prototypr.io/seven-principles-for-effective-content-design-8b3f82840d3b)
 
 ## Publishers
 
@@ -92,7 +93,7 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 
 ## Design Systems
 
-[Hudl](https://uniform.hudl.com/)
+* [Hudl](https://uniform.hudl.com/)
 
 ## Artists & illustrators
 
@@ -121,7 +122,7 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 
 ## Logos
 
-[The Logo Smith](https://imjustcreative.com/monomarks)
+* [The Logo Smith](https://imjustcreative.com/monomarks)
 
 ## Design
 
@@ -161,6 +162,10 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [John Henry Muller](https://johnhenrymuller.com)
 * [Lee Harding](https://leeharding.co.uk/)
 * [Studio Helm](https://leeharding.co.uk/)
+* [Rikako Nagashima](http://rikako-nagashima.com/)
+* [Postlight](https://postlight.com)
+* [Wolff Olins](https://www.wolffolins.com/)
+
 
 ## Resources
 
@@ -180,6 +185,8 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [Branding Design Sprints](https://francisalturas.gitbooks.io/branding-design-sprints/)
 * [Norn.co](https://norn.co)
 * [Artists bios](https://www.artsy.net/article/elena-soboleva-what-we-learned-from-writing-7-000-artist-bios)
+* [The Web, Worldwide](https://www.webworldwide.io)
+
 
 ## Fun
 
