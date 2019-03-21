@@ -47,6 +47,7 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [See No Evil: Hidden Content and Accessibility](https://cloudfour.com/thinks/see-no-evil-hidden-content-and-accessibility/)
 * [How to Think like a Content Designer](https://blog.prototypr.io/how-to-think-like-a-content-designer-532b5c0c2ed1)
 * [7 Principles for Effective Content Design](https://blog.prototypr.io/seven-principles-for-effective-content-design-8b3f82840d3b)
+* * [Designing Flows with Gov Flow](https://medium.com/sketch-app-sources/designing-flows-with-gov-flow-749da31944ca)
 
 ## Publishers
 
@@ -119,6 +120,7 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [Art Space Tokyo (Nobumasa Takahashi)](https://read.artspacetokyo.com/)
 * [Jordy van den Nieuwendijk](http://jordy.studio/portfolio/)
 * [Equfund (Stuff & Nonsense)](https://equfund.com/)
+* [Geri Cody](http://gericoady.com)
 
 ## Logos
 
@@ -165,7 +167,10 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [Rikako Nagashima](http://rikako-nagashima.com/)
 * [Postlight](https://postlight.com)
 * [Wolff Olins](https://www.wolffolins.com/)
-
+* [Postlight](https://postlight.com)
+* [Kyle Mac](http://mrkylemac.com/)
+* [Katy Hollobaugh](https://www.katyhollobaugh.com/contact)
+* [Creode](https://www.creode.co.uk/)
 
 ## Resources
 
@@ -186,11 +191,14 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [Norn.co](https://norn.co)
 * [Artists bios](https://www.artsy.net/article/elena-soboleva-what-we-learned-from-writing-7-000-artist-bios)
 * [The Web, Worldwide](https://www.webworldwide.io)
-
+* [Dark Magic](https://medium.com/@dizzyup/adding-a-little-dark-magic-to-the-web-8eb82ce5fd91)
+* [Readability Guidelines](http://readabilityguidelines.wikidot.com)
+* [CSS IRL](https://css-irl.info)
 
 ## Fun
 
 * [Swissted](http://www.swissted.com/)
 * [Brogue online](http://brogue.roguelikelike.com/)
 * [The Colours of the Web](http://paulhebertdesigns.com/web_colors/)
+* [Killed by Google](https://killedbygoogle.com)
 
