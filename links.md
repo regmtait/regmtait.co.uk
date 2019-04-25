@@ -47,7 +47,7 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [See No Evil: Hidden Content and Accessibility](https://cloudfour.com/thinks/see-no-evil-hidden-content-and-accessibility/)
 * [How to Think like a Content Designer](https://blog.prototypr.io/how-to-think-like-a-content-designer-532b5c0c2ed1)
 * [7 Principles for Effective Content Design](https://blog.prototypr.io/seven-principles-for-effective-content-design-8b3f82840d3b)
-* * [Designing Flows with Gov Flow](https://medium.com/sketch-app-sources/designing-flows-with-gov-flow-749da31944ca)
+* [Designing Flows with Gov Flow](https://medium.com/sketch-app-sources/designing-flows-with-gov-flow-749da31944ca)
 
 ## Publishers
 
