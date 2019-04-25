@@ -121,15 +121,16 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [Jordy van den Nieuwendijk](http://jordy.studio/portfolio/)
 * [Equfund (Stuff & Nonsense)](https://equfund.com/)
 * [Geri Cody](http://gericoady.com)
+* [Ian Miller](http://www.ian-miller.org/)
 
 ## Logos
 
 * [The Logo Smith](https://imjustcreative.com/monomarks)
 
-## Design
+## Design systems
 
 * [Braun design](http://www.dasprogramm.co.uk/shop/braun)
-* [Ian Miller](http://www.ian-miller.org/)
+* [IBM Design thinking](https://www.ibm.com/design/thinking/)
 
 ## Designers (and devs)
 
