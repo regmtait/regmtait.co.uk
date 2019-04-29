@@ -91,6 +91,7 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 
 * [All Day Hey](https://leedsinternationalfestival.com/event/all-day-hey/)
 * [DotYork](https://dotyork.com/)
+* [Patterns Day](https://patternsday.com/)
 
 ## Design Systems
 
