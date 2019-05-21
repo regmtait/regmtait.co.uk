@@ -13,7 +13,7 @@ bannerpic: none.png
 
 I want to work with you! If you reckon I'm a good fit for your project, then get in touch.
 
-I'm available from <em>February 2019</em>.
+I'm available from <em>June 2019</em>.
 
 Feel free to give me a ring on 07873 108676, or fire an email to me (address below).
 
