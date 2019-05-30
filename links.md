@@ -11,7 +11,7 @@ exclude_from_nav: true
 
 ---
 
-Just a list of some favourite [writings](#writings), [publishers](#publishers), [design-books](#design books), [blogs](#blogs), [fonts foundries & typography](#fonts-foundries--typography), [artists & illustrators](#artists--illustrators), [designers](#designers), [resources](#resources), and [fun places](#fun) on the web.
+Just a list of some favourite [writings](#writings), [publishers](#publishers), design-books, [blogs](#blogs), [fonts foundries & typography](#fonts-foundries--typography), [artists & illustrators](#artists--illustrators), [designers](#designers), [resources](#resources), and [fun places](#fun) on the web.
 
 ## Writings
 
@@ -133,7 +133,7 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [Braun design](http://www.dasprogramm.co.uk/shop/braun)
 * [IBM Design thinking](https://www.ibm.com/design/thinking/)
 
-## Designers (and devs)
+## Designers and developers
 
 * [Two Times Elliot](http://2xelliott.co.uk/)
 * [Dan Eden](https://daneden.me/2016/08/04/the-weird-wide-web/)
@@ -173,6 +173,8 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [Kyle Mac](http://mrkylemac.com/)
 * [Katy Hollobaugh](https://www.katyhollobaugh.com/contact)
 * [Creode](https://www.creode.co.uk/)
+* [Ire Aderinokun](https://ireaderinokun.com/)
+* [Sarah Drasner](https://sarah.dev/)
 
 ## Resources
 
@@ -196,6 +198,8 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [Dark Magic](https://medium.com/@dizzyup/adding-a-little-dark-magic-to-the-web-8eb82ce5fd91)
 * [Readability Guidelines](http://readabilityguidelines.wikidot.com)
 * [CSS IRL](https://css-irl.info)
+* [CSS Grid Generator (Sarah Edo)](https://cssgrid-generator.netlify.com/)
+* [Jen Simmons Labs](https://labs.jensimmons.com/)
 
 ## Fun
 
