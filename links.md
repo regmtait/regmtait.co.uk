@@ -61,6 +61,7 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [Two Press](http://two-press.co.uk/)
 * [Gratuitous Type](http://gratuitoustype.com)
 * [viction:ary](http://victionary.com/)
+* [A Book Apart](https://abookapart.com/)
 
 ## Design books
 
@@ -200,6 +201,12 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [CSS IRL](https://css-irl.info)
 * [CSS Grid Generator (Sarah Edo)](https://cssgrid-generator.netlify.com/)
 * [Jen Simmons Labs](https://labs.jensimmons.com/)
+* [Studio Kasuga](https://kasuga.is/studio/)
+* [Susie Lu](https://susielu.com/)
+* [A Guide to Flexbox (CSS Tricks)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Positioning (Jonathan Stark)](https://jonathanstark.com/xyps)
+* [CSS Variables for theming](https://codepen.io/ohansemmanuel/pen/xYKgwE)
+* [color-hex](https://www.color-hex.com/)
 
 ## Fun
 
@@ -207,4 +214,3 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [Brogue online](http://brogue.roguelikelike.com/)
 * [The Colours of the Web](http://paulhebertdesigns.com/web_colors/)
 * [Killed by Google](https://killedbygoogle.com)
-
