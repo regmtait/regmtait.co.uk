@@ -176,6 +176,7 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [Creode](https://www.creode.co.uk/)
 * [Ire Aderinokun](https://ireaderinokun.com/)
 * [Sarah Drasner](https://sarah.dev/)
+* [Dixon & Moe]((https://dixonandmoe.com/)
 
 ## Resources
 
