@@ -2,7 +2,7 @@
 
 layout: post
 title:  "How to design… anything"
-date:  2019-11-11 00:00:00 +0000
+date:  2019-10-11 00:00:00 +0000
 nav-class: blog
 categories: c4di web
 keywords: "c4di, web"
