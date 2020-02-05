@@ -94,10 +94,6 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [DotYork](https://dotyork.com/)
 * [Patterns Day](https://patternsday.com/)
 
-## Design Systems
-
-* [Hudl](https://uniform.hudl.com/)
-
 ## Artists & illustrators
 
 * [Planet Henderson](http://www.planethenderson.com/storyboards/#/spiderman4/)
@@ -131,8 +127,12 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 
 ## Design systems
 
+* [No Style Design System (Adam Silver)](http://nostyle.herokuapp.com/patterns)
+* [GOV.UK Design System](https://design-system.service.gov.uk/)
+* [NHS Digital service manual](https://service-manual.nhs.uk/)
 * [Braun design](http://www.dasprogramm.co.uk/shop/braun)
 * [IBM Design thinking](https://www.ibm.com/design/thinking/)
+* [Hudl](https://uniform.hudl.com/)
 
 ## Designers and developers
 
