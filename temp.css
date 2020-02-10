@@ -1,0 +1,229 @@
+ /* <link href="https://fonts.googleapis.com/css?family=Public+Sans&display=swap" rel="stylesheet"> */
+
+/*
+
+ulch main
+
+#007B85; // Jade green
+#ACDCD4; // Pale green
+
+ulch
+
+#00535E; // darkblue
+#B2A97E; // beige
+#A9C398; // green
+#B0BC22; // greygreen
+#C3B600; // sand
+#629080; // midforest
+
+nhs cool accent
+
+#00A94F; // green
+#7AC143; // bright green
+#00AFDB; // lightblue
+#0093D0; // midblue
+#00A94F; //  deepblue
+
+*/
+
+
+
+html {
+	font-family: 'Public Sans', sans-serif;
+}
+
+body {
+	font-weight: 16;
+	line-height: 1.375;
+	color: #000;
+	font-weight: 500;
+}
+
+
+h1 {
+	font-weight: 700;
+	font-size: 40;
+}
+
+h2 {
+	font-weight: 700;
+	font-size: 24px;
+}
+
+
+/* General styles */
+
+
+.warning-red {
+	color: #B2071C;
+	font-weight: 400;
+}
+
+/* Header */
+
+.pre-header {
+	background-color: #ACDCD4;
+	color: #007B85;
+}
+
+.header {
+	background: #fff;
+}
+
+.header-title {
+	font-size: 30px;
+}
+
+
+/* footer */
+
+footer {
+	background-color: #E8EDEE
+	color: #445563;
+}
+
+/* breadcrumb section */
+
+.breadcrumb-container {
+	background: #E8EDEE;
+}
+
+.breadcrumb-title {
+	font-size: 24px;
+	font-weight: 700px;
+}
+
+.breadcrumbs {
+	font-weight: 600;
+	color: #999999;
+	display: inline;
+}
+
+
+/* home page */
+
+.hero {
+	background: #197782;
+}
+
+.hero-header {
+	color: #fff;
+	font-size: 44px;
+	font-weight: 700;
+}
+
+.strapline {
+	font-weight: medium;
+	color: #9FD9CF;
+}
+
+.newrequestlist {
+	font-weight: 600;
+}
+
+.summary-stat {
+	font-weight: 600;
+}
+
+.summary-stat-value {
+	font-size: 60;
+	font-weight: 600;
+}
+
+
+
+/* search results */
+
+.results-list {
+	font-size: 19px;
+	font-weight: 600;
+}
+
+.result-heading {
+	font-weight: 29px;
+	font-weight: 700;
+}
+
+.position-code { /* position number etc */
+	font-weight: 600;
+	font-weight: 19px;
+	color: #8D8D8D;
+
+}
+.position-result-list {
+	font-weight: 19px;
+}
+
+.fieldset-nav {
+	font-size: 18px;
+}
+
+.fieldset-list-item {
+	border-bottom: 1px solid #dedede;
+}
+
+
+/* request complete */
+
+.request-complete-title {
+	font-size: 56;
+	line-height: 60;
+	color: #fff;
+	background: #007B85;
+}
+
+.request-complete-ref {
+	font-size: 36;
+	line-height: 44;
+	color: #007B85;
+	background: #ACDCD4;
+	font-weight: 400;
+}
+
+.number {
+	font-weight: 700;
+}
+
+
+/* tables */
+
+th {
+	font-weight: bold;
+	border-bottom: 2px solid #000;
+}
+
+tr {
+	border-bottom: 1px solid #d8d8d8;
+}
+
+
+/* forms */
+
+
+.button {
+	background:: #E8EDEE;
+	color: #fff;
+	font-weight: 600;
+}
+
+.button-secondary {
+	background:: #007B85;
+	color: #007B85;
+	font-weight: 500;
+}
+
+.fieldset-title, .table-title {
+	font-weight: 700;
+	font-size: 29px;
+}
+
+label {
+	font-size: 18px;
+}
+.info-text {
+	color: #969696;
+}
+
+.text-input {
+	border: 2px solid #212B32;
+}
