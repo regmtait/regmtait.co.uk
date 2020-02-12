@@ -22,6 +22,3 @@ excerpt: I like to play <a href="https://sites.google.com/site/broguegame/">Brog
 **However, I can only plan so far ahead.** The long term future is out of my control.
 
 **Do I even need to solve a problem?** Can I find a way round an obstacle, or avoid the entire task altogether?
-
-
-
