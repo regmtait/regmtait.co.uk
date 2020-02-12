@@ -15,6 +15,7 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 
 ## Writings
 
+* [BFI Cascade](https://www.itsnicethat.com/features/dblg-bfi-london-film-festival-brand-identity-graphic-design-021019)
 * [The Web's Grain](http://www.frankchimero.com/writing/the-webs-grain 'Frank Chimero')
 * [In defence of the deck](http://abovethecrowd.com/2015/07/07/in-defense-of-the-deck/)
 * [Forget Passion, follow Process](https://signalvnoise.com/posts/2904-forget-passion-focus-on-process '37 Signals')
@@ -93,6 +94,7 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [All Day Hey](https://leedsinternationalfestival.com/event/all-day-hey/)
 * [DotYork](https://dotyork.com/)
 * [Patterns Day](https://patternsday.com/)
+* [YGLF (You Gotta Love Frontend)](https://lithuania.yglfconf.com/)
 
 ## Design Systems
 
@@ -208,6 +210,12 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [Positioning (Jonathan Stark)](https://jonathanstark.com/xyps)
 * [CSS Variables for theming](https://codepen.io/ohansemmanuel/pen/xYKgwE)
 * [color-hex](https://www.color-hex.com/)
+* [Side Supply](https://sidesupply.com/our-mission)
+
+## Git
+
+* [Telling Stories Through Your Commits](https://blog.mocoso.co.uk/talks/2015/01/12/telling-stories-through-your-commits/)
+* [A Branch in Time](https://tekin.co.uk/2019/02/a-talk-about-revision-histories)
 
 ## Fun
 
