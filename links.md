@@ -129,6 +129,7 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 
 ## Design systems
 
+* [Design Principles](https://principles.design/)
 * [No Style Design System (Adam Silver)](http://nostyle.herokuapp.com/patterns)
 * [GOV.UK Design System](https://design-system.service.gov.uk/)
 * [NHS Digital service manual](https://service-manual.nhs.uk/)
@@ -183,6 +184,7 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 ## Resources
 
 * [SVG optimisation](http://petercollingridge.appspot.com/ 'Peter Colleridge')
+* [Content Design Readability Guielines](https://readabilityguidelines.co.uk/)
 * [HTML5 Accessibility](http://html5accessibility.com/)
 * [The Web, Worldwide](https://www.webworldwide.io)
 * [Static website services](https://github.com/agarrharr/awesome-static-website-services)
