@@ -181,10 +181,14 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [Sarah Drasner](https://sarah.dev/)
 * [Dixon & Moe](https://dixonandmoe.com/)
 
+## Content design and writing
+
+* [Content Design Readability Guielines](https://readabilityguidelines.co.uk/)
+* [Content design: planning, writing and managing content (GOV.UK)](https://www.gov.uk/guidance/content-design/)
+
 ## Resources
 
 * [SVG optimisation](http://petercollingridge.appspot.com/ 'Peter Colleridge')
-* [Content Design Readability Guielines](https://readabilityguidelines.co.uk/)
 * [HTML5 Accessibility](http://html5accessibility.com/)
 * [The Web, Worldwide](https://www.webworldwide.io)
 * [Static website services](https://github.com/agarrharr/awesome-static-website-services)
