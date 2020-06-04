@@ -180,6 +180,7 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [Ire Aderinokun](https://ireaderinokun.com/)
 * [Sarah Drasner](https://sarah.dev/)
 * [Dixon & Moe](https://dixonandmoe.com/)
+* [Frances Berriman](https://fberriman.com/)
 
 ## Content design and writing
 
