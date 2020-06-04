@@ -136,6 +136,7 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [Braun design](http://www.dasprogramm.co.uk/shop/braun)
 * [IBM Design thinking](https://www.ibm.com/design/thinking/)
 * [Hudl](https://uniform.hudl.com/)
+* [Spotify Design](https://spotify.design/)
 
 ## Designers and developers
 
