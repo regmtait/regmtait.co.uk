@@ -13,13 +13,13 @@ excerpt: User interfaces are an important part of any product because that’s t
 
 ---
 
-Good design increases possibility of a product’s success. The value of a product is making something that help end users work effectively. So first, we need to understand what the user needs to achieve to help set some goals. We want to reduce the number for steps required for a user to complete a task and make it as intuitive as possible.
+Good design increases possibility of a product’s success. The value of a product is making something that helps end users work effectively. So first, we need to understand what the user needs to achieve to help set some goals. We want to reduce the number of steps required for a user to complete a task and make it as intuitive as possible.
 
 The user’s experience is wider than the interface design. The designer needs to figure out the whole user journey, before and beyond the screen.
 
-Product designers need a multi-disciplinary mindset that enables them to work with engineers and their customer-focused colleagues. These individuals need empathy for the the end users, specialist skills to determine design solutions, and ways of testing them.
+Product designers need a multi-disciplinary mindset that enables them to work with engineers and their customer-focused colleagues. These individuals need empathy for the end users, specialist skills to determine design solutions, and ways of testing them.
 
-The designer handles both the interactive design elements plus the visual aspects, such typography, branding and layout. The designer will create product style guides. Modular components help reduce complexity and user cognitive load, as well as making any UI faster to develop and easier to maintain.
+The designer handles both the interactive design elements plus the visual aspects, such as typography, branding and layout. The designer will create product style guides. Modular components help reduce complexity and user cognitive load, as well as making any UI faster to develop and easier to maintain.
 
  > Overload, clutter and confusion are not attributes of information, they are failures of our design.
  > --Edward Tufte

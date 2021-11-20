@@ -11,9 +11,9 @@ bannerpic: none.png
 
 ---
 
-I want to work with you! If you reckon I'm a good fit for your project, then get in touch.
+~~I want to work with you! If you reckon I'm a good fit for your project, then get in touch.~~
 
-I'm available from <em>June 2019</em>.
+I'm not available for work right now — I'm employed full time. But you're very welcome to get in touch.
 
 Feel free to give me a ring on 07873 108676, or fire an email to me (address below).
 

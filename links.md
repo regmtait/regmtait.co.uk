@@ -129,12 +129,14 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 
 ## Design systems
 
+* [Design Principles](https://principles.design/)
 * [No Style Design System (Adam Silver)](http://nostyle.herokuapp.com/patterns)
 * [GOV.UK Design System](https://design-system.service.gov.uk/)
 * [NHS Digital service manual](https://service-manual.nhs.uk/)
 * [Braun design](http://www.dasprogramm.co.uk/shop/braun)
 * [IBM Design thinking](https://www.ibm.com/design/thinking/)
 * [Hudl](https://uniform.hudl.com/)
+* [Spotify Design](https://spotify.design/)
 
 ## Designers and developers
 
@@ -179,6 +181,12 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [Ire Aderinokun](https://ireaderinokun.com/)
 * [Sarah Drasner](https://sarah.dev/)
 * [Dixon & Moe](https://dixonandmoe.com/)
+* [Frances Berriman](https://fberriman.com/)
+
+## Content design and writing
+
+* [Content Design Readability Guielines](https://readabilityguidelines.co.uk/)
+* [Content design: planning, writing and managing content (GOV.UK)](https://www.gov.uk/guidance/content-design/)
 
 ## Resources
 
@@ -211,6 +219,8 @@ Just a list of some favourite [writings](#writings), [publishers](#publishers), 
 * [CSS Variables for theming](https://codepen.io/ohansemmanuel/pen/xYKgwE)
 * [color-hex](https://www.color-hex.com/)
 * [Side Supply](https://sidesupply.com/our-mission)
+* [unDraw](https://undraw.co/)
+* [Colour palette](https://learnui.design/tools/data-color-picker.html#palette)
 
 ## Git
 
