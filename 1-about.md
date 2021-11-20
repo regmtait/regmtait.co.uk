@@ -24,8 +24,6 @@ I aim to be flexible in my approach and strive to design and build according to 
 
 For the web, I’m keen to work closely with my clients at every stage of the design process, getting the concepts right before fine-tuning the design. I like to move from ‘flat’ visuals to a working prototype as early as possible, to understand how users interact with a design.
 
-I can help with setting up website hosting and domain registration, and all that geeky IT stuff.
-
 ## Who I work with
 
 I love to work with small companies, organisations, and individuals to provide bespoke websites. I can bring a project from initial concept, design and build.
