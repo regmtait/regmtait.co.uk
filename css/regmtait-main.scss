@@ -7,7 +7,7 @@
 // /Users/Reg/Dropbox/WORK/Reg Tait/regmtait website/WEBDEV/css updates plus sass
 
 $font-stack-mono: Andale Mono,AndaleMono,monospace;
-$font-bold: normal;
+$font-bold: 700;
 $theme-pink: #df2854;
 $border-colour: #cacaca;
 $html-bg: #a7a7a7;
@@ -23,15 +23,6 @@ $theme1: $theme-pink;
 
 // ------------------- basic typography ------------------- 
 
- @font-face {
-    font-family: Maison;
-    src: url(fonts/MaisonNeueWEB-Medium.woff);
-}
-
- @font-face {
-    font-family: MaisonBold;
-    src: url(fonts/MaisonNeueWEB-Bold.woff);
-}
 
 a, a:visited {
 	color: $text-colour;
@@ -48,7 +39,7 @@ h1 {
 	font-size: 1rem;
 	font-weight: $font-bold;
 	s {
-		font-family: Maison;
+		font-weight: normal;
 	}
 }
 
@@ -61,7 +52,6 @@ h2 {
 
 h3 {
 	font-size: 1rem;
-	font-weight: normal;
 }
 
 em {
@@ -117,7 +107,7 @@ html, button, select, textarea {
 html {
 	border: 1rem solid white;
 	background-color: $html-bg;
-	font-family: 'Maison', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	font-family: 'Rubik', -apple-system, sans-serif;
 }
 
 body {
@@ -129,8 +119,7 @@ body {
 }
 
 h1, h2, h3, h4 {
-	font-weight: normal;
-	font-family: 'MaisonBold', sans-serif;
+	font-weight: $font-bold;
 }
 
 section.content, section.babble, div.wrap {
@@ -156,7 +145,6 @@ header h1 span {
 	color: $text-lighter;
 	padding-left: 1en;
 	font-weight: normal;
-	font-family: 'Maison';
 }
 
 header h1 span.tagline:before {
@@ -800,9 +788,6 @@ section aside {
 	border-left: 1px solid #fff;
 	padding-left: 1rem;
 	padding-top: 0;	
-	}
-	h2 {
-		font-weight: normal;
 	}
 	section aside h2:before {
 	content: "[";
