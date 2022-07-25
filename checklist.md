@@ -15,7 +15,7 @@ exclude_from_nav: true
 
 * Ensure valid HTML and CSS 👍
 * Add an author to the meta tag
-* Add Favicon and Apple Touch icon
+* Add Favicon and touch icon
 
 ## Content
 
@@ -44,8 +44,8 @@ Add any 301 redirects for a new build. Be mindful of landing pages from other we
 
 Final check in all browsers...
 
-* Windows and macOS: Safari, Chrome, Firefox, IE, Edge
-* Handheld: iOS, Android
+* Windows and macOS: Safari, Chrome, Firefox, Edge
+* Handheld: iOS, Android. Phone and tablet.
 * Test all external and embedded scripts and functions
 
 ## CMS
@@ -60,21 +60,17 @@ Final check in all browsers...
 * Ensure users can create and modify content within all sections
 * Check file and image uploading
 
-### User guides
-
-* Include all relevant user accounts and passwords
-* Add any accounts to Google, Vimeo, Twitter etc. 
-
 ## Removal of test data
 
 * Remove any test data, files and images
+* Switch off any dev site
 * Remove any temporary development databases
 * Ensure that the website is not accessible from any other domain or subdomains
 * Ensure website works after the removal of files and databases
 * Check there are no broken links within the site (Run [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/))
 * Ensure that any blocks are removed from robots.txt / meta robots
 * Ensure that website can be accessed with and without ‘www’
-* Canonicalisation: Website file paths should redirect to the www versions
+* Canonicalisation: Website file paths should redirect to the correct version
 
 ## Analytics and Webmasters
 
@@ -89,3 +85,8 @@ Final check in all browsers...
 ## Backups
 
 Keep a nice tidy backup, with relevant files, visuals and assets. Provide a copy to the client if required.
+
+### User guides
+
+* Include all relevant user accounts and passwords
+* Add any accounts to Google, Vimeo, Twitter etc.
