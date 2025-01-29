@@ -26,7 +26,7 @@ layout: default
 
 </section>
 
-<!-- blog and twitter -->
+<!-- blog -->
 
 <section class="babble">
 
@@ -39,10 +39,5 @@ Blog entry <span class="date">{{ post.date | date: "%d.%m.%Y" }}</span>
 <p>{{post.excerpt | truncate: 500 }} [<a href="{{ post.url | prepend: site.baseurl }}" title="Read more: {{ post.title }}">…</a>]</p>
 {% endfor %}
 </article>
-
-<div class="twitter">
-<h2><a href="https://twitter.com/regmtait" title="Reg Tait, web designer and illustrator on Twitter">On Twitter&hellip;</a></h2>
-{% include twitter.html %}
-</div>
 
 </section>
