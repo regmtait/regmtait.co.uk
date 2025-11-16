@@ -6,7 +6,7 @@ nav-title: Projects
 nav-class: projects
 description: Web development and website design projects from Reg Tait, who offers services to companies, agencies and individuals.
 meta-title: Web and app design projects
-keywords: web design, app design, web development
+keywords: web design, app design, UI design, web development
 bannerpic: 
 
 ---

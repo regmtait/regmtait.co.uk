@@ -836,9 +836,7 @@ section.content, section.babble, div.wrap {
 	}
    
 	section.babble article.blog {
-	width: 31.5rem;
-	float: left;
-	width: 60%;
+	max-width: 46rem;
 	}
 	
 	div.twitter {
